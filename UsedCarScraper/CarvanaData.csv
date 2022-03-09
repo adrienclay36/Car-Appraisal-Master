@@ -1,0 +1,44 @@
+,year_make,model,mileage,details,Bluetooth,Backup Camera,Infotainment,Screen,Navigation,Hands Free Calling,Heated Seats,Power Seat Controls,Rear Air Vents,Bed Liner,Tow Hitch,4-Cyl,V6,V8,6-Cyl,city_mpg,highway_mpg,No Reported Accidents,price,url
+0,2020 Dodge,Charger,"26,939 miles",R/T,1,1,1,0,0,1,0,1,1,0,0,0,0,1,0,16 City,25 Hwy,1,"$38,990",https://www.carvana.com/vehicle/1921222
+1,2016 Lexus,NX,"30,099 miles",200t,1,1,1,0,0,1,0,1,1,0,0,1,0,0,0,22 City,28 Hwy,1,"$31,990",https://www.carvana.com/vehicle/2132108
+2,2017 Lexus,RX,"57,578 miles",RX 350,0,1,1,0,1,0,0,1,1,0,0,0,1,0,0,20 City,27 Hwy,1,"$37,590",https://www.carvana.com/vehicle/2091075
+3,2017 Buick,Enclave,"26,589 miles",Convenience,1,1,1,0,0,1,0,1,0,0,0,0,1,0,0,15 City,22 Hwy,1,"$29,590",https://www.carvana.com/vehicle/2098133
+4,2016 Lexus,ES,"41,292 miles",ES 350,1,1,1,0,1,0,0,1,1,0,0,0,1,0,0,21 City,31 Hwy,1,"$30,590",https://www.carvana.com/vehicle/2098136
+5,2020 Jeep,Cherokee,"34,954 miles",Altitude,1,1,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,1,"$28,990",https://www.carvana.com/vehicle/2132064
+6,2018 Ford,Edge,"20,287 miles",SE,1,1,1,0,0,1,0,0,1,0,0,1,0,0,0,21 City,29 Hwy,1,"$25,990",https://www.carvana.com/vehicle/2106402
+7,2018 Dodge,Challenger,"25,164 miles",T/A 392,0,1,1,0,1,1,1,1,0,0,0,0,0,1,0,15 City,25 Hwy,1,"$44,590",https://www.carvana.com/vehicle/2129088
+8,2015 Ford,F150 SuperCrew Cab,"48,930 miles",XLT 6 1/2 ft,0,1,1,0,0,1,1,1,1,0,0,0,1,0,0,19 City,26 Hwy,1,"$34,590",https://www.carvana.com/vehicle/2064121
+9,2014 Jeep,Wrangler,"97,476 miles",Unlimited Sahara,1,1,1,0,0,1,0,0,0,0,1,0,1,0,0,16 City,20 Hwy,1,"$30,990",https://www.carvana.com/vehicle/2106398
+10,2018 Mercedes-Benz,Mercedes-AMG C-Class,"7,453 miles",C 43 AMG,1,1,1,0,1,1,0,1,0,0,0,0,1,0,0,20 City,27 Hwy,1,"$55,590",https://www.carvana.com/vehicle/2139407
+11,2016 INFINITI,Q50,"30,707 miles",3.0t Premium,0,1,1,0,1,1,1,1,1,0,0,0,1,0,0,19 City,28 Hwy,1,"$29,990",https://www.carvana.com/vehicle/2106393
+12,2019 Ford,Edge,"32,409 miles",SE,1,1,0,0,0,1,0,0,1,0,0,1,0,0,0,21 City,28 Hwy,1,"$26,590",https://www.carvana.com/vehicle/2053819
+13,2020 Nissan,Pathfinder,"50,630 miles",SV,1,1,1,0,0,1,0,1,0,0,0,0,1,0,0,20 City,27 Hwy,1,"$28,590",https://www.carvana.com/vehicle/2053814
+14,2021 GMC,Acadia,"21,404 miles",SLE,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,21 City,27 Hwy,1,"$38,990",https://www.carvana.com/vehicle/2087851
+15,2021 Chevrolet,TrailBlazer,"16,752 miles",LS,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,28 City,31 Hwy,1,"$28,990",https://www.carvana.com/vehicle/2106417
+16,2017 Jeep,Wrangler,"61,140 miles",Sahara,1,0,1,0,0,1,1,0,0,0,0,0,1,0,0,17 City,21 Hwy,1,"$33,990",https://www.carvana.com/vehicle/2139361
+17,2021 Chevrolet,Equinox,"16,768 miles",LS,1,1,1,0,0,1,0,0,1,0,0,1,0,0,0,26 City,31 Hwy,1,"$28,990",https://www.carvana.com/vehicle/2139363
+18,2020 Tesla,Model 3,"5,326 miles",Standard Range Plus,1,1,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,1,"$51,590",https://www.carvana.com/vehicle/1879896
+19,2021 Ford,Bronco Sport,"1,782 miles",base,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,25 City,28 Hwy,1,"$36,990",https://www.carvana.com/vehicle/2132282
+20,2019 Ford,Edge,"35,211 miles",SE,1,1,0,1,0,1,0,0,1,0,0,1,0,0,0,22 City,29 Hwy,1,"$27,990",https://www.carvana.com/vehicle/2158947
+21,2014 Ford,Focus ST,"47,170 miles",base,1,0,1,0,1,1,0,1,0,0,0,1,0,0,0,23 City,32 Hwy,1,"$22,990",https://www.carvana.com/vehicle/2124084
+22,2016 Chevrolet,Equinox,"91,374 miles",LT,1,1,0,1,1,1,1,1,0,0,0,1,0,0,0,22 City,32 Hwy,1,"$17,990",https://www.carvana.com/vehicle/2124085
+23,2017 Honda,Accord,"44,967 miles",EX-L,1,1,0,1,0,1,1,1,0,0,0,1,0,0,0,0,0,1,"$24,990",https://www.carvana.com/vehicle/2116761
+24,2011 Audi,A5,"67,036 miles",2.0T Quattro Premium,1,0,0,1,0,1,0,1,0,0,0,1,0,0,0,21 City,29 Hwy,1,"$17,990",https://www.carvana.com/vehicle/2019722
+25,2018 Toyota,Highlander,"25,708 miles",XLE,0,1,1,0,0,1,1,1,0,0,0,0,1,0,0,19 City,26 Hwy,1,"$38,590",https://www.carvana.com/vehicle/2075519
+26,2020 Mercedes-Benz,GLB,"26,361 miles",GLB 250,1,1,0,1,0,1,0,0,1,0,0,1,0,0,0,23 City,30 Hwy,1,"$43,990",https://www.carvana.com/vehicle/2083765
+27,2015 Chevrolet,Impala,"83,675 miles",LS,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,22 City,31 Hwy,1,"$16,590",https://www.carvana.com/vehicle/2021898
+28,2015 FIAT,500,"69,575 miles",Pop,1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,31 City,40 Hwy,1,"$12,990",https://www.carvana.com/vehicle/2159037
+29,2017 Jeep,Patriot,"22,429 miles",High Altitude Edition,1,1,1,0,0,1,1,1,0,0,0,1,0,0,0,0,0,1,"$22,990",https://www.carvana.com/vehicle/2161217
+30,2015 Chrysler,Town & Country,"77,615 miles",Touring-L,0,1,1,1,0,0,0,1,0,0,0,0,1,0,0,17 City,25 Hwy,1,"$20,990",https://www.carvana.com/vehicle/2159007
+31,2015 Nissan,LEAF,"42,480 miles",S,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,"$14,990",https://www.carvana.com/vehicle/2083754
+32,2018 Lexus,RX,"38,799 miles",RX 450h F Sport,1,1,1,0,1,0,0,1,1,0,0,0,1,0,0,31 City,28 Hwy,1,"$47,990",https://www.carvana.com/vehicle/2151679
+33,2020 MINI,Hardtop 2 Door,"4,676 miles",Cooper S,1,1,0,0,1,0,1,0,0,0,0,1,0,0,0,26 City,35 Hwy,1,"$29,590",https://www.carvana.com/vehicle/1810268
+34,2015 BMW,i3,"30,135 miles",Range Extender,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,"$19,990",https://www.carvana.com/vehicle/1878168
+35,2016 Toyota,Camry,"49,898 miles",SE,1,1,1,0,0,1,0,1,0,0,0,1,0,0,0,25 City,35 Hwy,1,"$19,990",https://www.carvana.com/vehicle/2090008
+36,2017 Mitsubishi,Lancer,"53,030 miles",LE,1,1,0,1,0,1,0,0,0,0,0,1,0,0,0,27 City,34 Hwy,1,"$18,590",https://www.carvana.com/vehicle/2097325
+37,2015 Buick,Encore,"84,595 miles",Leather,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,23 City,30 Hwy,1,"$17,990",https://www.carvana.com/vehicle/2158958
+38,2017 MINI,Hardtop 4 Door,"37,247 miles",Cooper,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,27 City,36 Hwy,1,"$21,990",https://www.carvana.com/vehicle/2161145
+39,2014 Subaru,Forester,"39,887 miles",2.5i Premium,1,0,1,0,0,1,1,1,0,0,0,1,0,0,0,24 City,32 Hwy,1,"$22,990",https://www.carvana.com/vehicle/2158170
+40,2018 Buick,Envision,"40,683 miles",Preferred,1,1,1,0,0,0,1,1,1,0,0,1,0,0,0,22 City,29 Hwy,1,"$26,990",https://www.carvana.com/vehicle/2097299
+41,2017 Honda,Civic,"58,421 miles",EX,1,1,1,0,0,1,1,0,0,0,0,1,0,0,0,31 City,40 Hwy,1,"$23,990",https://www.carvana.com/vehicle/2158163
+42,2021 Hyundai,Venue,"2,096 miles",SEL,1,1,1,0,1,0,1,0,0,0,0,1,0,0,0,30 City,33 Hwy,1,"$25,990",https://www.carvana.com/vehicle/2124261

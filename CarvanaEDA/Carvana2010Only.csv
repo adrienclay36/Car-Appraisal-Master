@@ -1,0 +1,501 @@
+,year_make,model,details,mileage,Bluetooth,Backup Camera,Infotainment,Screen,Navigation,Hands Free Calling,Heated Seats,Power Seat Controls,Rear Air Vents,Bed Liner,Tow Hitch,4-Cyl,3-Cyl,V6,V8,6-Cyl,city_mpg,highway_mpg,No Reported Accidents,price,url
+0,2010 Chevrolet,Camaro,SS,"51,279 miles",1,0,1,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,1,"$24,990 ",https://www.carvana.com/vehicle/2044347
+1,2010 BMW,3 Series,328i,"60,094 miles",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,18 City,27 Hwy,1,"$19,590 ",https://www.carvana.com/vehicle/1982293
+2,2010 Ford,Mustang,GT Premium,"46,761 miles",1,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2129115
+3,2010 Lexus,IS,IS 250 Sport,"91,315 miles",1,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0,21 City,29 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2161510
+4,2010 Chevrolet,Camaro,SS,"54,773 miles",1,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$25,990 ",https://www.carvana.com/vehicle/2087430
+5,2010 Dodge,Challenger,SRT8,"31,807 miles",1,0,1,0,1,1,1,1,0,0,0,0,0,0,1,0,13 City,19 Hwy,1,"$31,990 ",https://www.carvana.com/vehicle/2105260
+6,2010 Cadillac,SRX,base,"78,684 miles",1,0,1,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,1,"$15,990 ",https://www.carvana.com/vehicle/2132403
+7,2010 Dodge,Challenger,R/T,"22,281 miles",1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$28,990 ",https://www.carvana.com/vehicle/2095988
+8,2010 Ford,Mustang,Shelby GT500,"27,955 miles",1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,14 City,22 Hwy,1,"$42,590 ",https://www.carvana.com/vehicle/2038499
+9,2010 Acura,TSX,base,"96,175 miles",1,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,21 City,30 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2171295
+10,2010 Chevrolet,Camaro,SS,"34,844 miles",1,0,1,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,1,"$28,590 ",https://www.carvana.com/vehicle/2142355
+11,2010 Mercedes-Benz,SLK-Class,SLK 300,"62,967 miles",1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,19 City,26 Hwy,1,"$21,590 ",https://www.carvana.com/vehicle/1941535
+12,2010 Chevrolet,Camaro,SS,"33,585 miles",0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$28,590 ",https://www.carvana.com/vehicle/2104590
+13,2010 BMW,3 Series,328i,"79,571 miles",1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,18 City,27 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2008219
+14,2010 Buick,LaCrosse,CXL,"60,799 miles",1,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0,16 City,25 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2079684
+15,2010 Ford,Mustang,Shelby GT500,"19,606 miles",1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,14 City,22 Hwy,1,"$47,990 ",https://www.carvana.com/vehicle/2056701
+16,2010 Ford,Taurus,Limited,"40,558 miles",1,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,1,"$16,590 ",https://www.carvana.com/vehicle/2055732
+17,2010 BMW,Z4,sDrive35i,"81,265 miles",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,17 City,24 Hwy,1,"$25,990 ",https://www.carvana.com/vehicle/2168234
+18,2010 Chevrolet,Camaro,SS,"61,536 miles",1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$26,590 ",https://www.carvana.com/vehicle/2150920
+19,2010 Toyota,RAV4,base,"94,806 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,22 City,28 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2126252
+20,2010 Jaguar,XK,XK,"57,903 miles",0,0,1,0,1,0,1,1,0,0,0,0,0,0,1,0,16 City,22 Hwy,1,"$29,990 ",https://www.carvana.com/vehicle/2108366
+21,2010 Chevrolet,Camaro,SS,"61,536 miles",1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$26,590 ",https://www.carvana.com/vehicle/2150920
+22,2010 Lexus,ES,ES 350,"73,929 miles",0,1,1,0,1,1,0,1,1,0,0,0,0,1,0,0,19 City,27 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2090534
+23,2010 Mercedes-Benz,E-Class,E 350 4MATIC,"82,586 miles",0,1,0,0,1,1,1,0,1,0,0,0,0,1,0,0,17 City,24 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2015501
+24,2010 Chevrolet,Camaro,SS,"9,336 miles",1,0,1,0,0,1,1,1,0,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$29,990 ",https://www.carvana.com/vehicle/2118290
+25,2010 Chevrolet,Camaro,SS,"11,938 miles",1,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,"$31,990 ",https://www.carvana.com/vehicle/2164577
+26,2010 Honda,Accord,EX-L,"74,914 miles",1,0,1,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,1,"$16,990 ",https://www.carvana.com/vehicle/2168062
+27,2010 Nissan,370Z,Touring,"65,792 miles",1,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/1997194
+28,2010 Dodge,Challenger,SRT8,"42,200 miles",1,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0,13 City,19 Hwy,1,"$30,590 ",https://www.carvana.com/vehicle/2036668
+29,2010 Ford,Taurus,Limited,"40,558 miles",1,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,1,"$16,590 ",https://www.carvana.com/vehicle/2055732
+30,2010 Toyota,Camry,LE,"72,123 miles",0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,22 City,32 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2159969
+31,2010 Mazda,MX-5 Miata,Grand Touring,"28,181 miles",0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2171688
+32,2010 Lexus,IS,IS 250 Sport,"44,356 miles",1,1,0,1,1,1,0,1,0,0,0,0,0,1,0,0,21 City,29 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2076491
+33,2010 Mazda,MX-5 Miata,Touring,"51,042 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2064719
+34,2010 Chevrolet,Corvette,base,"87,700 miles",1,1,1,1,0,1,0,0,0,0,0,0,0,0,1,0,15 City,25 Hwy,1,"$29,590 ",https://www.carvana.com/vehicle/2116143
+35,2010 Hyundai,Tucson,GLS,"63,549 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,22 City,30 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2074572
+36,2010 Nissan,370Z,Touring,"13,450 miles",1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$27,990 ",https://www.carvana.com/vehicle/2143632
+37,2010 Ford,Mustang,Shelby GT500,"27,955 miles",1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,14 City,22 Hwy,1,"$42,590 ",https://www.carvana.com/vehicle/2038499
+38,2010 Chevrolet,Camaro,SS,"10,025 miles",1,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$28,990 ",https://www.carvana.com/vehicle/2094344
+39,2010 Chevrolet,Camaro,SS,"61,747 miles",1,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$25,990 ",https://www.carvana.com/vehicle/2096341
+40,2010 Chevrolet,Camaro,SS,"9,336 miles",1,0,1,0,0,1,1,1,0,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$29,990 ",https://www.carvana.com/vehicle/2118290
+41,2010 Audi,S6,Quattro Prestige,"73,449 miles",0,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0,14 City,19 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2146086
+42,2010 Mazda,MX-5 Miata,Grand Touring,"22,358 miles",1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$22,590 ",https://www.carvana.com/vehicle/2061799
+43,2010 Toyota,RAV4,base,"94,806 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,22 City,28 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2126252
+44,2010 Chevrolet,Camaro,LT,"20,075 miles",1,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0,17 City,29 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2177222
+45,2010 Chevrolet,Corvette,base,"33,587 miles",0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,16 City,26 Hwy,1,"$35,990 ",https://www.carvana.com/vehicle/2112327
+46,2010 Dodge,Challenger,SRT8,"49,189 miles",0,0,1,0,0,0,1,1,0,0,0,0,0,0,1,0,13 City,19 Hwy,1,"$30,990 ",https://www.carvana.com/vehicle/2028246
+47,2010 Nissan,370Z,base,"35,020 miles",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,19 City,26 Hwy,1,"$25,590 ",https://www.carvana.com/vehicle/2098413
+48,2010 Nissan,370Z,Touring,"52,428 miles",1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2146212
+49,2010 Honda,Accord,LX-P,"59,824 miles",0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,21 City,31 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2082681
+50,2010 Toyota,RAV4,base,"84,560 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,"$16,990 ",https://www.carvana.com/vehicle/2055025
+51,2010 Audi,A4,2.0T Quattro Premium,"71,633 miles",1,0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,21 City,27 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2122310
+52,2010 Ford,Mustang,Shelby GT500,"27,955 miles",1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,14 City,22 Hwy,1,"$42,590 ",https://www.carvana.com/vehicle/2038499
+53,2010 Lexus,HS,HS 250h,"95,881 miles",1,1,1,0,1,1,0,1,1,0,0,1,0,0,0,0,35 City,34 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2139142
+54,2010 Ford,Mustang,Shelby GT500,"19,606 miles",1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,14 City,22 Hwy,1,"$47,990 ",https://www.carvana.com/vehicle/2056701
+55,2010 BMW,Z4,sDrive30i,"36,640 miles",1,0,1,0,1,1,1,1,0,0,0,0,0,0,0,1,18 City,28 Hwy,1,"$27,590 ",https://www.carvana.com/vehicle/2135570
+56,2010 Mazda,MX-5 Miata,Sport,"50,334 miles",1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,22 City,28 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2161269
+57,2010 Lexus,IS,IS 250 Sport,"51,641 miles",1,1,0,0,1,1,0,0,1,0,0,0,0,1,0,0,18 City,26 Hwy,1,"$22,990 ",https://www.carvana.com/vehicle/1960249
+58,2010 Toyota,Prius,II,"81,840 miles",1,1,0,1,1,1,0,0,0,0,0,1,0,0,0,0,51 City,48 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2113110
+59,2010 Lexus,GS,GS 350,"72,355 miles",1,1,1,0,1,0,0,1,1,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2127501
+60,2010 Ford,Explorer Sport Trac,XLT Pickup,"80,045 miles",1,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,14 City,20 Hwy,1,"$18,590 ",https://www.carvana.com/vehicle/2091637
+61,2010 Chevrolet,Camaro,SS,"9,336 miles",1,0,1,0,0,1,1,1,0,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$29,990 ",https://www.carvana.com/vehicle/2118290
+62,2010 Lexus,HS,HS 250h,"95,881 miles",1,1,1,0,1,1,0,1,1,0,0,1,0,0,0,0,35 City,34 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2139142
+63,2010 Lexus,RX,RX 350,"83,918 miles",1,1,0,0,1,1,0,1,1,0,0,0,0,1,0,0,18 City,24 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2090026
+64,2010 Ford,Mustang,GT Premium,"82,393 miles",1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2086855
+65,2010 Nissan,370Z,Touring,"80,019 miles",1,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/1931786
+66,2010 Honda,Fit,Sport,"68,132 miles",0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,27 City,33 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2126298
+67,2010 Toyota,Corolla,S,"89,768 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/1668692
+68,2010 Acura,TSX,base,"28,166 miles",1,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,21 City,30 Hwy,1,"$19,590 ",https://www.carvana.com/vehicle/2092682
+69,2010 Acura,TSX,base,"74,522 miles",1,1,0,0,0,1,1,1,0,0,0,1,0,0,0,0,21 City,30 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2089760
+70,2010 Lexus,ES,ES 350,"44,207 miles",1,0,1,0,0,1,1,1,1,0,0,0,0,1,0,0,19 City,27 Hwy,1,"$20,590 ",https://www.carvana.com/vehicle/2071145
+71,2010 Ford,Mustang,Premium,"39,827 miles",1,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,16 City,24 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2172750
+72,2010 Ford,Mustang,Shelby GT500,"27,955 miles",1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,14 City,22 Hwy,1,"$42,590 ",https://www.carvana.com/vehicle/2038499
+73,2010 Mazda,MX-5 Miata,Grand Touring,"36,650 miles",1,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2144431
+74,2010 Toyota,Tacoma Access Cab,PreRunner 6 ft,"59,277 miles",1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,20 City,26 Hwy,1,"$22,990 ",https://www.carvana.com/vehicle/2054325
+75,2010 Honda,CR-V,EX-L,"83,375 miles",0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,21 City,27 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2132107
+76,2010 Lexus,RX,RX 350,"96,305 miles",1,1,1,0,1,1,1,1,1,0,0,0,0,1,0,0,18 City,24 Hwy,1,"$20,590 ",https://www.carvana.com/vehicle/2174442
+77,2010 Buick,LaCrosse,CXL,"43,541 miles",1,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0,17 City,26 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2099665
+78,2010 Nissan,370Z,Touring,"22,894 miles",1,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$27,590 ",https://www.carvana.com/vehicle/2142993
+79,2010 Cadillac,CTS,Sport,"54,620 miles",1,0,0,0,1,1,0,1,1,0,0,0,0,1,0,0,18 City,27 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2102561
+80,2010 Nissan,370Z,Touring,"22,894 miles",1,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$27,590 ",https://www.carvana.com/vehicle/2142993
+81,2010 Lexus,RX,RX 350,"42,644 miles",1,1,1,0,0,1,1,1,0,0,0,0,0,1,0,0,18 City,24 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2159291
+82,2010 Toyota,Camry,LE,"80,450 miles",0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,22 City,32 Hwy,1,"$15,590 ",https://www.carvana.com/vehicle/2070937
+83,2010 Chevrolet,Corvette,base,"21,526 miles",1,0,1,0,1,1,1,0,0,0,0,0,0,0,1,0,15 City,25 Hwy,1,"$35,990 ",https://www.carvana.com/vehicle/2079618
+84,2010 Toyota,Corolla,LE,"54,141 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/1903715
+85,2010 Ford,Edge,SEL,"76,582 miles",1,0,1,0,0,1,0,1,1,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/1888105
+86,2010 Nissan,370Z,base,"39,704 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,18 City,26 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/1918319
+87,2010 Ford,Taurus,SEL,"56,826 miles",1,0,1,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,1,"$15,990 ",https://www.carvana.com/vehicle/2139247
+88,2010 Toyota,Prius,III,"56,099 miles",1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,51 City,48 Hwy,1,"$18,590 ",https://www.carvana.com/vehicle/2034417
+89,2010 Toyota,Prius,III,"61,966 miles",1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,51 City,48 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2034415
+90,2010 BMW,Z4,sDrive30i,"36,640 miles",1,0,1,0,1,1,1,1,0,0,0,0,0,0,0,1,18 City,28 Hwy,1,"$27,590 ",https://www.carvana.com/vehicle/2135570
+91,2010 Nissan,370Z,base,"4,791 miles",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,18 City,26 Hwy,1,"$29,990 ",https://www.carvana.com/vehicle/2111411
+92,2010 Nissan,370Z,base,"20,764 miles",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,19 City,26 Hwy,1,"$27,990 ",https://www.carvana.com/vehicle/2150272
+93,2010 Toyota,Camry,LE,"74,781 miles",0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,22 City,32 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2064937
+94,2010 Chevrolet,Corvette,base,"30,522 miles",1,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0,15 City,25 Hwy,1,"$38,990 ",https://www.carvana.com/vehicle/2089417
+95,2010 Chevrolet,Camaro,SS,"19,881 miles",0,0,1,0,1,1,1,1,0,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$30,590 ",https://www.carvana.com/vehicle/2148891
+96,2010 Ford,Mustang,Shelby GT500,"35,629 miles",1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,14 City,22 Hwy,1,"$39,990 ",https://www.carvana.com/vehicle/2023990
+97,2010 Mazda,MX-5 Miata,Touring,"29,845 miles",1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$22,590 ",https://www.carvana.com/vehicle/1940599
+98,2010 Toyota,Corolla,LE,"62,396 miles",0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2138722
+99,2010 Jeep,Wrangler,Sport,"20,255 miles",1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,15 City,19 Hwy,1,"$26,990 ",https://www.carvana.com/vehicle/2141642
+100,2010 Mazda,MX-5 Miata,Touring,"29,845 miles",1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$22,590 ",https://www.carvana.com/vehicle/1940599
+101,2010 Nissan,Altima,2.5,"42,072 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,23 City,32 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2041412
+102,2010 Chevrolet,Camaro,SS,"9,011 miles",1,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$29,990 ",https://www.carvana.com/vehicle/2088135
+103,2010 Ford,Mustang,Shelby GT500,"28,882 miles",1,0,1,0,1,1,0,1,0,0,0,0,0,0,1,0,14 City,22 Hwy,1,"$45,590 ",https://www.carvana.com/vehicle/2029193
+104,2010 Toyota,Prius,II,"72,405 miles",0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,51 City,48 Hwy,1,"$17,590 ",https://www.carvana.com/vehicle/2122592
+105,2010 Hyundai,Sonata,SE,"72,448 miles",1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,22 City,32 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2050550
+106,2010 Chevrolet,Corvette,Grand Sport,"17,219 miles",1,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,15 City,25 Hwy,1,"$45,990 ",https://www.carvana.com/vehicle/2172260
+107,2010 Honda,CR-V,EX-L,"78,896 miles",0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,21 City,27 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2168572
+108,2010 Subaru,Forester,2.5X Premium,"86,241 miles",0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,20 City,26 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2150616
+109,2010 Honda,CR-V,LX,"60,030 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,27 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2143741
+110,2010 Honda,CR-V,EX,"79,256 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,27 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2138914
+111,2010 Ford,Fusion,SEL,"62,133 miles",1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,"$14,590 ",https://www.carvana.com/vehicle/1968167
+112,2010 Kia,Soul,+,"50,009 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,24 City,30 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2019191
+113,2010 Audi,A5,2.0T Quattro Premium,"53,845 miles",1,1,0,0,1,1,1,1,0,0,0,1,0,0,0,0,20 City,26 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/1805378
+114,2010 Chevrolet,Camaro,SS,"77,085 miles",1,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$23,590 ",https://www.carvana.com/vehicle/1908512
+115,2010 Mercedes-Benz,GLK-Class,GLK 350,"95,168 miles",1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,16 City,22 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2130280
+116,2010 Chevrolet,Camaro,SS,"67,956 miles",1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2023435
+117,2010 Dodge,Challenger,SE,"17,307 miles",1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,17 City,25 Hwy,1,"$21,590 ",https://www.carvana.com/vehicle/2074620
+118,2010 Jaguar,XK,XK,"25,335 miles",1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$28,990 ",https://www.carvana.com/vehicle/2077054
+119,2010 Ford,Mustang,GT Premium,"54,606 miles",1,0,1,0,0,1,1,1,0,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2132478
+120,2010 Jaguar,XK,XK,"25,335 miles",1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$28,990 ",https://www.carvana.com/vehicle/2077054
+121,2010 Ford,Mustang,Premium,"77,546 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,16 City,24 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/1938210
+122,2010 Lexus,IS,IS 350 Sport,"49,431 miles",1,1,1,0,1,1,0,1,1,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$26,590 ",https://www.carvana.com/vehicle/2084694
+123,2010 Mercedes-Benz,C-Class,C 300 Sport,"72,358 miles",1,0,0,1,0,1,1,0,1,0,0,0,0,1,0,0,18 City,26 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2093178
+124,2010 Mercedes-Benz,C-Class,C 300 Luxury,"53,042 miles",1,0,1,0,0,1,1,1,1,0,0,0,0,1,0,0,18 City,26 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2142943
+125,2010 Mazda,MX-5 Miata,Grand Touring,"63,315 miles",1,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$19,590 ",https://www.carvana.com/vehicle/2024445
+126,2010 Lexus,IS,IS 250 Sport,"96,576 miles",1,1,1,0,1,0,0,1,1,0,0,0,0,1,0,0,21 City,29 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/1843795
+127,2010 Chevrolet,Camaro,SS,"40,859 miles",1,0,1,0,0,1,1,1,0,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$25,990 ",https://www.carvana.com/vehicle/2049350
+128,2010 Lexus,IS,IS 250 Sport,"24,378 miles",1,1,1,0,1,0,0,1,0,0,0,0,0,1,0,0,21 City,29 Hwy,1,"$28,990 ",https://www.carvana.com/vehicle/2167229
+129,2010 Cadillac,SRX,base,"64,620 miles",1,1,1,0,1,1,1,0,1,0,0,0,0,1,0,0,0,0,1,"$16,990 ",https://www.carvana.com/vehicle/1781901
+130,2010 Chevrolet,Camaro,SS,"34,532 miles",0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$27,590 ",https://www.carvana.com/vehicle/2048978
+131,2010 Mercedes-Benz,E-Class,E 350,"66,057 miles",0,1,1,0,1,0,1,1,1,0,0,0,0,1,0,0,18 City,26 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2139435
+132,2010 Lexus,ES,ES 350,"76,578 miles",1,0,1,0,0,1,0,1,1,0,0,0,0,1,0,0,19 City,27 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2070345
+133,2010 Ford,Mustang,GT Premium,"51,250 miles",1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,17 City,23 Hwy,1,"$22,990 ",https://www.carvana.com/vehicle/1892247
+134,2010 Honda,Accord,LX,"69,098 miles",0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,21 City,31 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2058581
+135,2010 Chevrolet,Camaro,SS,"16,020 miles",1,0,1,0,0,1,1,1,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$29,590 ",https://www.carvana.com/vehicle/2013211
+136,2010 Chevrolet,Camaro,SS,"26,107 miles",1,0,1,0,0,1,1,1,0,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$29,590 ",https://www.carvana.com/vehicle/2088904
+137,2010 Mercedes-Benz,E-Class,E 350 4MATIC,"47,623 miles",1,1,1,0,1,1,1,0,0,0,0,0,0,1,0,0,17 City,24 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2067572
+138,2010 Mercedes-Benz,C-Class,C 300 4MATIC Sport,"72,880 miles",1,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2006570
+139,2010 Lexus,RX,RX 350,"60,199 miles",1,1,1,0,0,0,1,1,1,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$22,990 ",https://www.carvana.com/vehicle/2145258
+140,2010 Mercedes-Benz,E-Class,E 550,"58,750 miles",1,1,0,0,1,1,1,0,1,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2057978
+141,2010 Chevrolet,Camaro,SS,"16,020 miles",1,0,1,0,0,1,1,1,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$29,590 ",https://www.carvana.com/vehicle/2013211
+142,2010 Lexus,RX,RX 350,"60,199 miles",1,1,1,0,0,0,1,1,1,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$22,990 ",https://www.carvana.com/vehicle/2145258
+143,2010 Chevrolet,Camaro,SS,"26,107 miles",1,0,1,0,0,1,1,1,0,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$29,590 ",https://www.carvana.com/vehicle/2088904
+144,2010 Ford,Mustang,GT Premium,"51,250 miles",1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,17 City,23 Hwy,1,"$22,990 ",https://www.carvana.com/vehicle/1892247
+145,2010 Toyota,Tacoma Access Cab,6 ft,"50,795 miles",1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,"$22,990 ",https://www.carvana.com/vehicle/2032043
+146,2010 Acura,TSX,base,"77,348 miles",1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,21 City,30 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2030685
+147,2010 Nissan,370Z,Touring,"12,980 miles",1,0,1,0,1,1,1,0,0,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$29,990 ",https://www.carvana.com/vehicle/2109950
+148,2010 Jeep,Wrangler,Rubicon,"84,082 miles",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,15 City,19 Hwy,1,"$25,990 ",https://www.carvana.com/vehicle/2102024
+149,2010 Jeep,Wrangler,Unlimited Sport,"83,255 miles",1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,15 City,19 Hwy,1,"$25,590 ",https://www.carvana.com/vehicle/2160901
+150,2010 Mazda,MX-5 Miata,Sport,"48,789 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,22 City,28 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/1943029
+151,2010 Acura,TL,base,"103,288 miles",1,1,1,0,1,1,1,1,1,0,0,0,0,1,0,0,18 City,26 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/1753523
+152,2010 Nissan,Frontier Crew Cab,SE 5 ft,"90,561 miles",0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,15 City,20 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2123357
+153,2010 Honda,Accord Crosstour,EX-L,"73,933 miles",1,1,1,0,1,1,0,1,1,0,0,0,0,1,0,0,17 City,25 Hwy,1,"$18,590 ",https://www.carvana.com/vehicle/1961547
+154,2010 Chevrolet,Equinox,LTZ,"68,572 miles",1,1,1,0,0,1,1,1,0,0,0,0,0,1,0,0,17 City,25 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/2103175
+155,2010 Toyota,Prius,II,"81,845 miles",1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,51 City,48 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2088942
+156,2010 Honda,CR-V,EX-L,"62,286 miles",1,1,1,0,1,1,1,1,0,0,0,1,0,0,0,0,21 City,27 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/1853835
+157,2010 Toyota,Prius,II,"58,777 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,51 City,48 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2076702
+158,2010 Toyota,Prius,III,"90,752 miles",1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,51 City,48 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/1894030
+159,2010 Toyota,Prius,II,"80,110 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,51 City,48 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2139348
+160,2010 Chevrolet,Equinox,LTZ,"68,572 miles",1,1,1,0,0,1,1,1,0,0,0,0,0,1,0,0,17 City,25 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/2103175
+161,2010 Toyota,Highlander,base,"62,861 miles",0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,1,"$18,990 ",https://www.carvana.com/vehicle/1812724
+162,2010 Toyota,Corolla,LE,"82,115 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/1720990
+163,2010 Ford,Edge,Limited,"91,127 miles",1,0,0,0,1,1,1,1,1,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/1868732
+164,2010 Honda,Civic,LX,"68,495 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,25 City,36 Hwy,1,"$12,990 ",https://www.carvana.com/vehicle/1860137
+165,2010 Hyundai,Elantra,GLS,"83,845 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$11,990 ",https://www.carvana.com/vehicle/1858110
+166,2010 Porsche,Boxster,S,"30,676 miles",1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,19 City,26 Hwy,1,"$45,990 ",https://www.carvana.com/vehicle/2021401
+167,2010 BMW,1 Series,135i,"76,482 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,18 City,25 Hwy,1,"$19,590 ",https://www.carvana.com/vehicle/2117322
+168,2010 Chevrolet,Camaro,SS,"73,110 miles",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2109625
+169,2010 Chevrolet,Camaro,LT,"62,711 miles",1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,18 City,29 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2169081
+170,2010 Chevrolet,Camaro,LT,"74,789 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,29 Hwy,1,"$18,590 ",https://www.carvana.com/vehicle/2161296
+171,2010 BMW,3 Series,328i,"71,132 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,18 City,27 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2095158
+172,2010 Audi,A5,2.0T Quattro Premium,"36,678 miles",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,20 City,26 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2160801
+173,2010 Chevrolet,Colorado Crew Cab,LT 5 ft,"82,430 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,14 City,19 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2178236
+174,2010 Mercedes-Benz,C-Class,C 300 Sport,"84,284 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,26 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/1934748
+175,2010 Mercedes-Benz,C-Class,C 300 Sport,"95,054 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,26 Hwy,1,"$15,590 ",https://www.carvana.com/vehicle/2170756
+176,2010 Lexus,IS,IS 250 Sport,"91,185 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,21 City,29 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2178875
+177,2010 BMW,3 Series,328i,"61,065 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,18 City,28 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2146194
+178,2010 Chevrolet,Camaro,LT,"59,582 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,18 City,29 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2018906
+179,2010 Chevrolet,Camaro,SS,"70,888 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,"$24,990 ",https://www.carvana.com/vehicle/2141791
+180,2010 Mercedes-Benz,E-Class,E 350,"60,674 miles",1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,26 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2156751
+181,2010 Jaguar,XK,XK,"57,011 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,16 City,22 Hwy,1,"$30,990 ",https://www.carvana.com/vehicle/2161526
+182,2010 Chevrolet,Camaro,LT,"59,582 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,18 City,29 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2018906
+183,2010 Chevrolet,Colorado Crew Cab,LT 5 ft,"82,430 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,14 City,19 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2178236
+184,2010 Ford,Mustang,GT Premium,"76,249 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,17 City,23 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2163339
+185,2010 Lexus,IS,IS 250 Sport,"69,344 miles",1,1,1,0,1,1,0,1,0,0,0,0,0,1,0,0,21 City,29 Hwy,1,"$19,590 ",https://www.carvana.com/vehicle/2169389
+186,2010 Chevrolet,Camaro,SS,"70,888 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,"$24,990 ",https://www.carvana.com/vehicle/2141791
+187,2010 Mercedes-Benz,E-Class,E 350,"97,631 miles",0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,18 City,26 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2169598
+188,2010 Ford,Mustang,Premium,"76,040 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,16 City,24 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2133749
+189,2010 Chevrolet,Camaro,SS,"68,425 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$25,990 ",https://www.carvana.com/vehicle/2165423
+190,2010 Lexus,ES,ES 350,"69,400 miles",1,0,1,0,0,1,0,1,1,0,0,0,0,1,0,0,19 City,27 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2134524
+191,2010 Lexus,IS,IS 250 Sport,"81,490 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,20 City,26 Hwy,1,"$18,590 ",https://www.carvana.com/vehicle/2179697
+192,2010 Mercedes-Benz,E-Class,E 350,"67,312 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,26 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2072530
+193,2010 BMW,3 Series,328i,"47,738 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,17 City,26 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2155760
+194,2010 INFINITI,G,G37x,"80,467 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2168222
+195,2010 Mercedes-Benz,CLS-Class,CLS 550,"54,061 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,14 City,21 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2110844
+196,2010 Lexus,IS,IS 350 Sport,"64,550 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$26,590 ",https://www.carvana.com/vehicle/2136040
+197,2010 Lexus,IS,IS 350 Sport,"58,903 miles",1,1,1,0,1,0,0,1,0,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$27,990 ",https://www.carvana.com/vehicle/2126161
+198,2010 Mercedes-Benz,E-Class,E 550 4MATIC,"88,323 miles",0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,15 City,23 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2179078
+199,2010 Ford,Mustang,base,"70,983 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,16 City,24 Hwy,1,"$17,590 ",https://www.carvana.com/vehicle/2121035
+200,2010 Mercedes-Benz,CLS-Class,CLS 550,"54,061 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,14 City,21 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2110844
+201,2010 Jeep,Wrangler,Sahara,"89,567 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,15 City,19 Hwy,1,"$22,990 ",https://www.carvana.com/vehicle/2178394
+202,2010 Ford,Mustang,base,"54,608 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,16 City,24 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2158050
+203,2010 Mercedes-Benz,E-Class,E 350,"56,746 miles",0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,18 City,26 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2162779
+204,2010 Honda,Accord,LX-P,"65,125 miles",0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,21 City,31 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2161247
+205,2010 Lexus,RX,RX 350,"87,216 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/1925466
+206,2010 Audi,Q7,3.6 Quattro Premium,"88,441 miles",0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,14 City,19 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2045315
+207,2010 Lexus,RX,RX 350,"94,432 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2171032
+208,2010 Toyota,Highlander,base,"78,404 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,20 City,27 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2080473
+209,2010 Chevrolet,Corvette,Grand Sport,"62,099 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,15 City,25 Hwy,1,"$37,990 ",https://www.carvana.com/vehicle/2148897
+210,2010 Honda,Accord,EX,"76,252 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,31 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2036800
+211,2010 Chevrolet,Camaro,LT,"33,501 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,29 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2168713
+212,2010 Mercedes-Benz,E-Class,E 550,"67,418 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$22,590 ",https://www.carvana.com/vehicle/2116557
+213,2010 Honda,Accord,LX,"83,623 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,31 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2176352
+214,2010 Honda,Accord,LX,"69,856 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,31 Hwy,1,"$15,590 ",https://www.carvana.com/vehicle/2118682
+215,2010 Nissan,370Z,Touring,"73,271 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,18 City,26 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2145834
+216,2010 Mercedes-Benz,E-Class,E 350 4MATIC,"38,067 miles",1,1,0,0,1,1,1,0,1,0,0,0,0,1,0,0,17 City,24 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2148126
+217,2010 Acura,TSX,base,"68,048 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,21 City,30 Hwy,1,"$17,590 ",https://www.carvana.com/vehicle/2165037
+218,2010 Mercedes-Benz,E-Class,E 550,"36,401 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,15 City,23 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2161280
+219,2010 Ford,Mustang,GT Premium,"49,030 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,17 City,23 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2103568
+220,2010 Lexus,RX,RX 350,"98,916 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2174584
+221,2010 Mercedes-Benz,GLK-Class,GLK 350,"60,380 miles",1,1,0,0,1,1,0,0,1,0,0,0,0,1,0,0,16 City,22 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2120656
+222,2010 Toyota,RAV4,base,"86,431 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,21 City,27 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/2130897
+223,2010 Chevrolet,Corvette,Grand Sport,"54,930 miles",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,16 City,26 Hwy,1,"$38,990 ",https://www.carvana.com/vehicle/2061402
+224,2010 Hyundai,Genesis Coupe,3.8 Track,"98,669 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,17 City,27 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2172134
+225,2010 GMC,Sierra 1500 Crew Cab,SLE 5 3/4 ft,"63,363 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,"$25,990 ",https://www.carvana.com/vehicle/2168109
+226,2010 Nissan,Frontier King Cab,XE 6 ft,"74,213 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,17 City,22 Hwy,1,"$17,590 ",https://www.carvana.com/vehicle/2127013
+227,2010 Honda,Accord,LX,"98,751 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,31 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2169002
+228,2010 Ford,F150 SuperCrew Cab,XLT 6 1/2 ft,"54,452 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,15 City,21 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2167879
+229,2010 Ford,Mustang,GT Premium,"30,907 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$26,990 ",https://www.carvana.com/vehicle/2160244
+230,2010 Honda,Accord,LX-P,"101,637 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,31 Hwy,1,"$14,590 ",https://www.carvana.com/vehicle/2161751
+231,2010 Lexus,RX,RX 350,"45,910 miles",1,1,1,0,1,0,1,1,1,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2088659
+232,2010 BMW,3 Series,328i,"24,278 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,18 City,27 Hwy,1,"$22,990 ",https://www.carvana.com/vehicle/2088504
+233,2010 Dodge,Challenger,R/T,"26,203 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$27,990 ",https://www.carvana.com/vehicle/2087014
+234,2010 Acura,MDX,base,"88,785 miles",0,1,1,0,0,1,1,1,0,0,0,0,0,1,0,0,16 City,21 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2151528
+235,2010 Toyota,RAV4,base,"93,479 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,"$15,990 ",https://www.carvana.com/vehicle/2177143
+236,2010 Jeep,Grand Cherokee,Laredo,"88,301 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,16 City,21 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2166094
+237,2010 Toyota,RAV4,base,"102,005 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,"$15,990 ",https://www.carvana.com/vehicle/2174649
+238,2010 Mazda,MAZDA3,i Touring,"74,192 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,25 City,33 Hwy,1,"$13,590 ",https://www.carvana.com/vehicle/2173456
+239,2010 Acura,TSX,base,"93,329 miles",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,20 City,28 Hwy,1,"$15,590 ",https://www.carvana.com/vehicle/2162156
+240,2010 Mazda,MAZDA3,s Grand Touring,"87,346 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,22 City,29 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2161986
+241,2010 Ford,F150 SuperCrew Cab,XLT 6 1/2 ft,"54,452 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,15 City,21 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2167879
+242,2010 Nissan,370Z,Touring,"51,644 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2150856
+243,2010 Acura,TSX,base,"93,329 miles",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,20 City,28 Hwy,1,"$15,590 ",https://www.carvana.com/vehicle/2162156
+244,2010 Acura,MDX,base,"88,785 miles",0,1,1,0,0,1,1,1,0,0,0,0,0,1,0,0,16 City,21 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2151528
+245,2010 Lexus,RX,RX 350,"45,910 miles",1,1,1,0,1,0,1,1,1,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2088659
+246,2010 Acura,TL,base,"93,806 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,17 City,25 Hwy,1,"$17,590 ",https://www.carvana.com/vehicle/2141725
+247,2010 Toyota,Avalon,XLS,"56,706 miles",1,0,1,0,0,1,1,1,1,0,0,0,0,1,0,0,19 City,28 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2134597
+248,2010 Mazda,MAZDA3,i Sport,"20,851 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,24 City,33 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2179045
+249,2010 Toyota,RAV4,base,"90,599 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,"$15,990 ",https://www.carvana.com/vehicle/2168811
+250,2010 Honda,Civic,LX,"14,595 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,25 City,36 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2181047
+251,2010 Honda,Civic,LX,"58,105 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,25 City,36 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2146094
+252,2010 Lexus,ES,ES 350,"26,221 miles",1,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,19 City,27 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2168857
+253,2010 Honda,Accord,LX-P,"62,152 miles",0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,0,21 City,31 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/1914625
+254,2010 Cadillac,SRX,base,"90,402 miles",0,1,1,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,"$15,990 ",https://www.carvana.com/vehicle/2163665
+255,2010 Toyota,RAV4,base,"103,876 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,27 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2148827
+256,2010 Honda,Accord,LX,"27,237 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,31 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2026849
+257,2010 Honda,CR-V,LX,"85,580 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/2101684
+258,2010 Toyota,RAV4,Limited,"61,255 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,19 City,26 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2145445
+259,2010 Toyota,Corolla,S,"78,998 miles",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,26 City,35 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2178941
+260,2010 Honda,CR-V,EX,"72,548 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,27 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2143390
+261,2010 Chevrolet,Malibu,LTZ,"84,510 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,"$13,990 ",https://www.carvana.com/vehicle/2160533
+262,2010 Toyota,Corolla,LE,"69,193 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2155589
+263,2010 Toyota,RAV4,Limited,"61,255 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,19 City,26 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2145445
+264,2010 Honda,Civic,EX,"101,944 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,25 City,36 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2156355
+265,2010 Toyota,Camry,SE,"79,606 miles",0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,22 City,32 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2036982
+266,2010 Cadillac,DTS,base,"57,214 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,15 City,23 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2116988
+267,2010 Dodge,Challenger,R/T,"9,019 miles",0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$29,990 ",https://www.carvana.com/vehicle/2129687
+268,2010 Nissan,Frontier Crew Cab,SE 5 ft,"91,498 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,15 City,20 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2133892
+269,2010 Chrysler,Sebring,Limited,"99,098 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,16 City,27 Hwy,1,"$12,590 ",https://www.carvana.com/vehicle/2149220
+270,2010 Honda,CR-V,LX,"56,233 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2135591
+271,2010 Toyota,Corolla,S,"99,063 miles",1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2178836
+272,2010 Honda,CR-V,EX-L,"83,922 miles",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,21 City,27 Hwy,1,"$18,590 ",https://www.carvana.com/vehicle/2043341
+273,2010 Acura,RDX,base,"62,435 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,17 City,22 Hwy,1,"$19,590 ",https://www.carvana.com/vehicle/2086017
+274,2010 Nissan,370Z,Touring,"42,522 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$25,590 ",https://www.carvana.com/vehicle/2038036
+275,2010 Toyota,Corolla,base,"74,616 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2156322
+276,2010 Jeep,Wrangler,Unlimited Sport,"85,749 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,15 City,19 Hwy,1,"$26,590 ",https://www.carvana.com/vehicle/2159129
+277,2010 Nissan,Titan Crew Cab,LE 5 1/2 ft,"62,686 miles",0,0,1,0,0,1,1,1,1,0,0,0,0,0,1,0,12 City,17 Hwy,1,"$25,990 ",https://www.carvana.com/vehicle/2064187
+278,2010 Ford,Taurus,Limited,"92,432 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,"$13,990 ",https://www.carvana.com/vehicle/2167264
+279,2010 Toyota,Corolla,LE,"95,528 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2162768
+280,2010 Nissan,370Z,Touring,"42,522 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$25,590 ",https://www.carvana.com/vehicle/2038036
+281,2010 Toyota,Corolla,LE,"95,528 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2162768
+282,2010 Chevrolet,Malibu,LTZ,"84,510 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,"$13,990 ",https://www.carvana.com/vehicle/2160533
+283,2010 Honda,Civic,VP,"43,803 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,25 City,36 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2156940
+284,2010 Toyota,Corolla,LE,"86,715 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2104128
+285,2010 Nissan,Altima,2.5 S,"89,870 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,23 City,32 Hwy,1,"$12,990 ",https://www.carvana.com/vehicle/2140969
+286,2010 Honda,Civic,EX,"91,582 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,25 City,36 Hwy,1,"$13,590 ",https://www.carvana.com/vehicle/2158072
+287,2010 Jeep,Wrangler,Unlimited Sport,"85,749 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,15 City,19 Hwy,1,"$26,590 ",https://www.carvana.com/vehicle/2159129
+288,2010 Honda,Civic,LX,"92,846 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,25 City,36 Hwy,1,"$13,590 ",https://www.carvana.com/vehicle/2155189
+289,2010 Volvo,S80,3.2,"57,001 miles",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,18 City,27 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2081063
+290,2010 Honda,Civic,LX,"42,124 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2039740
+291,2010 Nissan,Altima,2.5 S,"63,700 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,23 City,32 Hwy,1,"$13,590 ",https://www.carvana.com/vehicle/2178893
+292,2010 Honda,Insight,EX,"64,689 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,40 City,43 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2175539
+293,2010 Ford,Explorer Sport Trac,Limited Pickup,"73,663 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,"$20,990 ",https://www.carvana.com/vehicle/2025474
+294,2010 Toyota,Matrix,Sport,"99,903 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,26 City,32 Hwy,1,"$13,590 ",https://www.carvana.com/vehicle/2127711
+295,2010 Toyota,Prius,IV,"68,003 miles",1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,51 City,48 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2163302
+296,2010 Toyota,Sienna,LE,"72,218 miles",0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,17 City,23 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2152859
+297,2010 Toyota,Prius,IV,"79,698 miles",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,51 City,48 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2056144
+298,2010 MINI,Hardtop,Cooper,"65,454 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,28 City,37 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/1997655
+299,2010 Chevrolet,Equinox,LT,"39,384 miles",0,1,1,0,1,1,0,1,0,0,0,1,0,1,0,0,22 City,32 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2132334
+300,2010 Chevrolet,Equinox,LT,"39,384 miles",0,1,1,0,1,1,0,1,0,0,0,1,0,1,0,0,22 City,32 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2132334
+301,2010 MINI,Hardtop,Cooper S,"63,429 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,24 City,32 Hwy,1,"$14,590 ",https://www.carvana.com/vehicle/2175417
+302,2010 BMW,3 Series,328i,"24,278 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,18 City,27 Hwy,1,"$22,990 ",https://www.carvana.com/vehicle/2088504
+303,2010 Ford,Fusion,SE,"83,531 miles",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,22 City,31 Hwy,1,"$12,990 ",https://www.carvana.com/vehicle/2172285
+304,2010 Mercury,Grand Marquis,LS,"79,172 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$13,590 ",https://www.carvana.com/vehicle/2110212
+305,2010 MINI,Hardtop,Cooper,"42,989 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,25 City,33 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2043245
+306,2010 Mazda,MAZDA6,s Grand Touring,"95,949 miles",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,17 City,25 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2141966
+307,2010 Kia,Sedona,EX,"85,296 miles",0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,17 City,23 Hwy,1,"$14,590 ",https://www.carvana.com/vehicle/2140105
+308,2010 Ford,Escape,XLT,"46,809 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,23 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2168006
+309,2010 Chrysler,Town & Country,LX,"70,445 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,17 City,24 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2149646
+310,2010 Hyundai,Elantra,SE,"89,860 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$11,990 ",https://www.carvana.com/vehicle/1985909
+311,2010 Scion,xD,base,"41,843 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,27 City,33 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2173248
+312,2010 Hyundai,Elantra,GLS,"69,952 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$12,590 ",https://www.carvana.com/vehicle/2178776
+313,2010 Buick,Lucerne,CXL Special Edition,"23,039 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,17 City,26 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2175101
+314,2010 Hyundai,Elantra,GLS,"51,292 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2106359
+315,2010 Hyundai,Elantra,Blue,"80,226 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,26 City,35 Hwy,1,"$10,990 ",https://www.carvana.com/vehicle/2162030
+316,2010 MINI,Convertible,Cooper,"64,776 miles",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,28 City,36 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2120499
+317,2010 Honda,Fit,Sport,"96,489 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,27 City,33 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2164282
+318,2010 Kia,Soul,+,"86,650 miles",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,24 City,30 Hwy,1,"$12,990 ",https://www.carvana.com/vehicle/2161325
+319,2010 Kia,Soul,+,"53,302 miles",1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,24 City,30 Hwy,1,"$13,590 ",https://www.carvana.com/vehicle/2173415
+320,2010 Dodge,Ram 1500 Regular Cab,SLT 6 1/3 ft,"60,271 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,13 City,18 Hwy,1,"$22,990 ",https://www.carvana.com/vehicle/2162027
+321,2010 Ford,Mustang,GT,"21,860 miles",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$26,990 ",https://www.carvana.com/vehicle/2115299
+322,2010 Toyota,FJ Cruiser,base,"79,435 miles",0,1,0,1,0,0,0,0,0,0,1,0,0,1,0,0,17 City,21 Hwy,1,"$32,990 ",https://www.carvana.com/vehicle/2172945
+323,2010 Chevrolet,Corvette,Grand Sport,"24,515 miles",1,0,1,0,1,0,1,1,0,0,0,0,0,0,1,0,15 City,25 Hwy,1,"$44,990 ",https://www.carvana.com/vehicle/2109043
+324,2010 BMW,Z4,sDrive30i,"29,961 miles",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,18 City,28 Hwy,1,"$28,990 ",https://www.carvana.com/vehicle/2019355
+325,2010 Chevrolet,Corvette,Grand Sport,"37,683 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,15 City,25 Hwy,1,"$41,990 ",https://www.carvana.com/vehicle/2077877
+326,2010 Toyota,FJ Cruiser,base,"77,486 miles",1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,17 City,21 Hwy,1,"$34,990 ",https://www.carvana.com/vehicle/2121474
+327,2010 Jeep,Wrangler,Unlimited Sport,"43,296 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,15 City,20 Hwy,1,"$27,990 ",https://www.carvana.com/vehicle/2130961
+328,2010 Chevrolet,Corvette,Grand Sport,"33,255 miles",1,0,0,1,1,1,1,1,0,0,0,0,0,0,1,0,15 City,25 Hwy,1,"$45,990 ",https://www.carvana.com/vehicle/1930302
+329,2010 Chevrolet,Equinox,LT,"73,902 miles",1,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,22 City,32 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2068236
+330,2010 Mercury,Milan,Premier,"94,987 miles",1,1,1,0,0,0,1,1,0,0,0,1,0,0,0,0,22 City,31 Hwy,1,"$11,990 ",https://www.carvana.com/vehicle/2142154
+331,2010 Mitsubishi,Galant,FE,"66,618 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,30 Hwy,1,"$10,590 ",https://www.carvana.com/vehicle/2046749
+332,2010 Mazda,MX-5 Miata,Sport,"46,311 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,22 City,28 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2010035
+333,2010 Nissan,370Z,Touring,"61,399 miles",1,0,1,0,1,1,1,0,0,0,0,0,0,1,0,0,18 City,26 Hwy,1,"$25,590 ",https://www.carvana.com/vehicle/2132517
+334,2010 Chevrolet,Corvette,base,"9,237 miles",1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,15 City,25 Hwy,1,"$38,590 ",https://www.carvana.com/vehicle/2111740
+335,2010 Ford,Focus,SE,"37,002 miles",1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,24 City,34 Hwy,1,"$12,990 ",https://www.carvana.com/vehicle/2093054
+336,2010 Dodge,Nitro,Shock,"10,471 miles",1,0,1,0,1,1,1,1,0,0,0,0,0,1,0,0,16 City,21 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2139565
+337,2010 Toyota,Camry,LE,"16,375 miles",0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,22 City,32 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2076572
+338,2010 Subaru,Forester,2.5X Premium,"68,953 miles",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,20 City,26 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2012968
+339,2010 Ford,Ranger Super Cab,XLT 6 ft,"68,841 miles",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,16 City,21 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2171850
+340,2010 Mazda,CX-7,i Sport,"104,708 miles",1,1,1,0,0,1,1,1,0,0,0,1,0,0,0,0,20 City,28 Hwy,1,"$11,990 ",https://www.carvana.com/vehicle/1927411
+341,2010 Dodge,Nitro,Heat,"69,839 miles",1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,15 City,21 Hwy,1,"$14,590 ",https://www.carvana.com/vehicle/2117179
+342,2010 Mercedes-Benz,E-Class,E 350,"87,335 miles",0,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,18 City,26 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/1885196
+343,2010 Acura,MDX,base,"89,189 miles",1,1,0,0,1,1,0,1,0,0,0,0,0,1,0,0,16 City,21 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2066457
+344,2010 Dodge,Challenger,R/T,"89,513 miles",1,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/1999587
+345,2010 Scion,tC,Hatchback,"78,240 miles",1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,20 City,27 Hwy,1,"$12,990 ",https://www.carvana.com/vehicle/2053156
+346,2010 Porsche,Boxster,base,"45,790 miles",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,20 City,29 Hwy,1,"$34,590 ",https://www.carvana.com/vehicle/2135481
+347,2010 Nissan,GT-R,base,"34,537 miles",1,0,1,0,1,1,1,0,0,0,0,0,0,1,0,0,15 City,21 Hwy,1,"$69,590 ",https://www.carvana.com/vehicle/1985221
+348,2010 Lexus,IS,IS 250 Sport,"32,610 miles",1,1,0,1,1,0,1,1,0,0,0,0,0,1,0,0,21 City,29 Hwy,1,"$25,990 ",https://www.carvana.com/vehicle/2089619
+349,2010 Porsche,Cayman,S,"23,352 miles",1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,19 City,26 Hwy,1,"$55,990 ",https://www.carvana.com/vehicle/2128113
+350,2010 Honda,Civic,LX,"57,414 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,25 City,36 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2056541
+351,2010 Audi,S6,Quattro Prestige,"85,936 miles",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,14 City,19 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2166177
+352,2010 Mercedes-Benz,S-Class,S 550 4MATIC,"94,776 miles",0,1,1,0,1,1,1,0,1,0,0,0,0,0,1,0,14 City,21 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2174125
+353,2010 Jeep,Liberty,Renegade,"77,790 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,15 City,21 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2165374
+354,2010 Jeep,Wrangler,Sahara,"97,861 miles",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,15 City,19 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2173197
+355,2010 Lexus,LS,LS 460,"85,446 miles",1,1,1,0,1,0,1,1,1,0,0,0,0,0,1,0,16 City,23 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2168608
+356,2010 Toyota,Tacoma Access Cab,PreRunner 6 ft,"58,028 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,15 City,18 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2173291
+357,2010 Ford,Ranger Regular Cab,XL 6 ft,"74,609 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,19 City,24 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2169005
+358,2010 Jeep,Grand Cherokee,Laredo,"87,645 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,15 City,20 Hwy,1,"$15,590 ",https://www.carvana.com/vehicle/2144582
+359,2010 Subaru,Forester,2.5X,"79,677 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,20 City,26 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2001747
+360,2010 Honda,Civic,EX,"97,419 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,25 City,36 Hwy,1,"$12,590 ",https://www.carvana.com/vehicle/2093073
+361,2010 Honda,Accord,EX-L,"79,530 miles",1,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,19 City,28 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2103615
+362,2010 Toyota,Camry,XLE,"47,352 miles",1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,22 City,32 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2021120
+363,2010 Ford,Mustang,GT Premium,"55,722 miles",1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2107147
+364,2010 Mercedes-Benz,E-Class,E 350 4MATIC,"73,549 miles",1,1,1,0,1,1,1,0,1,0,0,0,0,1,0,0,17 City,24 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2159980
+365,2010 Acura,TSX,base,"96,175 miles",1,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,21 City,30 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2171295
+366,2010 Ford,F150 Super Cab,XLT 6 1/2 ft,"75,288 miles",1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,14 City,20 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2171259
+367,2010 Ford,Explorer Sport Trac,XLT Pickup,"80,045 miles",1,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,14 City,20 Hwy,1,"$18,590 ",https://www.carvana.com/vehicle/2091637
+368,2010 Toyota,Prius,II,"81,840 miles",1,1,0,1,1,1,0,0,0,0,0,1,0,0,0,0,51 City,48 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2113110
+369,2010 Chevrolet,Camaro,LT,"42,156 miles",1,0,1,0,0,1,1,1,0,0,0,0,0,1,1,0,18 City,29 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2097831
+370,2010 Scion,tC,Hatchback,"43,897 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,29 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2101364
+371,2010 Ford,Mustang,Premium,"59,204 miles",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,18 City,26 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2145225
+372,2010 MINI,Hardtop,Cooper,"53,369 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,25 City,33 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2145491
+373,2010 Jeep,Patriot,base,"79,550 miles",1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,20 City,23 Hwy,1,"$12,990 ",https://www.carvana.com/vehicle/2040288
+374,2010 Mazda,MX-5 Miata,Sport,"10,511 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,22 City,28 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2067139
+375,2010 Volvo,XC90,3.2,"70,898 miles",1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,15 City,21 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/1960943
+376,2010 BMW,5 Series,535i,"63,310 miles",1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,17 City,26 Hwy,1,"$17,590 ",https://www.carvana.com/vehicle/2168393
+377,2010 Lincoln,MKX,base,"46,798 miles",1,0,1,0,1,1,0,1,1,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$18,590 ",https://www.carvana.com/vehicle/2144963
+378,2010 Acura,TSX,base,"37,052 miles",1,1,1,0,1,1,1,1,0,0,0,0,0,1,0,0,18 City,27 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2046491
+379,2010 Chevrolet,Camaro,LT,"87,882 miles",1,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,18 City,29 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2150274
+380,2010 Buick,Lucerne,CXL Special Edition,"23,039 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,17 City,26 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2175101
+381,2010 Toyota,Corolla,S,"46,592 miles",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2168203
+382,2010 Kia,Soul,+,"53,302 miles",1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,24 City,30 Hwy,1,"$13,590 ",https://www.carvana.com/vehicle/2173415
+383,2010 Honda,Fit,Sport,"96,489 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,27 City,33 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2164282
+384,2010 Kia,Soul,+,"86,650 miles",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,24 City,30 Hwy,1,"$12,990 ",https://www.carvana.com/vehicle/2161325
+385,2010 Toyota,Prius,III,"78,788 miles",1,1,0,1,1,1,0,0,0,0,0,1,0,0,0,0,51 City,48 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2124808
+386,2010 Kia,Soul,+,"52,666 miles",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,24 City,30 Hwy,1,"$14,590 ",https://www.carvana.com/vehicle/2087865
+387,2010 Honda,Fit,Sport,"68,180 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,27 City,33 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2171528
+388,2010 Honda,Fit,Sport,"65,494 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,27 City,33 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2134446
+389,2010 Chevrolet,Corvette,Grand Sport,"24,515 miles",1,0,1,0,1,0,1,1,0,0,0,0,0,0,1,0,15 City,25 Hwy,1,"$44,990 ",https://www.carvana.com/vehicle/2109043
+390,2010 Dodge,Ram 1500 Regular Cab,SLT 6 1/3 ft,"60,271 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,13 City,18 Hwy,1,"$22,990 ",https://www.carvana.com/vehicle/2162027
+391,2010 Nissan,Sentra,SR,"94,885 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$11,590 ",https://www.carvana.com/vehicle/2150871
+392,2010 Lexus,LS,LS 460 L,"56,125 miles",1,1,0,1,1,0,0,1,1,0,0,0,0,0,1,0,16 City,23 Hwy,1,"$28,990 ",https://www.carvana.com/vehicle/2117928
+393,2010 Chevrolet,Corvette,Grand Sport,"37,683 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,15 City,25 Hwy,1,"$41,990 ",https://www.carvana.com/vehicle/2077877
+394,2010 Toyota,FJ Cruiser,base,"79,435 miles",0,1,0,1,0,0,0,0,0,0,1,0,0,1,0,0,17 City,21 Hwy,1,"$32,990 ",https://www.carvana.com/vehicle/2172945
+395,2010 BMW,Z4,sDrive30i,"29,961 miles",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,18 City,28 Hwy,1,"$28,990 ",https://www.carvana.com/vehicle/2019355
+396,2010 Toyota,FJ Cruiser,base,"77,486 miles",1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,17 City,21 Hwy,1,"$34,990 ",https://www.carvana.com/vehicle/2121474
+397,2010 Ford,Explorer Sport Trac,XLT Pickup,"39,691 miles",0,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,14 City,20 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2163173
+398,2010 Ford,Fusion,Sport,"87,283 miles",1,1,0,0,1,0,1,1,0,0,0,0,0,1,0,0,18 City,27 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2115535
+399,2010 Jeep,Wrangler,Unlimited Sport,"43,296 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,15 City,20 Hwy,1,"$27,990 ",https://www.carvana.com/vehicle/2130961
+400,2010 Chevrolet,Camaro,LT,"87,882 miles",1,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,18 City,29 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2150274
+401,2010 Dodge,Challenger,R/T,"85,468 miles",1,0,1,0,0,0,1,1,0,0,0,0,0,0,1,0,15 City,24 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2153481
+402,2010 Dodge,Challenger,SRT8,"42,200 miles",1,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0,13 City,19 Hwy,1,"$30,590 ",https://www.carvana.com/vehicle/2036668
+403,2010 Ford,Mustang,Shelby GT500,"28,840 miles",1,0,0,1,1,1,0,1,0,0,0,0,0,0,1,0,14 City,22 Hwy,1,"$44,590 ",https://www.carvana.com/vehicle/2088125
+404,2010 Toyota,Tundra CrewMax,Limited 5 1/2 ft,"77,464 miles",1,1,0,1,1,0,0,1,1,0,0,0,0,0,1,0,13 City,17 Hwy,1,"$29,990 ",https://www.carvana.com/vehicle/1846586
+405,2010 Lexus,RX,RX 350,"25,225 miles",1,1,1,0,1,1,0,1,1,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$21,590 ",https://www.carvana.com/vehicle/1914204
+406,2010 Ford,Mustang,Premium,"72,417 miles",1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,16 City,24 Hwy,1,"$17,590 ",https://www.carvana.com/vehicle/2063377
+407,2010 Jeep,Wrangler,Unlimited Sport,"75,047 miles",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,15 City,19 Hwy,1,"$26,990 ",https://www.carvana.com/vehicle/2025623
+408,2010 Nissan,Frontier Crew Cab,SE 5 ft,"100,393 miles",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,14 City,19 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/1999036
+409,2010 Jeep,Liberty,base,"35,792 miles",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,15 City,21 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2103533
+410,2010 Chrysler,Town & Country,Touring,"96,433 miles",0,1,0,1,0,0,1,1,0,0,0,0,0,1,0,0,16 City,23 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2103931
+411,2010 Toyota,Corolla,S,"79,464 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,26 City,35 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2023950
+412,2010 MINI,Hardtop,Cooper,"46,263 miles",1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,28 City,37 Hwy,1,"$12,990 ",https://www.carvana.com/vehicle/1959574
+413,2010 Nissan,Sentra,S,"63,905 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$12,990 ",https://www.carvana.com/vehicle/2113455
+414,2010 Dodge,Nitro,Shock,"10,471 miles",1,0,1,0,1,1,1,1,0,0,0,0,0,1,0,0,16 City,21 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2139565
+415,2010 Jeep,Commander,base,"99,977 miles",1,0,0,1,0,1,0,1,1,0,0,0,0,1,0,0,14 City,19 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2132214
+416,2010 Mercedes-Benz,S-Class,S 400 Hybrid,"74,120 miles",1,0,1,0,0,1,0,1,1,0,0,0,0,1,0,0,19 City,26 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2067751
+417,2010 Subaru,Forester,2.5X Limited,"100,708 miles",0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,20 City,26 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/1890494
+418,2010 Honda,Accord,EX-L,"83,034 miles",1,0,1,0,0,1,1,1,1,0,0,0,0,1,0,0,19 City,29 Hwy,1,"$11,990 ",https://www.carvana.com/vehicle/2003124
+419,2010 Nissan,Rogue,S,"59,275 miles",0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,22 City,27 Hwy,1,"$14,590 ",https://www.carvana.com/vehicle/2080410
+420,2010 Ford,Fusion,Hybrid,"94,517 miles",1,1,1,0,1,0,1,1,0,0,0,1,0,0,0,0,41 City,36 Hwy,1,"$12,990 ",https://www.carvana.com/vehicle/2151567
+421,2010 Acura,TSX,base,"28,166 miles",1,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,21 City,30 Hwy,1,"$19,590 ",https://www.carvana.com/vehicle/2092682
+422,2010 Honda,Odyssey,EX,"89,864 miles",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,16 City,23 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2107246
+423,2010 Honda,Accord,EX-L,"62,999 miles",1,0,1,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,"$16,990 ",https://www.carvana.com/vehicle/2081222
+424,2010 Chevrolet,Camaro,SS,"65,181 miles",1,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2012128
+425,2010 Acura,TSX,base,"48,015 miles",1,0,1,0,0,1,1,1,0,0,0,0,0,1,0,0,18 City,27 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2108348
+426,2010 Honda,Civic,EX-L,"72,263 miles",0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$14,590 ",https://www.carvana.com/vehicle/2034433
+427,2010 Honda,Accord,EX,"86,209 miles",1,0,1,0,0,1,0,1,1,0,0,1,0,0,0,0,21 City,31 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2120653
+428,2010 Chevrolet,Corvette,base,"4,760 miles",1,0,1,0,0,1,1,1,0,0,0,0,0,0,1,0,15 City,25 Hwy,1,"$36,990 ",https://www.carvana.com/vehicle/2008226
+429,2010 Mazda,MAZDA3,i Sport,"74,595 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,24 City,33 Hwy,1,"$12,990 ",https://www.carvana.com/vehicle/2117688
+430,2010 Mercedes-Benz,CL-Class,CL 550 4MATIC,"25,511 miles",1,1,1,0,1,1,1,0,0,0,0,0,0,0,1,0,14 City,21 Hwy,1,"$35,990 ",https://www.carvana.com/vehicle/2137996
+431,2010 Ford,Mustang,Premium,"74,700 miles",1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,16 City,24 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/1902466
+432,2010 BMW,3 Series,328i xDrive,"48,285 miles",1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,17 City,25 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2058278
+433,2010 Audi,Q5,3.2 Quattro Premium,"76,650 miles",0,1,1,0,1,1,1,1,1,0,0,0,0,1,0,0,18 City,23 Hwy,1,"$18,590 ",https://www.carvana.com/vehicle/2127588
+434,2010 Nissan,370Z,base,"73,104 miles",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2137331
+435,2010 Jeep,Wrangler,Sport,"80,285 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,15 City,19 Hwy,1,"$22,990 ",https://www.carvana.com/vehicle/2133932
+436,2010 Mercedes-Benz,GL-Class,GL 550,"47,311 miles",1,1,1,0,1,0,0,0,0,0,1,0,0,0,1,0,12 City,17 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/1997218
+437,2010 Mercedes-Benz,SLK-Class,SLK 350,"77,462 miles",1,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2136527
+438,2010 Chevrolet,Camaro,LT,"43,481 miles",1,0,1,0,0,1,1,1,0,0,0,0,0,1,0,0,17 City,29 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2095038
+439,2010 Mazda,MAZDA3,i Touring,"57,795 miles",1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,24 City,33 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/1999845
+440,2010 Chevrolet,Camaro,LT,"53,806 miles",1,0,1,0,0,1,1,1,0,0,0,0,0,1,0,0,18 City,29 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2074464
+441,2010 Toyota,RAV4,Sport,"53,935 miles",0,0,1,0,0,1,1,1,0,0,0,0,0,1,0,0,19 City,26 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2112517
+442,2010 Porsche,Cayenne,base,"78,027 miles",1,0,0,0,1,1,1,0,1,0,0,0,0,1,0,0,14 City,20 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2138352
+443,2010 BMW,3 Series,328i,"89,736 miles",1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,1,18 City,27 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/1961306
+444,2010 Chevrolet,Camaro,LT,"46,504 miles",1,0,1,0,0,1,1,1,0,0,0,0,0,1,0,0,18 City,29 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2174129
+445,2010 BMW,5 Series,550i Gran Turismo,"81,523 miles",0,0,1,0,1,0,1,1,0,0,0,0,0,0,1,0,15 City,22 Hwy,1,"$18,590 ",https://www.carvana.com/vehicle/2067668
+446,2010 Lexus,IS,IS 250 Sport,"85,183 miles",1,0,0,1,0,1,0,1,1,0,0,0,0,1,0,0,18 City,26 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/1842694
+447,2010 INFINITI,G,G37,"59,602 miles",1,1,0,1,1,1,0,1,0,0,0,0,0,1,0,0,17 City,25 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2141334
+448,2010 Mazda,MX-5 Miata,Touring,"17,254 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2121908
+449,2010 Volvo,S80,3.2,"44,639 miles",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,18 City,27 Hwy,1,"$17,590 ",https://www.carvana.com/vehicle/2148037
+450,2010 Acura,MDX,base,"53,600 miles",0,1,1,0,1,0,0,1,0,0,0,0,0,1,0,0,16 City,21 Hwy,1,"$20,590 ",https://www.carvana.com/vehicle/2148007
+451,2010 Volvo,C70,T5,"36,190 miles",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,19 City,28 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2050088
+452,2010 Lexus,LS,LS 460,"87,972 miles",1,1,1,0,1,0,1,1,1,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2110917
+453,2010 Hyundai,Sonata,GLS,"64,204 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,22 City,32 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2121431
+454,2010 Toyota,Prius,IV,"57,835 miles",1,1,1,0,1,1,1,0,0,0,0,1,0,0,0,0,51 City,48 Hwy,1,"$18,590 ",https://www.carvana.com/vehicle/2117499
+455,2010 Mazda,MAZDA3,s Grand Touring,"45,888 miles",1,0,1,0,1,1,1,0,0,0,0,1,0,0,0,0,22 City,29 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2153479
+456,2010 Honda,Civic,LX,"91,391 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,25 City,36 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2153664
+457,2010 Chrysler,Town & Country,Touring,"56,232 miles",1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,16 City,23 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2123822
+458,2010 Subaru,Forester,2.5X,"53,570 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,20 City,26 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2123887
+459,2010 Honda,Fit,Sport,"79,444 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,27 City,33 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2129295
+460,2010 Subaru,Forester,2.5X,"53,570 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,20 City,26 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2123887
+461,2010 Honda,Fit,Sport,"79,444 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,27 City,33 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2129295
+462,2010 Honda,Accord,LX,"80,859 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,31 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2019103
+463,2010 MINI,Hardtop,Cooper,"60,781 miles",1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,25 City,33 Hwy,1,"$11,590 ",https://www.carvana.com/vehicle/1740154
+464,2010 Lexus,IS,IS 250 Sport,"40,587 miles",1,0,1,0,0,1,0,1,1,0,0,0,0,1,0,0,20 City,26 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2018591
+465,2010 Honda,Pilot,EX-L,"75,620 miles",0,1,1,0,0,0,1,1,0,0,0,0,0,1,0,0,16 City,22 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2090125
+466,2010 Ford,Edge,Limited,"67,262 miles",1,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,17 City,23 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2096561
+467,2010 Hyundai,Elantra,GLS,"29,300 miles",1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2157421
+468,2010 Mercedes-Benz,C-Class,C 300 4MATIC Sport,"70,894 miles",1,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/2169545
+469,2010 Dodge,Challenger,R/T,"59,444 miles",1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,15 City,24 Hwy,1,"$25,590 ",https://www.carvana.com/vehicle/1915631
+470,2010 Chevrolet,Camaro,SS,"61,747 miles",1,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$25,990 ",https://www.carvana.com/vehicle/2096341
+471,2010 Toyota,Tacoma Double Cab,5 ft,"60,534 miles",0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,16 City,20 Hwy,1,"$30,590 ",https://www.carvana.com/vehicle/2130426
+472,2010 Chevrolet,Camaro,SS,"29,577 miles",1,0,1,0,0,1,1,1,0,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$27,590 ",https://www.carvana.com/vehicle/2099117
+473,2010 Ford,Mustang,Shelby GT500,"35,629 miles",1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,14 City,22 Hwy,1,"$39,990 ",https://www.carvana.com/vehicle/2023990
+474,2010 Maserati,GranTurismo,S,"18,450 miles",1,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,12 City,19 Hwy,1,"$39,990 ",https://www.carvana.com/vehicle/1709115
+475,2010 Ford,Mustang,GT Premium,"7,272 miles",1,0,1,0,1,1,0,0,0,0,0,0,0,1,1,0,17 City,23 Hwy,1,"$27,590 ",https://www.carvana.com/vehicle/2100021
+476,2010 Dodge,Challenger,SRT8,"49,189 miles",0,0,1,0,0,0,1,1,0,0,0,0,0,0,1,0,13 City,19 Hwy,1,"$30,990 ",https://www.carvana.com/vehicle/2028246
+477,2010 Mercedes-Benz,C-Class,C 63 AMG,"51,590 miles",1,1,0,0,1,1,1,0,1,0,0,0,0,0,1,0,12 City,19 Hwy,1,"$31,990 ",https://www.carvana.com/vehicle/1868470
+478,2010 Nissan,370Z,base,"49,565 miles",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,18 City,26 Hwy,1,"$25,990 ",https://www.carvana.com/vehicle/2117063
+479,2010 Chevrolet,Camaro,SS,"2,087 miles",1,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$33,590 ",https://www.carvana.com/vehicle/2161114
+480,2010 Porsche,Boxster,base,"46,701 miles",1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,20 City,29 Hwy,1,"$31,990 ",https://www.carvana.com/vehicle/1885300
+481,2010 Volkswagen,CC,Sport,"58,908 miles",0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,22 City,31 Hwy,1,"$13,590 ",https://www.carvana.com/vehicle/1880696
+482,2010 Honda,Accord,EX-L,"87,686 miles",1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,21 City,31 Hwy,1,"$15,590 ",https://www.carvana.com/vehicle/2094825
+483,2010 Toyota,Sienna,XLE,"51,476 miles",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,17 City,23 Hwy,1,"$20,590 ",https://www.carvana.com/vehicle/2006331
+484,2010 Acura,TSX,base,"85,697 miles",1,1,1,0,0,0,1,1,0,0,0,1,0,0,0,0,21 City,30 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2006260
+485,2010 Hyundai,Tucson,GLS,"98,552 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,23 City,31 Hwy,1,"$13,590 ",https://www.carvana.com/vehicle/1928049
+486,2010 Lexus,RX,RX 350,"81,829 miles",1,1,1,0,1,1,0,1,1,0,0,0,0,1,0,0,18 City,24 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/1927894
+487,2010 Nissan,370Z,Touring,"39,940 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$23,590 ",https://www.carvana.com/vehicle/1941425
+488,2010 Acura,TSX,base,"87,475 miles",1,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,20 City,28 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/2114978
+489,2010 BMW,X5,xDrive30i,"46,837 miles",1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,15 City,21 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2042989
+490,2010 Toyota,Corolla,LE,"58,575 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2007541
+491,2010 BMW,5 Series,535i xDrive,"66,217 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,17 City,25 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/2089765
+492,2010 Nissan,370Z,Touring,"53,918 miles",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,18 City,26 Hwy,1,"$25,990 ",https://www.carvana.com/vehicle/2022858
+493,2010 Mercedes-Benz,E-Class,E 550,"84,030 miles",1,1,0,1,1,1,0,0,1,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$17,590 ",https://www.carvana.com/vehicle/1884960
+494,2010 Mercury,Grand Marquis,LS,"60,151 miles",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/1848934
+495,2010 MINI,Hardtop,Cooper,"46,559 miles",1,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,25 City,33 Hwy,1,"$10,990 ",https://www.carvana.com/vehicle/1674119
+496,2010 Cadillac,CTS,3.6,"85,602 miles",1,0,1,0,0,1,0,1,1,0,0,0,0,1,0,0,18 City,27 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/1945881
+497,2010 Chevrolet,Silverado 1500 Extended Cab,LT 6 1/2 ft,"59,384 miles",1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,15 City,21 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2099283
+498,2010 BMW,1 Series,128i,"66,972 miles",1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,18 City,28 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2065610
+499,2010 Lincoln,Town Car,Signature Limited,"87,147 miles",0,0,1,0,0,0,1,0,1,0,0,0,0,1,1,0,16 City,24 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2020083

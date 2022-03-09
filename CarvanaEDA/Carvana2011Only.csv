@@ -1,0 +1,993 @@
+,year_make,model,details,mileage,Bluetooth,Backup Camera,Infotainment,Screen,Navigation,Hands Free Calling,Heated Seats,Power Seat Controls,Rear Air Vents,Bed Liner,Tow Hitch,4-Cyl,3-Cyl,V6,V8,6-Cyl,city_mpg,highway_mpg,No Reported Accidents,price,url
+0,2011 Mercedes-Benz,E-Class,E 350,"55,532 miles",1,1,1,0,1,0,1,0,1,0,0,0,0,1,0,0,17 City,25 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2044380
+1,2011 INFINITI,G,G37x,"47,082 miles",1,1,1,0,0,1,1,1,0,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$22,990 ",https://www.carvana.com/vehicle/2110876
+2,2011 BMW,3 Series,328i,"28,806 miles",1,0,1,0,1,1,1,0,1,0,0,0,0,0,0,1,0,0,1,"$24,990 ",https://www.carvana.com/vehicle/2077247
+3,2011 INFINITI,G,G37 Journey,"55,885 miles",0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,19 City,27 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2003209
+4,2011 BMW,3 Series,335i,"57,563 miles",1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,"$23,990 ",https://www.carvana.com/vehicle/2104056
+5,2011 Chevrolet,Camaro,LT,"40,832 miles",1,0,1,0,1,1,1,1,0,0,0,0,0,1,0,0,18 City,29 Hwy,1,"$23,590 ",https://www.carvana.com/vehicle/2112755
+6,2011 Mercedes-Benz,E-Class,E 350,"84,465 miles",1,1,1,0,1,0,1,0,1,0,0,0,0,1,0,0,17 City,24 Hwy,1,"$18,590 ",https://www.carvana.com/vehicle/2099857
+7,2011 BMW,3 Series,328i xDrive,"63,635 miles",1,0,1,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,1,"$17,590 ",https://www.carvana.com/vehicle/1993945
+8,2011 Ford,Explorer,XLT,"75,820 miles",1,1,1,0,0,1,1,1,0,0,0,0,0,1,0,0,17 City,25 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2170811
+9,2011 BMW,3 Series,328i,"28,197 miles",1,0,1,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,1,"$25,590 ",https://www.carvana.com/vehicle/2139319
+10,2011 BMW,M3,base,"71,504 miles",1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,14 City,20 Hwy,1,"$32,990 ",https://www.carvana.com/vehicle/2145204
+11,2011 BMW,3 Series,335d,"72,851 miles",1,0,1,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,1,"$18,990 ",https://www.carvana.com/vehicle/2012278
+12,2011 Chevrolet,Camaro,LT,"47,004 miles",1,0,1,0,1,1,0,1,0,0,0,0,0,1,0,0,17 City,28 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2104050
+13,2011 Mercedes-Benz,C-Class,C 300 Luxury,"64,806 miles",1,0,1,0,0,1,1,0,1,0,0,0,0,1,0,0,18 City,26 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2145617
+14,2011 Mercedes-Benz,E-Class,E 350,"81,166 miles",1,1,1,0,0,1,1,0,1,0,0,0,0,1,0,0,17 City,24 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2122650
+15,2011 Toyota,Camry,LE,"75,680 miles",0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,22 City,32 Hwy,1,"$15,590 ",https://www.carvana.com/vehicle/2080909
+16,2011 Mercedes-Benz,SL-Class,SL 550,"69,657 miles",1,0,1,0,1,1,1,0,0,0,0,0,0,0,1,0,14 City,22 Hwy,1,"$31,590 ",https://www.carvana.com/vehicle/2019371
+17,2011 Mercedes-Benz,SLK-Class,SLK 300,"51,976 miles",1,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,19 City,26 Hwy,1,"$23,500 ",https://www.carvana.com/vehicle/2180462
+18,2011 BMW,3 Series,328i,"51,096 miles",1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,1,0,0,1,"$21,990 ",https://www.carvana.com/vehicle/1961977
+19,2011 Mercedes-Benz,SL-Class,SL 550,"73,657 miles",1,0,0,1,1,1,1,0,0,0,0,0,0,0,1,0,14 City,22 Hwy,1,"$30,590 ",https://www.carvana.com/vehicle/2020717
+20,2011 INFINITI,G,G37,"43,639 miles",1,1,1,0,1,0,1,1,0,0,0,0,0,1,0,0,17 City,25 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2138196
+21,2011 Toyota,Camry,XLE,"51,509 miles",1,0,1,0,0,1,1,1,1,0,0,0,0,1,0,0,20 City,29 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2109531
+22,2011 Ford,Explorer,XLT,"75,820 miles",1,1,1,0,0,1,1,1,0,0,0,0,0,1,0,0,17 City,25 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2170811
+23,2011 Chevrolet,Camaro,LT,"40,832 miles",1,0,1,0,1,1,1,1,0,0,0,0,0,1,0,0,18 City,29 Hwy,1,"$23,590 ",https://www.carvana.com/vehicle/2112755
+24,2011 BMW,3 Series,328i,"55,267 miles",1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,"$21,990 ",https://www.carvana.com/vehicle/2145048
+25,2011 Honda,CR-V,EX-L,"56,616 miles",0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$18,900 ",https://www.carvana.com/vehicle/2180586
+26,2011 Mercedes-Benz,SL-Class,SL 550,"43,291 miles",1,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,14 City,22 Hwy,1,"$36,590 ",https://www.carvana.com/vehicle/2059744
+27,2011 Toyota,Avalon,Limited,"53,976 miles",0,1,1,0,1,1,0,1,1,0,0,0,0,1,0,0,20 City,29 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2102586
+28,2011 Chevrolet,Camaro,LT,"40,167 miles",1,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,18 City,29 Hwy,1,"$23,590 ",https://www.carvana.com/vehicle/2137650
+29,2011 BMW,Z4,sDrive30i,"53,949 miles",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,18 City,28 Hwy,1,"$29,590 ",https://www.carvana.com/vehicle/2164217
+30,2011 BMW,1 Series,128i,"58,970 miles",1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,18 City,27 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2049283
+31,2011 BMW,Z4,sDrive30i,"30,275 miles",1,0,1,0,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,"$33,590 ",https://www.carvana.com/vehicle/2152936
+32,2011 Toyota,Avalon,Limited,"60,989 miles",1,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,20 City,29 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2097223
+33,2011 BMW,3 Series,335i,"47,247 miles",1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,"$23,990 ",https://www.carvana.com/vehicle/2079664
+34,2011 Lexus,RX,RX 350,"80,317 miles",1,1,0,0,1,1,0,0,1,0,0,0,0,1,0,0,18 City,24 Hwy,1,"$20,800 ",https://www.carvana.com/vehicle/2143555
+35,2011 Mercedes-Benz,E-Class,E 350,"81,962 miles",1,1,0,0,1,0,1,1,1,0,0,0,0,1,0,0,17 City,25 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2126023
+36,2011 BMW,Z4,sDrive30i,"67,721 miles",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,18 City,28 Hwy,1,"$26,990 ",https://www.carvana.com/vehicle/2141621
+37,2011 Honda,Accord,LX,"75,882 miles",0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,23 City,34 Hwy,1,"$15,460 ",https://www.carvana.com/vehicle/2153670
+38,2011 Toyota,Camry,LE,"45,931 miles",0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,22 City,32 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2168310
+39,2011 BMW,M3,base,"63,354 miles",1,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,14 City,20 Hwy,1,"$35,498 ",https://www.carvana.com/vehicle/2171547
+40,2011 Toyota,4Runner,Limited,"66,074 miles",1,1,1,0,1,1,1,1,1,0,0,0,0,1,0,0,17 City,22 Hwy,1,"$30,990 ",https://www.carvana.com/vehicle/2067773
+41,2011 Mercedes-Benz,E-Class,E 350,"81,962 miles",1,1,0,0,1,0,1,1,1,0,0,0,0,1,0,0,17 City,25 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2126023
+42,2011 Toyota,Avalon,Limited,"60,989 miles",1,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,20 City,29 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2097223
+43,2011 Mercedes-Benz,E-Class,E 350,"73,019 miles",0,1,0,0,1,1,1,1,1,0,0,0,0,1,0,0,17 City,24 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2078785
+44,2011 Chevrolet,Camaro,LT,"47,004 miles",1,0,1,0,1,1,0,1,0,0,0,0,0,1,0,0,17 City,28 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2104050
+45,2011 Toyota,Camry,XLE,"54,586 miles",1,1,1,0,1,0,0,1,1,0,0,1,0,0,0,0,22 City,32 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2129653
+46,2011 BMW,5 Series,535i,"80,360 miles",1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,1,20 City,30 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2126488
+47,2011 INFINITI,G,G37,"62,941 miles",1,1,1,0,1,1,0,1,0,0,0,0,0,1,0,0,17 City,25 Hwy,1,"$22,590 ",https://www.carvana.com/vehicle/2138092
+48,2011 Mercedes-Benz,SL-Class,SL 550,"37,222 miles",1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,14 City,22 Hwy,1,"$42,990 ",https://www.carvana.com/vehicle/2171133
+49,2011 Chevrolet,Camaro,SS,"23,064 miles",1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$29,590 ",https://www.carvana.com/vehicle/2143760
+50,2011 Chevrolet,Corvette,Grand Sport,"49,550 miles",1,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0,15 City,25 Hwy,1,"$39,590 ",https://www.carvana.com/vehicle/2116975
+51,2011 BMW,Z4,sDrive35i,"21,319 miles",1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,17 City,24 Hwy,1,"$33,990 ",https://www.carvana.com/vehicle/2079348
+52,2011 MINI,Hardtop,Cooper,"42,262 miles",1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,28 City,36 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2053056
+53,2011 Toyota,Venza,base,"95,381 miles",1,0,1,0,0,1,0,1,1,0,0,1,0,0,0,0,21 City,27 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/1762118
+54,2011 Mercedes-Benz,SL-Class,SL 550,"24,776 miles",1,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0,14 City,22 Hwy,1,"$45,990 ",https://www.carvana.com/vehicle/2121357
+55,2011 Chevrolet,Camaro,SS,"15,010 miles",1,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$31,990 ",https://www.carvana.com/vehicle/2049003
+56,2011 Chevrolet,Camaro,LT,"23,252 miles",1,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,18 City,29 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2056210
+57,2011 Mercedes-Benz,E-Class,E 350,"21,749 miles",1,1,0,1,1,1,0,0,0,0,0,0,0,1,0,0,17 City,25 Hwy,1,"$32,590 ",https://www.carvana.com/vehicle/2108329
+58,2011 BMW,Z4,sDrive35is,"51,629 miles",1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,17 City,24 Hwy,1,"$31,990 ",https://www.carvana.com/vehicle/2104076
+59,2011 Lexus,RX,RX 350,"69,491 miles",1,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$22,990 ",https://www.carvana.com/vehicle/1984753
+60,2011 Ford,Taurus,SEL,"68,073 miles",1,0,1,0,0,1,0,1,1,0,0,0,0,1,0,0,18 City,28 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2145928
+61,2011 Chevrolet,Camaro,LT,"52,201 miles",1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,18 City,29 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2081889
+62,2011 Mercedes-Benz,E-Class,E 350,"77,301 miles",1,1,1,0,0,1,1,0,1,0,0,0,0,1,0,0,17 City,24 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2174612
+63,2011 BMW,Z4,sDrive30i,"43,185 miles",1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1,18 City,28 Hwy,1,"$29,590 ",https://www.carvana.com/vehicle/2137652
+64,2011 Lexus,RX,RX 350,"69,491 miles",1,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$22,990 ",https://www.carvana.com/vehicle/1984753
+65,2011 Mercedes-Benz,SL-Class,SL 63 AMG,"35,417 miles",1,0,0,1,1,1,1,1,0,0,0,0,0,0,1,0,12 City,19 Hwy,1,"$49,990 ",https://www.carvana.com/vehicle/2052727
+66,2011 Lexus,LS,LS 460,"40,151 miles",1,1,1,0,1,0,0,1,1,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$28,990 ",https://www.carvana.com/vehicle/2080424
+67,2011 Chevrolet,Camaro,LT,"30,512 miles",1,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,17 City,28 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2144418
+68,2011 Mazda,MX-5 Miata,Sport,"63,006 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2143694
+69,2011 BMW,Z4,sDrive30i,"58,998 miles",1,0,1,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,1,"$25,990 ",https://www.carvana.com/vehicle/2122437
+70,2011 Chevrolet,Camaro,LT,"30,392 miles",1,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,18 City,29 Hwy,1,"$22,990 ",https://www.carvana.com/vehicle/2076057
+71,2011 Mazda,MX-5 Miata,Grand Touring,"33,737 miles",1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$23,590 ",https://www.carvana.com/vehicle/2113623
+72,2011 BMW,Z4,sDrive30i,"47,382 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,18 City,28 Hwy,1,"$29,590 ",https://www.carvana.com/vehicle/2099773
+73,2011 Chevrolet,Camaro,LT,"45,235 miles",0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,17 City,28 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2125630
+74,2011 Ford,Mustang,GT Premium,"26,228 miles",1,1,1,0,0,1,1,1,0,0,0,0,0,0,1,0,17 City,26 Hwy,1,"$28,590 ",https://www.carvana.com/vehicle/2075738
+75,2011 Toyota,Avalon,Limited,"63,977 miles",1,1,1,0,1,1,1,1,1,0,0,0,0,1,0,0,20 City,29 Hwy,1,"$20,590 ",https://www.carvana.com/vehicle/2130634
+76,2011 Lexus,IS,IS 250C,"73,859 miles",1,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,21 City,30 Hwy,1,"$23,590 ",https://www.carvana.com/vehicle/2120566
+77,2011 Honda,CR-V,EX-L,"28,891 miles",1,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$21,590 ",https://www.carvana.com/vehicle/2146674
+78,2011 Chevrolet,Corvette,Grand Sport,"21,521 miles",1,0,1,0,0,1,1,1,0,0,0,0,0,0,1,0,15 City,25 Hwy,1,"$41,990 ",https://www.carvana.com/vehicle/2011986
+79,2011 Audi,Q5,2.0T Quattro Premium,"63,483 miles",1,1,1,0,1,0,1,1,0,0,0,1,0,0,0,0,20 City,27 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2123328
+80,2011 Honda,CR-V,EX-L,"28,891 miles",1,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$21,590 ",https://www.carvana.com/vehicle/2146674
+81,2011 Ford,Mustang,GT Premium,"30,079 miles",1,0,1,0,1,0,1,1,0,0,0,0,0,0,1,0,17 City,26 Hwy,1,"$29,990 ",https://www.carvana.com/vehicle/2104435
+82,2011 Chevrolet,Camaro,LT,"63,413 miles",0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,18 City,29 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2108789
+83,2011 Honda,Accord,EX-L,"103,047 miles",1,0,1,0,0,1,1,1,1,0,0,1,0,0,0,0,23 City,34 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2106450
+84,2011 Ford,Mustang,Premium,"25,107 miles",1,1,1,0,1,0,1,1,0,0,0,0,0,1,0,0,19 City,30 Hwy,1,"$22,990 ",https://www.carvana.com/vehicle/2056451
+85,2011 BMW,Z4,sDrive35i,"32,174 miles",1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,1,17 City,24 Hwy,1,"$33,990 ",https://www.carvana.com/vehicle/2107183
+86,2011 Ford,Mustang,GT Premium,"45,905 miles",1,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,17 City,26 Hwy,1,"$26,590 ",https://www.carvana.com/vehicle/2071737
+87,2011 Toyota,Avalon,Limited,"63,977 miles",1,1,1,0,1,1,1,1,1,0,0,0,0,1,0,0,20 City,29 Hwy,1,"$20,590 ",https://www.carvana.com/vehicle/2130634
+88,2011 BMW,Z4,sDrive35i,"41,754 miles",1,0,1,0,0,1,1,1,0,0,0,0,0,0,0,1,19 City,26 Hwy,1,"$31,590 ",https://www.carvana.com/vehicle/2142223
+89,2011 Chevrolet,Corvette,base,"51,274 miles",1,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0,15 City,25 Hwy,1,"$34,590 ",https://www.carvana.com/vehicle/2078270
+90,2011 Toyota,Tacoma Double Cab,PreRunner 5 ft,"82,684 miles",0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,"$26,990 ",https://www.carvana.com/vehicle/2131630
+91,2011 Lexus,ES,ES 350,"76,799 miles",0,1,1,0,1,1,0,1,1,0,0,0,0,1,0,0,19 City,27 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2145105
+92,2011 Lexus,ES,ES 350,"43,884 miles",0,1,1,0,1,0,0,1,1,0,0,0,0,1,0,0,19 City,27 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2132219
+93,2011 Chevrolet,Camaro,SS,"36,382 miles",1,0,1,0,0,1,1,1,0,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$29,590 ",https://www.carvana.com/vehicle/2142380
+94,2011 Mercedes-Benz,E-Class,E 350 4MATIC,"73,604 miles",1,1,0,0,1,1,1,0,1,0,0,0,0,1,0,0,17 City,24 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2115005
+95,2011 Ford,Fusion,SE,"52,853 miles",1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,"$13,990 ",https://www.carvana.com/vehicle/1978849
+96,2011 Honda,Accord,EX,"76,849 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,22 City,33 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/1856028
+97,2011 BMW,Z4,sDrive30i,"30,541 miles",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,"$31,990 ",https://www.carvana.com/vehicle/2072142
+98,2011 Toyota,Camry,SE,"48,984 miles",1,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,22 City,32 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2127001
+99,2011 Mercedes-Benz,E-Class,E 350,"99,086 miles",1,1,0,0,1,1,1,1,0,0,0,0,0,1,0,0,17 City,25 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/1933342
+100,2011 BMW,Z4,sDrive30i,"30,541 miles",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,"$31,990 ",https://www.carvana.com/vehicle/2072142
+101,2011 Mazda,MX-5 Miata,Grand Touring,"33,737 miles",1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$23,590 ",https://www.carvana.com/vehicle/2113623
+102,2011 Honda,Accord,LX,"31,633 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,23 City,34 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2046701
+103,2011 Toyota,Camry,SE,"48,984 miles",1,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,22 City,32 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2127001
+104,2011 Lexus,ES,ES 350,"76,799 miles",0,1,1,0,1,1,0,1,1,0,0,0,0,1,0,0,19 City,27 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2145105
+105,2011 Honda,Accord,EX,"44,191 miles",0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,23 City,34 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2027325
+106,2011 Chevrolet,Camaro,SS,"24,471 miles",0,0,0,1,1,1,0,1,0,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$27,590 ",https://www.carvana.com/vehicle/2096642
+107,2011 Honda,Accord,EX-L,"79,651 miles",1,0,1,0,0,1,1,1,1,0,0,1,0,0,0,0,23 City,34 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2082766
+108,2011 Chevrolet,Camaro,LT,"17,917 miles",1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,29 Hwy,1,"$23,590 ",https://www.carvana.com/vehicle/2070709
+109,2011 Lexus,RX,RX 350,"35,060 miles",0,1,1,0,0,1,1,1,1,0,0,0,0,1,0,0,18 City,24 Hwy,1,"$25,990 ",https://www.carvana.com/vehicle/2097055
+110,2011 Toyota,Camry,LE,"61,746 miles",1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,22 City,32 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2105127
+111,2011 Lexus,ES,ES 350,"91,881 miles",0,1,1,0,1,1,1,1,1,0,0,0,0,1,0,0,19 City,27 Hwy,1,"$17,590 ",https://www.carvana.com/vehicle/2142335
+112,2011 Chevrolet,Camaro,SS,"83,236 miles",1,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2120101
+113,2011 Honda,Accord,EX,"61,013 miles",0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,23 City,34 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/1886868
+114,2011 Toyota,4Runner,SR5,"70,316 miles",1,0,1,0,0,1,0,1,1,0,1,0,0,1,0,0,17 City,23 Hwy,1,"$26,990 ",https://www.carvana.com/vehicle/1974544
+115,2011 Ford,Mustang,GT Premium,"53,182 miles",1,0,1,0,0,0,1,1,0,0,0,0,0,0,1,0,18 City,25 Hwy,1,"$26,590 ",https://www.carvana.com/vehicle/2145074
+116,2011 Mercedes-Benz,SL-Class,SL 550,"21,688 miles",1,0,1,0,1,1,1,1,0,0,0,0,0,0,1,0,14 City,22 Hwy,1,"$41,590 ",https://www.carvana.com/vehicle/1996011
+117,2011 Honda,Accord,EX-L,"42,016 miles",1,0,1,0,0,1,1,1,1,0,0,0,0,1,0,0,20 City,30 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2113279
+118,2011 Chevrolet,Camaro,SS,"23,170 miles",1,0,0,1,0,1,1,1,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$27,990 ",https://www.carvana.com/vehicle/2059707
+119,2011 Ram,1500 Quad Cab,SLT 6 1/3 ft,"61,736 miles",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,14 City,20 Hwy,1,"$25,590 ",https://www.carvana.com/vehicle/1982423
+120,2011 Honda,Accord,EX-L,"42,016 miles",1,0,1,0,0,1,1,1,1,0,0,0,0,1,0,0,20 City,30 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2113279
+121,2011 Honda,Accord,LX,"31,633 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,23 City,34 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2046701
+122,2011 Chevrolet,Corvette,base,"51,274 miles",1,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0,15 City,25 Hwy,1,"$34,590 ",https://www.carvana.com/vehicle/2078270
+123,2011 Lexus,ES,ES 350,"28,112 miles",1,0,1,0,0,1,0,1,1,0,0,0,0,1,0,0,19 City,27 Hwy,1,"$22,990 ",https://www.carvana.com/vehicle/2112572
+124,2011 Honda,Accord,EX,"44,191 miles",0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,23 City,34 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2027325
+125,2011 Chevrolet,Camaro,SS,"9,131 miles",0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$31,990 ",https://www.carvana.com/vehicle/2150294
+126,2011 Ford,Taurus,SEL,"65,965 miles",1,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0,18 City,28 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2038713
+127,2011 Toyota,RAV4,Sport,"70,186 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,27 Hwy,1,"$19,590 ",https://www.carvana.com/vehicle/2096577
+128,2011 Chevrolet,Corvette,base,"27,761 miles",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,15 City,25 Hwy,1,"$33,990 ",https://www.carvana.com/vehicle/2061131
+129,2011 Chevrolet,Camaro,SS,"18,760 miles",1,0,0,1,0,1,1,1,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$31,590 ",https://www.carvana.com/vehicle/2143446
+130,2011 Lexus,ES,ES 350,"66,059 miles",1,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,19 City,27 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2114540
+131,2011 BMW,M3,base,"67,202 miles",1,1,1,0,1,1,1,1,0,0,0,0,0,0,1,0,14 City,20 Hwy,1,"$39,590 ",https://www.carvana.com/vehicle/2133837
+132,2011 Ford,Mustang,Shelby GT500,"64,127 miles",1,0,1,0,1,1,0,1,0,0,0,0,0,0,1,0,15 City,23 Hwy,1,"$39,590 ",https://www.carvana.com/vehicle/2078956
+133,2011 MINI,Convertible,Cooper S,"41,321 miles",1,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2071501
+134,2011 Buick,Lucerne,CXL,"49,112 miles",1,0,0,1,0,1,0,1,1,0,0,0,0,1,0,0,17 City,27 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2153299
+135,2011 Jeep,Wrangler,Sport,"32,186 miles",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,15 City,19 Hwy,1,"$27,590 ",https://www.carvana.com/vehicle/2141817
+136,2011 Toyota,Corolla,LE,"68,381 miles",1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2065198
+137,2011 Mazda,MX-5 Miata,Grand Touring,"62,158 miles",1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2127240
+138,2011 Ford,Mustang,Shelby GT500,"38,443 miles",1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,15 City,23 Hwy,1,"$42,590 ",https://www.carvana.com/vehicle/2079061
+139,2011 Buick,LaCrosse,CXL,"65,592 miles",1,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0,17 City,27 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2137775
+140,2011 Chevrolet,Corvette,base,"27,761 miles",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,15 City,25 Hwy,1,"$33,990 ",https://www.carvana.com/vehicle/2061131
+141,2011 BMW,M3,base,"67,202 miles",1,1,1,0,1,1,1,1,0,0,0,0,0,0,1,0,14 City,20 Hwy,1,"$39,590 ",https://www.carvana.com/vehicle/2133837
+142,2011 Chevrolet,Camaro,SS,"18,760 miles",1,0,0,1,0,1,1,1,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$31,590 ",https://www.carvana.com/vehicle/2143446
+143,2011 Honda,Accord,EX,"87,865 miles",0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,23 City,34 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2143258
+144,2011 Jeep,Wrangler,Sport,"32,186 miles",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,15 City,19 Hwy,1,"$27,590 ",https://www.carvana.com/vehicle/2141817
+145,2011 Toyota,RAV4,Sport,"70,186 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,27 Hwy,1,"$19,590 ",https://www.carvana.com/vehicle/2096577
+146,2011 Toyota,Venza,base,"91,590 miles",1,1,1,0,1,0,1,1,1,0,0,0,0,1,0,0,19 City,26 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2144836
+147,2011 Toyota,Tacoma Access Cab,PreRunner 6 ft,"33,089 miles",0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,17 City,21 Hwy,1,"$27,990 ",https://www.carvana.com/vehicle/2097372
+148,2011 Toyota,Camry,LE,"72,083 miles",0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,22 City,32 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2108709
+149,2011 Ram,1500 Quad Cab,SLT 6 1/3 ft,"61,736 miles",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,14 City,20 Hwy,1,"$25,590 ",https://www.carvana.com/vehicle/1982423
+150,2011 Honda,Accord,SE,"91,559 miles",1,0,1,0,0,1,1,1,0,0,0,1,0,0,0,0,23 City,34 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2100968
+151,2011 Ford,Taurus,Limited,"72,271 miles",1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,18 City,28 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2077619
+152,2011 Mercedes-Benz,S-Class,S 63 AMG,"83,350 miles",1,1,0,0,1,0,0,1,1,0,0,0,0,0,1,0,15 City,22 Hwy,1,"$35,590 ",https://www.carvana.com/vehicle/1982939
+153,2011 Toyota,Camry,LE,"54,069 miles",0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,22 City,33 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2111058
+154,2011 Toyota,Prius,Three,"21,156 miles",1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,51 City,48 Hwy,1,"$21,590 ",https://www.carvana.com/vehicle/2145203
+155,2011 Dodge,Challenger,SRT8,"4,325 miles",1,0,0,1,0,1,1,1,0,0,0,0,0,0,1,0,14 City,22 Hwy,1,"$37,990 ",https://www.carvana.com/vehicle/1997381
+156,2011 Honda,Accord,LX-P,"89,595 miles",0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,23 City,34 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/1783970
+157,2011 BMW,3 Series,335i,"21,768 miles",1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,"$25,990 ",https://www.carvana.com/vehicle/2124640
+158,2011 Toyota,Sienna,base,"84,278 miles",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,19 City,24 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/1989603
+159,2011 Toyota,Camry,SE,"80,997 miles",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,22 City,32 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/1986334
+160,2011 Dodge,Challenger,SRT8,"4,325 miles",1,0,0,1,0,1,1,1,0,0,0,0,0,0,1,0,14 City,22 Hwy,1,"$37,990 ",https://www.carvana.com/vehicle/1997381
+161,2011 Lexus,ES,ES 350,"102,308 miles",1,0,1,0,0,1,1,1,1,0,0,0,0,1,0,0,19 City,27 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2168159
+162,2011 Toyota,Camry,base,"63,202 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,22 City,32 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2041716
+163,2011 Toyota,Prius,Three,"21,156 miles",1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,51 City,48 Hwy,1,"$21,590 ",https://www.carvana.com/vehicle/2145203
+164,2011 Toyota,Camry,SE,"80,997 miles",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,22 City,32 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/1986334
+165,2011 Chevrolet,Camaro,SS,"18,760 miles",1,0,0,1,0,1,1,1,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$31,590 ",https://www.carvana.com/vehicle/2143446
+166,2011 Chevrolet,Corvette,base,"27,761 miles",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,15 City,25 Hwy,1,"$33,990 ",https://www.carvana.com/vehicle/2061131
+167,2011 Mazda,MX-5 Miata,Grand Touring,"62,158 miles",1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2127240
+168,2011 Audi,Q5,2.0T Quattro Premium,"63,483 miles",1,1,1,0,1,0,1,1,0,0,0,1,0,0,0,0,20 City,27 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2123328
+169,2011 Porsche,Boxster,base,"51,183 miles",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,20 City,29 Hwy,1,"$36,990 ",https://www.carvana.com/vehicle/2128730
+170,2011 Toyota,Avalon,Limited,"49,421 miles",0,1,1,0,1,1,0,1,1,0,0,0,0,1,0,0,20 City,29 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2098450
+171,2011 Honda,CR-V,EX-L,"53,237 miles",1,1,1,0,1,1,1,1,0,0,0,1,0,0,0,0,21 City,27 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2142909
+172,2011 Kia,Soul,+,"39,707 miles",1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,24 City,30 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2113053
+173,2011 Ford,F150 SuperCrew Cab,Lariat 5 1/2 ft,"78,801 miles",0,1,0,1,0,0,0,1,1,0,0,0,0,1,0,0,15 City,21 Hwy,1,"$29,990 ",https://www.carvana.com/vehicle/2168102
+174,2011 Honda,CR-V,SE,"47,242 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,27 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2153644
+175,2011 Chevrolet,Camaro,SS,"27,673 miles",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$26,990 ",https://www.carvana.com/vehicle/2066439
+176,2011 Toyota,Corolla,S,"50,098 miles",1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$17,590 ",https://www.carvana.com/vehicle/2156660
+177,2011 Buick,Lucerne,CXL Premium,"23,269 miles",1,0,1,0,0,1,0,1,1,0,0,0,0,1,0,0,17 City,27 Hwy,1,"$17,590 ",https://www.carvana.com/vehicle/2166479
+178,2011 Chevrolet,Camaro,SS,"9,829 miles",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$31,590 ",https://www.carvana.com/vehicle/2155670
+179,2011 Acura,TSX,base,"82,384 miles",1,0,1,0,1,0,1,1,1,0,0,0,0,1,0,0,19 City,28 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/1945183
+180,2011 Toyota,Camry,XLE,"54,663 miles",1,1,0,0,1,1,0,1,1,0,0,0,0,1,0,0,20 City,29 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2084354
+181,2011 Honda,Accord,SE,"91,559 miles",1,0,1,0,0,1,1,1,0,0,0,1,0,0,0,0,23 City,34 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2100968
+182,2011 Honda,CR-V,EX-L,"80,042 miles",1,0,1,0,0,1,1,1,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2001996
+183,2011 Ford,Mustang,GT Premium,"21,000 miles",1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,17 City,26 Hwy,1,"$29,990 ",https://www.carvana.com/vehicle/2095204
+184,2011 Chevrolet,Camaro,SS,"27,673 miles",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$26,990 ",https://www.carvana.com/vehicle/2066439
+185,2011 Hyundai,Sonata,GLS,"43,000 miles",1,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,22 City,35 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2104187
+186,2011 Maserati,Quattroporte,S,"32,767 miles",1,0,1,0,1,1,0,0,1,0,0,0,0,0,1,0,12 City,19 Hwy,1,"$30,590 ",https://www.carvana.com/vehicle/2073912
+187,2011 Buick,Lucerne,CXL,"65,386 miles",1,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,17 City,27 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/1975752
+188,2011 Honda,Accord,EX-L,"74,122 miles",1,0,1,0,0,1,0,1,1,0,0,1,0,0,0,0,23 City,34 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2113644
+189,2011 Ford,F150 SuperCrew Cab,Lariat 5 1/2 ft,"78,801 miles",0,1,0,1,0,0,0,1,1,0,0,0,0,1,0,0,15 City,21 Hwy,1,"$29,990 ",https://www.carvana.com/vehicle/2168102
+190,2011 GMC,Sierra 1500 Extended Cab,SLE 6 1/2 ft,"34,596 miles",1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,15 City,21 Hwy,1,"$28,990 ",https://www.carvana.com/vehicle/2167741
+191,2011 Ford,Mustang,base,"75,170 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,19 City,29 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/1956434
+192,2011 Buick,LaCrosse,CXL,"47,715 miles",1,0,1,0,0,1,1,0,1,0,0,0,0,1,0,0,17 City,27 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2011326
+193,2011 Honda,CR-V,EX-L,"39,054 miles",0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2019133
+194,2011 Hyundai,Sonata,Limited,"52,046 miles",1,1,1,0,1,1,1,1,1,0,0,1,0,0,0,0,22 City,33 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2042150
+195,2011 Toyota,Prius,Two,"57,568 miles",1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,51 City,48 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2095815
+196,2011 Buick,LaCrosse,CXS,"68,293 miles",1,1,0,0,1,0,1,1,1,0,0,0,0,1,0,0,17 City,27 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/1956318
+197,2011 Ford,Mustang,base,"81,770 miles",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,19 City,30 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2016234
+198,2011 Subaru,Impreza,2.5i Premium Sport,"19,625 miles",1,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,20 City,26 Hwy,1,"$17,590 ",https://www.carvana.com/vehicle/2162392
+199,2011 Honda,CR-V,EX-L,"77,201 miles",0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2135686
+200,2011 Ford,Mustang,base,"81,770 miles",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,19 City,30 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2016234
+201,2011 Ford,F150 SuperCrew Cab,Lariat 5 1/2 ft,"78,801 miles",0,1,0,1,0,0,0,1,1,0,0,0,0,1,0,0,15 City,21 Hwy,1,"$29,990 ",https://www.carvana.com/vehicle/2168102
+202,2011 Porsche,Cayman,S,"15,617 miles",1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,20 City,29 Hwy,1,"$59,590 ",https://www.carvana.com/vehicle/2140844
+203,2011 Honda,Accord,EX-L,"82,699 miles",1,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,23 City,34 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2010522
+204,2011 Nissan,Maxima,SV,"96,168 miles",0,1,1,0,0,1,1,1,1,0,0,0,0,1,0,0,19 City,26 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/1943044
+205,2011 Honda,CR-V,EX-L,"95,246 miles",0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/1871270
+206,2011 Ford,Mustang,GT Premium,"14,131 miles",1,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,18 City,25 Hwy,1,"$32,590 ",https://www.carvana.com/vehicle/2167967
+207,2011 Acura,MDX,base,"83,936 miles",1,1,0,0,1,1,0,1,0,0,0,0,0,1,0,0,16 City,21 Hwy,1,"$20,590 ",https://www.carvana.com/vehicle/2043715
+208,2011 Honda,Fit,Sport,"41,013 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,27 City,33 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2120698
+209,2011 Toyota,Corolla,base,"51,937 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/1959583
+210,2011 Hyundai,Sonata,SE,"85,447 miles",1,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,22 City,35 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2119327
+211,2011 Chevrolet,HHR,LT Sport,"66,520 miles",0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,22 City,30 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2062758
+212,2011 Ford,Edge,SEL,"83,302 miles",1,1,1,0,0,1,1,1,0,0,1,0,0,1,0,0,19 City,27 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2132075
+213,2011 Chevrolet,Equinox,LT,"57,510 miles",1,1,0,1,0,1,0,1,0,0,0,1,0,0,0,0,22 City,32 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/2176224
+214,2011 Toyota,FJ Cruiser,base,"81,491 miles",1,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,17 City,22 Hwy,1,"$35,590 ",https://www.carvana.com/vehicle/2091072
+215,2011 Chevrolet,Corvette,Grand Sport,"21,106 miles",1,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,16 City,26 Hwy,1,"$42,590 ",https://www.carvana.com/vehicle/2011331
+216,2011 Ford,Fusion,SEL,"58,546 miles",1,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,"$16,990 ",https://www.carvana.com/vehicle/2166149
+217,2011 Hyundai,Sonata,Limited,"51,951 miles",1,0,1,0,0,1,1,1,1,0,0,1,0,0,0,0,22 City,35 Hwy,1,"$17,590 ",https://www.carvana.com/vehicle/1882634
+218,2011 Toyota,Corolla,S,"72,554 miles",1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,28 City,35 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/2115199
+219,2011 Mazda,MX-5 Miata,Touring,"21,348 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$21,590 ",https://www.carvana.com/vehicle/2083350
+220,2011 Mazda,MX-5 Miata,Touring,"21,348 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$21,590 ",https://www.carvana.com/vehicle/2083350
+221,2011 Toyota,Avalon,Limited,"75,896 miles",1,1,0,0,1,1,0,1,1,0,0,0,0,1,0,0,20 City,29 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2128080
+222,2011 Volkswagen,Jetta,TDI SportWagen Sport,"90,825 miles",1,0,1,0,0,1,0,1,1,0,0,1,0,0,0,0,29 City,37 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2172296
+223,2011 Lincoln,Town Car,Signature Limited,"59,151 miles",0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2168684
+224,2011 Toyota,Corolla,S,"17,949 miles",1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$19,590 ",https://www.carvana.com/vehicle/2143030
+225,2011 Ford,Mustang,Shelby GT500,"9,611 miles",1,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,15 City,23 Hwy,1,"$46,990 ",https://www.carvana.com/vehicle/2050555
+226,2011 Porsche,Panamera,S,"49,938 miles",0,1,0,0,1,1,1,1,1,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$38,990 ",https://www.carvana.com/vehicle/2006881
+227,2011 Hyundai,Sonata,Limited,"77,770 miles",1,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,22 City,35 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2102624
+228,2011 Mazda,MX-5 Miata,Touring,"13,924 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$21,590 ",https://www.carvana.com/vehicle/1959580
+229,2011 Honda,Fit,base,"50,572 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,28 City,35 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2100120
+230,2011 BMW,5 Series,528i,"76,382 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,22 City,32 Hwy,1,"$17,590 ",https://www.carvana.com/vehicle/2167413
+231,2011 BMW,3 Series,328i xDrive,"83,538 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,"$15,990 ",https://www.carvana.com/vehicle/2172031
+232,2011 BMW,1 Series,135i,"91,761 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,18 City,25 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2179106
+233,2011 BMW,3 Series,328i,"72,048 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,"$15,590 ",https://www.carvana.com/vehicle/2078925
+234,2011 BMW,5 Series,528i,"76,377 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,22 City,32 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2157973
+235,2011 BMW,1 Series,128i,"81,173 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,18 City,27 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2074983
+236,2011 BMW,5 Series,550i xDrive,"91,518 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2177781
+237,2011 BMW,5 Series,550i,"83,783 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,17 City,25 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2137979
+238,2011 BMW,3 Series,328i xDrive,"75,110 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,"$16,990 ",https://www.carvana.com/vehicle/2098733
+239,2011 BMW,3 Series,328i xDrive,"52,229 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,"$17,990 ",https://www.carvana.com/vehicle/2144292
+240,2011 BMW,1 Series,135i,"67,923 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,18 City,25 Hwy,1,"$20,590 ",https://www.carvana.com/vehicle/2154108
+241,2011 BMW,3 Series,328i,"77,896 miles",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,"$19,590 ",https://www.carvana.com/vehicle/2137987
+242,2011 BMW,3 Series,335i,"65,915 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,"$21,990 ",https://www.carvana.com/vehicle/2172041
+243,2011 Mercedes-Benz,E-Class,E 550,"77,465 miles",1,1,1,0,0,1,0,0,1,0,0,0,0,0,1,0,15 City,22 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2082564
+244,2011 Mercedes-Benz,C-Class,C 300 4MATIC Sport,"89,608 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2177932
+245,2011 Mercedes-Benz,E-Class,E 350 4MATIC,"85,021 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,17 City,24 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2156604
+246,2011 Mercedes-Benz,E-Class,E 350,"91,533 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,17 City,24 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2159941
+247,2011 Mercedes-Benz,C-Class,C 300 Luxury,"81,621 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,26 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2162358
+248,2011 Mercedes-Benz,E-Class,E 350,"80,150 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,17 City,24 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/1978919
+249,2011 Mercedes-Benz,C-Class,C 300 4MATIC Sport,"74,029 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$17,590 ",https://www.carvana.com/vehicle/2169742
+250,2011 Mercedes-Benz,C-Class,C 300 Sport,"72,815 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,18 City,26 Hwy,1,"$17,590 ",https://www.carvana.com/vehicle/2126822
+251,2011 Mercedes-Benz,C-Class,C 300 4MATIC Luxury,"56,355 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2164560
+252,2011 BMW,3 Series,328i,"57,012 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,"$20,990 ",https://www.carvana.com/vehicle/1946862
+253,2011 BMW,3 Series,328i,"47,829 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,"$23,590 ",https://www.carvana.com/vehicle/2144262
+254,2011 Mercedes-Benz,E-Class,E 350,"55,229 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,17 City,24 Hwy,1,"$21,590 ",https://www.carvana.com/vehicle/2141616
+255,2011 Audi,A5,2.0T Premium,"62,420 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,22 City,30 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2118306
+256,2011 Mercedes-Benz,E-Class,E 350,"84,729 miles",1,1,1,0,1,0,1,1,1,0,0,0,0,1,0,0,17 City,24 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2150956
+257,2011 Chevrolet,Camaro,LT,"99,330 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,18 City,29 Hwy,1,"$18,590 ",https://www.carvana.com/vehicle/2152161
+258,2011 Mercedes-Benz,GLK-Class,GLK 350,"74,465 miles",1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,16 City,23 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2161677
+259,2011 Mercedes-Benz,E-Class,E 350 4MATIC,"77,164 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,17 City,24 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2117080
+260,2011 Audi,A5,2.0T Premium,"62,420 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,22 City,30 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2118306
+261,2011 Mercedes-Benz,E-Class,E 550 4MATIC,"65,646 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,15 City,23 Hwy,1,"$22,590 ",https://www.carvana.com/vehicle/2174051
+262,2011 BMW,X3,xDrive28i,"73,085 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,19 City,25 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2166201
+263,2011 Chevrolet,Camaro,LT,"70,556 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,29 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2178504
+264,2011 Mercedes-Benz,S-Class,S 550 4MATIC,"99,572 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,14 City,21 Hwy,1,"$23,590 ",https://www.carvana.com/vehicle/2139786
+265,2011 BMW,X3,xDrive35i,"68,589 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,19 City,26 Hwy,1,"$19,590 ",https://www.carvana.com/vehicle/2180446
+266,2011 BMW,X6,xDrive35i,"95,503 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,16 City,23 Hwy,1,"$23,590 ",https://www.carvana.com/vehicle/2178699
+267,2011 Chevrolet,Camaro,LT,"42,038 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,18 City,29 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2096643
+268,2011 Chevrolet,Camaro,SS,"75,910 miles",1,0,1,0,1,1,0,1,0,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2168740
+269,2011 Audi,A4,2.0T Premium,"84,771 miles",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,22 City,30 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2143717
+270,2011 Chevrolet,Camaro,LT,"71,007 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,29 Hwy,1,"$19,590 ",https://www.carvana.com/vehicle/2073945
+271,2011 Ford,Mustang,base,"70,767 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,19 City,31 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2137319
+272,2011 Honda,Accord,LX-S,"51,883 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,23 City,32 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2175043
+273,2011 Lexus,IS,IS 250,"82,227 miles",1,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,21 City,30 Hwy,1,"$18,590 ",https://www.carvana.com/vehicle/2171639
+274,2011 Saab,3-Sep,Turbo4,"55,019 miles",0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,19 City,27 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2171154
+275,2011 Ford,Mustang,Premium,"73,522 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,19 City,31 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2107671
+276,2011 Porsche,Cayman,S,"78,693 miles",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,19 City,26 Hwy,1,"$48,990 ",https://www.carvana.com/vehicle/2154677
+277,2011 Chevrolet,Camaro,SS,"87,632 miles",1,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2161347
+278,2011 Chevrolet,Camaro,LT,"35,000 miles",0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,17 City,28 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2159598
+279,2011 Chevrolet,Camaro,LT,"33,007 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,17 City,28 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2140154
+280,2011 Ford,Mustang,GT Premium,"79,010 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,17 City,26 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2068896
+281,2011 Ford,Mustang,Premium,"54,287 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,19 City,30 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2069589
+282,2011 Buick,LaCrosse,CXS,"48,388 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,17 City,27 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2169748
+283,2011 Honda,Accord,LX-P,"104,382 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,23 City,34 Hwy,1,"$15,590 ",https://www.carvana.com/vehicle/2110663
+284,2011 Buick,LaCrosse,CXL,"65,350 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,17 City,27 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2093749
+285,2011 Mercedes-Benz,S-Class,S 550,"62,736 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,15 City,23 Hwy,1,"$27,990 ",https://www.carvana.com/vehicle/2153808
+286,2011 Lexus,ES,ES 350,"55,310 miles",1,1,0,1,1,1,0,1,1,0,0,0,0,1,0,0,19 City,27 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2176093
+287,2011 Buick,LaCrosse,CXS,"59,664 miles",0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,17 City,27 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2140333
+288,2011 Buick,LaCrosse,CXS,"73,513 miles",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,17 City,27 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2167545
+289,2011 INFINITI,FX,FX35,"74,924 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,16 City,23 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2178743
+290,2011 Mercedes-Benz,S-Class,S 550 4MATIC,"44,583 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,14 City,21 Hwy,1,"$30,990 ",https://www.carvana.com/vehicle/2093092
+291,2011 GMC,Acadia,SLT,"69,475 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,16 City,23 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2154710
+292,2011 INFINITI,QX,QX56,"94,874 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,14 City,20 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2167804
+293,2011 Honda,Pilot,EX-L,"75,300 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,17 City,23 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2120343
+294,2011 Buick,LaCrosse,CXL,"40,257 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,17 City,27 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2161795
+295,2011 INFINITI,G,G37,"80,610 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,16 City,24 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2159912
+296,2011 Jaguar,XK,XK,"52,701 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,16 City,22 Hwy,1,"$29,990 ",https://www.carvana.com/vehicle/2123690
+297,2011 GMC,Terrain,SLT,"65,399 miles",1,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0,17 City,24 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2169397
+298,2011 Chevrolet,Camaro,LT,"34,935 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,29 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2174567
+299,2011 Ford,Mustang,base,"8,970 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,19 City,31 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2130448
+300,2011 Honda,Accord,EX-L,"60,786 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,20 City,30 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2061563
+301,2011 Honda,Pilot,EX-L,"75,300 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,17 City,23 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2120343
+302,2011 Honda,Accord,EX-L,"100,859 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,20 City,30 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2159541
+303,2011 Chevrolet,Camaro,SS,"98,703 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2171944
+304,2011 GMC,Terrain,SLT,"65,399 miles",1,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0,17 City,24 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2169397
+305,2011 Audi,Q5,2.0T Quattro Premium,"83,446 miles",0,0,1,0,0,1,0,1,1,0,0,1,0,0,0,0,20 City,27 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2113198
+306,2011 Buick,LaCrosse,CXL,"22,675 miles",1,0,1,0,1,1,1,0,1,0,0,0,0,1,0,0,17 City,27 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2174438
+307,2011 Ford,Mustang,GT Premium,"62,314 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,17 City,26 Hwy,1,"$25,990 ",https://www.carvana.com/vehicle/2145126
+308,2011 Honda,Accord,SE,"105,158 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,23 City,34 Hwy,1,"$15,590 ",https://www.carvana.com/vehicle/2159059
+309,2011 Jaguar,XK,XK,"52,701 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,16 City,22 Hwy,1,"$29,990 ",https://www.carvana.com/vehicle/2123690
+310,2011 Cadillac,SRX,base,"88,380 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,"$16,990 ",https://www.carvana.com/vehicle/2168008
+311,2011 INFINITI,FX,FX35,"55,453 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,16 City,21 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2143297
+312,2011 Honda,Accord,EX-L,"39,961 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,23 City,34 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2171880
+313,2011 Honda,Accord Crosstour,EX-L,"50,853 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,18 City,26 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2169648
+314,2011 Ford,Mustang,GT Premium,"56,875 miles",1,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,17 City,26 Hwy,1,"$26,990 ",https://www.carvana.com/vehicle/2177150
+315,2011 Ford,Mustang,Premium,"30,591 miles",1,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,19 City,31 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2145038
+316,2011 Ram,1500 Quad Cab,SLT 6 1/3 ft,"74,773 miles",0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,13 City,19 Hwy,1,"$24,590 ",https://www.carvana.com/vehicle/2158970
+317,2011 Lexus,ES,ES 350,"79,669 miles",0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,19 City,27 Hwy,1,"$17,590 ",https://www.carvana.com/vehicle/2150984
+318,2011 Chevrolet,Suburban 1500,LT,"94,949 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,15 City,21 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2175857
+319,2011 Porsche,Panamera,base,"85,360 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,27 Hwy,1,"$30,990 ",https://www.carvana.com/vehicle/2135113
+320,2011 INFINITI,FX,FX35,"55,453 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,16 City,21 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2143297
+321,2011 Buick,Lucerne,CXL,"50,086 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,17 City,27 Hwy,1,"$17,590 ",https://www.carvana.com/vehicle/1940195
+322,2011 Audi,Q5,2.0T Quattro Premium,"83,446 miles",0,0,1,0,0,1,0,1,1,0,0,1,0,0,0,0,20 City,27 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2113198
+323,2011 Toyota,Tacoma Double Cab,PreRunner 5 ft,"88,206 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,19 City,25 Hwy,1,"$24,590 ",https://www.carvana.com/vehicle/2180790
+324,2011 Honda,Accord,EX-L,"90,661 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,20 City,30 Hwy,1,"$17,590 ",https://www.carvana.com/vehicle/2143039
+325,2011 Lexus,RX,RX 350,"71,013 miles",1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,24 Hwy,1,"$23,590 ",https://www.carvana.com/vehicle/2136719
+326,2011 Toyota,Camry,SE,"56,572 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,22 City,33 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2166578
+327,2011 Chevrolet,Camaro,SS,"98,703 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2171944
+328,2011 Ford,Ranger Super Cab,Sport 6 ft,"89,941 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,15 City,20 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2161913
+329,2011 Ford,Taurus,Limited,"93,163 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,28 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2149309
+330,2011 Toyota,Avalon,Limited,"77,019 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,20 City,29 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2150792
+331,2011 Honda,Accord Crosstour,EX-L,"50,853 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,18 City,26 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2169648
+332,2011 Ford,Explorer,Limited,"63,838 miles",1,1,1,0,0,1,0,1,0,0,0,0,0,1,0,0,17 City,23 Hwy,1,"$22,990 ",https://www.carvana.com/vehicle/2062864
+333,2011 Honda,Accord,EX-L,"39,961 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,23 City,34 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2171880
+334,2011 Acura,TL,base,"88,060 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,18 City,26 Hwy,1,"$17,590 ",https://www.carvana.com/vehicle/2133637
+335,2011 Toyota,RAV4,Limited,"90,895 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,22 City,28 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2178114
+336,2011 Honda,CR-V,SE,"84,135 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2174107
+337,2011 Jaguar,XK,XK,"52,701 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,16 City,22 Hwy,1,"$29,990 ",https://www.carvana.com/vehicle/2123690
+338,2011 Ford,Mustang,base,"13,614 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,19 City,31 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2142076
+339,2011 Chevrolet,Camaro,LT,"34,935 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,29 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2174567
+340,2011 Mazda,MAZDA6,i Sport,"86,255 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,30 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2121794
+341,2011 Jeep,Grand Cherokee,Laredo,"80,598 miles",0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,16 City,22 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2174826
+342,2011 Jaguar,XK,XK,"52,701 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,16 City,22 Hwy,1,"$29,990 ",https://www.carvana.com/vehicle/2123690
+343,2011 Toyota,Camry,LE,"88,922 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,22 City,32 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2161124
+344,2011 Ford,Edge,Limited,"93,541 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2169281
+345,2011 Honda,Pilot,EX-L,"98,832 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,17 City,23 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2157480
+346,2011 Ford,Mustang,base,"13,614 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,19 City,31 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2142076
+347,2011 Chevrolet,Camaro,LT,"60,347 miles",1,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,17 City,28 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2130581
+348,2011 Toyota,Camry,XLE,"69,571 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,20 City,29 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2175341
+349,2011 Acura,TSX,base,"97,112 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,22 City,31 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2157017
+350,2011 Buick,LaCrosse,CXL,"22,675 miles",1,0,1,0,1,1,1,0,1,0,0,0,0,1,0,0,17 City,27 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2174438
+351,2011 Toyota,Camry,base,"71,965 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,22 City,32 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2165595
+352,2011 Toyota,RAV4,base,"75,216 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,22 City,28 Hwy,1,"$17,590 ",https://www.carvana.com/vehicle/2158416
+353,2011 Ford,Edge,Limited,"93,817 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,19 City,27 Hwy,1,"$17,590 ",https://www.carvana.com/vehicle/2145727
+354,2011 Toyota,Camry,LE,"73,350 miles",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,22 City,32 Hwy,1,"$15,590 ",https://www.carvana.com/vehicle/2150579
+355,2011 Chevrolet,Camaro,LT,"55,504 miles",1,0,1,0,0,1,1,1,0,0,0,0,0,1,0,0,18 City,29 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2158142
+356,2011 INFINITI,EX,EX35 Journey,"84,409 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,17 City,24 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2155830
+357,2011 Toyota,Camry,SE,"64,063 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,22 City,32 Hwy,1,"$17,590 ",https://www.carvana.com/vehicle/2150061
+358,2011 Toyota,Camry,SE,"53,044 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,22 City,32 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2145687
+359,2011 Chevrolet,Camaro,LT,"33,506 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,17 City,28 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2148978
+360,2011 Chevrolet,Camaro,LT,"55,504 miles",1,0,1,0,0,1,1,1,0,0,0,0,0,1,0,0,18 City,29 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2158142
+361,2011 Honda,CR-V,EX,"77,921 miles",1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,21 City,27 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2136094
+362,2011 Cadillac,SRX,base,"83,200 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,"$17,590 ",https://www.carvana.com/vehicle/2144446
+363,2011 Ford,F150 SuperCrew Cab,FX4 5 1/2 ft,"86,831 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,15 City,21 Hwy,1,"$26,990 ",https://www.carvana.com/vehicle/2123791
+364,2011 Jeep,Grand Cherokee,Laredo,"66,709 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,14 City,20 Hwy,1,"$21,590 ",https://www.carvana.com/vehicle/2023003
+365,2011 Honda,CR-V,LX,"87,890 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,27 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2168132
+366,2011 Chevrolet,Camaro,LT,"33,506 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,17 City,28 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2148978
+367,2011 Honda,CR-V,EX-L,"73,516 miles",1,0,1,0,0,1,1,1,0,0,0,1,0,0,0,0,21 City,27 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2071039
+368,2011 Toyota,Camry,SE,"53,044 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,22 City,32 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2145687
+369,2011 Nissan,Frontier Crew Cab,SV 5 ft,"88,821 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,15 City,20 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2156452
+370,2011 Toyota,Tacoma Double Cab,PreRunner 5 ft,"68,026 miles",1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,17 City,21 Hwy,1,"$27,990 ",https://www.carvana.com/vehicle/2156025
+371,2011 Honda,CR-V,SE,"65,023 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2180297
+372,2011 Dodge,Avenger,Mainstreet,"56,209 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,19 City,29 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2173015
+373,2011 Acura,MDX,base,"94,453 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,16 City,21 Hwy,1,"$20,590 ",https://www.carvana.com/vehicle/2158525
+374,2011 Buick,Lucerne,CXL,"96,394 miles",0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,17 City,27 Hwy,1,"$14,590 ",https://www.carvana.com/vehicle/2168407
+375,2011 Chrysler,200,Limited,"30,910 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,19 City,29 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2133662
+376,2011 Ford,Edge,Limited,"63,666 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2178685
+377,2011 Honda,CR-V,EX-L,"100,134 miles",0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,21 City,27 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2138035
+378,2011 Honda,CR-V,LX,"93,417 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,27 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2165080
+379,2011 Ford,Taurus,SE,"77,412 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,18 City,28 Hwy,1,"$14,590 ",https://www.carvana.com/vehicle/2174651
+380,2011 Nissan,Maxima,SV,"96,776 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,19 City,26 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2163371
+381,2011 Honda,CR-V,EX-L,"100,134 miles",0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,21 City,27 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2138035
+382,2011 Nissan,Altima,2.5 S,"71,857 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,23 City,32 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2177252
+383,2011 Chevrolet,Impala,LTZ,"59,130 miles",0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,17 City,27 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2167762
+384,2011 Chevrolet,Equinox,LT,"86,719 miles",1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,20 City,29 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2143474
+385,2011 Honda,Odyssey,EX-L,"84,538 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,27 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2178159
+386,2011 Honda,CR-V,LX,"95,877 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2115038
+387,2011 Lincoln,Town Car,Signature Limited,"74,844 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,16 City,24 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2169446
+388,2011 Honda,CR-V,SE,"98,749 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/2130275
+389,2011 Honda,CR-V,SE,"97,682 miles",0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/2121477
+390,2011 Honda,CR-V,LX,"93,417 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,27 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2165080
+391,2011 Toyota,Sienna,LE,"56,450 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,19 City,24 Hwy,1,"$22,990 ",https://www.carvana.com/vehicle/2180249
+392,2011 Honda,CR-V,LX,"99,734 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2132489
+393,2011 Ram,1500 Crew Cab,SLT 5 1/2 ft,"65,722 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,14 City,20 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2002787
+394,2011 Ford,Fusion,SEL,"78,174 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,"$14,990 ",https://www.carvana.com/vehicle/2145208
+395,2011 Toyota,Venza,base,"49,813 miles",1,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2156235
+396,2011 Toyota,Sienna,LE,"73,659 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,24 Hwy,1,"$21,590 ",https://www.carvana.com/vehicle/2134735
+397,2011 MINI,Hardtop,John Cooper Works,"89,052 miles",1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,25 City,33 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2164909
+398,2011 Honda,CR-V,LX,"99,155 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2150631
+399,2011 Chevrolet,Equinox,LS,"46,401 miles",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,20 City,29 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2179864
+400,2011 Toyota,Sienna,SE,"77,179 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,24 Hwy,1,"$23,590 ",https://www.carvana.com/vehicle/2050261
+401,2011 Honda,CR-V,LX,"99,723 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,27 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2161165
+402,2011 Honda,Odyssey,Touring,"86,458 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,19 City,28 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2174201
+403,2011 Nissan,Altima,2.5 SL,"96,510 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,23 City,32 Hwy,1,"$13,590 ",https://www.carvana.com/vehicle/2148546
+404,2011 Ram,1500 Crew Cab,SLT 5 1/2 ft,"65,722 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,14 City,20 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2002787
+405,2011 Mazda,MAZDA3,s Grand Touring,"68,400 miles",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,20 City,28 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2175486
+406,2011 Kia,Optima,SX,"68,362 miles",1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,22 City,34 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/2178267
+407,2011 Honda,Odyssey,Touring,"72,604 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,19 City,28 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2179931
+408,2011 Hyundai,Tucson,Limited,"77,247 miles",1,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,22 City,31 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/2056052
+409,2011 Chevrolet,Malibu,LTZ,"81,689 miles",0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,"$13,990 ",https://www.carvana.com/vehicle/2171509
+410,2011 MINI,Hardtop,Cooper S,"71,238 miles",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,27 City,35 Hwy,1,"$15,590 ",https://www.carvana.com/vehicle/2168700
+411,2011 Toyota,Corolla,LE,"95,144 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2175096
+412,2011 Hyundai,Sonata,SE,"72,410 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,22 City,35 Hwy,1,"$15,590 ",https://www.carvana.com/vehicle/2141556
+413,2011 Toyota,Corolla,S,"95,583 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2158993
+414,2011 Hyundai,Sonata,SE,"66,627 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,22 City,33 Hwy,1,"$15,590 ",https://www.carvana.com/vehicle/2138575
+415,2011 Chevrolet,Volt,base,"74,470 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"$14,990 ",https://www.carvana.com/vehicle/2154756
+416,2011 Kia,Optima,EX,"96,000 miles",1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,24 City,34 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2176051
+417,2011 Chevrolet,Camaro,LT,"33,506 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,17 City,28 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2148978
+418,2011 Honda,Civic,EX-L,"80,655 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,25 City,36 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2147209
+419,2011 Volkswagen,Tiguan,S,"57,317 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,20 City,25 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2177807
+420,2011 Hyundai,Sonata,SE,"76,512 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,22 City,35 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2170935
+421,2011 Chevrolet,Volt,base,"74,470 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"$14,990 ",https://www.carvana.com/vehicle/2154756
+422,2011 Toyota,Corolla,LE,"95,144 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2175096
+423,2011 Ford,F150 SuperCrew Cab,Lariat Limited 5 1/2 ft,"63,818 miles",0,1,1,0,1,0,0,0,1,0,0,0,0,0,1,0,12 City,16 Hwy,1,"$32,990 ",https://www.carvana.com/vehicle/2150053
+424,2011 Hyundai,Sonata,GLS,"87,666 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,24 City,35 Hwy,1,"$13,590 ",https://www.carvana.com/vehicle/2158261
+425,2011 Toyota,Corolla,S,"95,583 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2158993
+426,2011 Kia,Optima,EX,"96,000 miles",1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,24 City,34 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2176051
+427,2011 MINI,Convertible,Cooper S,"28,456 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,27 City,35 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2142238
+428,2011 Hyundai,Sonata,SE,"84,266 miles",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,22 City,35 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2027735
+429,2011 Toyota,Corolla,S,"83,686 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2088994
+430,2011 MINI,Hardtop,Cooper,"67,814 miles",1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,28 City,36 Hwy,1,"$14,590 ",https://www.carvana.com/vehicle/2088076
+431,2011 Toyota,Prius,Two,"94,252 miles",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,51 City,48 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2159638
+432,2011 Kia,Sorento,LX,"48,921 miles",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,21 City,27 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2159714
+433,2011 Volkswagen,Jetta,TDI SportWagen Sport,"69,075 miles",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,29 City,37 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/2172044
+434,2011 Hyundai,Sonata,GLS,"73,805 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,22 City,35 Hwy,1,"$14,590 ",https://www.carvana.com/vehicle/2120934
+435,2011 Volvo,XC60,3.2,"88,833 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,18 City,25 Hwy,1,"$15,590 ",https://www.carvana.com/vehicle/2033871
+436,2011 Mazda,MAZDA3,i Sport,"72,397 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,24 City,33 Hwy,1,"$13,590 ",https://www.carvana.com/vehicle/2177595
+437,2011 Hyundai,Santa Fe,SE,"61,905 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,20 City,26 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2156771
+438,2011 Ford,Escape,Limited,"51,683 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,19 City,25 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/2161037
+439,2011 Volkswagen,Touareg,VR6,"94,218 miles",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,16 City,23 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2169123
+440,2011 Hyundai,Santa Fe,GLS,"90,470 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,"$13,990 ",https://www.carvana.com/vehicle/2162647
+441,2011 Ford,Escape,Limited,"51,683 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,19 City,25 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/2161037
+442,2011 Ford,F150 SuperCrew Cab,Lariat Limited 5 1/2 ft,"63,818 miles",0,1,1,0,1,0,0,0,1,0,0,0,0,0,1,0,12 City,16 Hwy,1,"$32,990 ",https://www.carvana.com/vehicle/2150053
+443,2011 Volkswagen,Jetta,SE,"78,763 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,24 City,31 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2135524
+444,2011 Toyota,Prius,Two,"63,450 miles",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,51 City,48 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2102000
+445,2011 Kia,Sorento,LX,"81,438 miles",1,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,21 City,27 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2131513
+446,2011 MINI,Hardtop,Cooper S,"83,497 miles",1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,27 City,35 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/1957510
+447,2011 Kia,Sorento,EX,"71,728 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,24 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2151448
+448,2011 Volkswagen,Jetta,SE,"64,448 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,23 City,33 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2071574
+449,2011 Volkswagen,Jetta,SE,"100,031 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,24 City,31 Hwy,1,"$12,990 ",https://www.carvana.com/vehicle/2160775
+450,2011 Nissan,JUKE,SL,"92,305 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,24 City,31 Hwy,1,"$14,590 ",https://www.carvana.com/vehicle/2168964
+451,2011 Kia,Sorento,EX,"72,007 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,21 City,29 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2130673
+452,2011 Subaru,Forester,2.5XT Touring,"84,811 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,19 City,24 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2172263
+453,2011 Volkswagen,Jetta,TDI SportWagen Sport,"69,075 miles",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,29 City,37 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/2172044
+454,2011 Hyundai,Elantra,GLS,"92,000 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,28 City,38 Hwy,1,"$12,990 ",https://www.carvana.com/vehicle/2177759
+455,2011 Kia,Sorento,LX,"83,210 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,20 City,26 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2083206
+456,2011 Kia,Sorento,LX,"63,349 miles",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,21 City,27 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/2135769
+457,2011 Nissan,JUKE,SV,"92,152 miles",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,24 City,31 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2141579
+458,2011 Porsche,Panamera,4,"72,251 miles",0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,18 City,26 Hwy,1,"$34,990 ",https://www.carvana.com/vehicle/2123604
+459,2011 Volkswagen,Touareg,VR6,"94,218 miles",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,16 City,23 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2169123
+460,2011 Honda,Civic,EX,"94,069 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2163023
+461,2011 MINI,Hardtop,Cooper,"67,814 miles",1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,28 City,36 Hwy,1,"$14,590 ",https://www.carvana.com/vehicle/2088076
+462,2011 MINI,Hardtop,Cooper,"73,957 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,28 City,36 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/1962625
+463,2011 Toyota,Prius,Two,"63,450 miles",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,51 City,48 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2102000
+464,2011 Toyota,Prius,Three,"74,997 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,51 City,48 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2177468
+465,2011 Hyundai,Elantra,GLS,"67,577 miles",1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,28 City,38 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2090462
+466,2011 Hyundai,Elantra,GLS,"92,000 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,28 City,38 Hwy,1,"$12,990 ",https://www.carvana.com/vehicle/2177759
+467,2011 Nissan,Versa,S,"87,406 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,28 City,34 Hwy,1,"$10,590 ",https://www.carvana.com/vehicle/2085483
+468,2011 Mazda,MAZDA2,Sport,"74,730 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,27 City,33 Hwy,1,"$11,990 ",https://www.carvana.com/vehicle/2123814
+469,2011 Ford,Escape,XLT,"96,984 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,19 City,25 Hwy,1,"$14,590 ",https://www.carvana.com/vehicle/2151506
+470,2011 Mazda,MX-5 Miata,Grand Touring,"58,583 miles",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2098296
+471,2011 Mazda,MX-5 Miata,Grand Touring,"31,616 miles",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$24,590 ",https://www.carvana.com/vehicle/2153020
+472,2011 Mazda,MX-5 Miata,Grand Touring,"38,026 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2146191
+473,2011 Nissan,LEAF,SL,"72,295 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,"$10,990 ",https://www.carvana.com/vehicle/2178997
+474,2011 Hyundai,Accent,GL,"69,226 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,28 City,34 Hwy,1,"$10,990 ",https://www.carvana.com/vehicle/2179762
+475,2011 Kia,Soul,+,"75,279 miles",1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,24 City,30 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2152824
+476,2011 Kia,Soul,+,"66,442 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,24 City,30 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2115541
+477,2011 Kia,Soul,+,"81,932 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,24 City,30 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2163288
+478,2011 Chevrolet,Cruze,LT,"56,256 miles",0,1,1,0,1,0,0,1,0,0,0,1,0,0,0,0,24 City,36 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2162357
+479,2011 Honda,Fit,Sport,"81,887 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,27 City,33 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2175910
+480,2011 Toyota,4Runner,SR5,"91,946 miles",0,0,1,0,0,1,0,1,1,0,1,0,0,1,0,0,17 City,23 Hwy,1,"$26,590 ",https://www.carvana.com/vehicle/2113823
+481,2011 Jaguar,XK,XK,"52,701 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,16 City,22 Hwy,1,"$29,990 ",https://www.carvana.com/vehicle/2123690
+482,2011 Porsche,Panamera,4,"72,251 miles",0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,18 City,26 Hwy,1,"$34,990 ",https://www.carvana.com/vehicle/2123604
+483,2011 Ford,F150 SuperCrew Cab,FX4 5 1/2 ft,"86,831 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,15 City,21 Hwy,1,"$26,990 ",https://www.carvana.com/vehicle/2123791
+484,2011 Porsche,Cayman,S,"78,693 miles",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,19 City,26 Hwy,1,"$48,990 ",https://www.carvana.com/vehicle/2154677
+485,2011 Audi,A8,4.2 Quattro,"40,623 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,17 City,27 Hwy,1,"$29,990 ",https://www.carvana.com/vehicle/2158007
+486,2011 Mercedes-Benz,S-Class,S 550 4MATIC,"44,583 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,14 City,21 Hwy,1,"$30,990 ",https://www.carvana.com/vehicle/2093092
+487,2011 Mercedes-Benz,S-Class,S 550,"62,736 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,15 City,23 Hwy,1,"$27,990 ",https://www.carvana.com/vehicle/2153808
+488,2011 Toyota,FJ Cruiser,base,"63,835 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,17 City,22 Hwy,1,"$36,590 ",https://www.carvana.com/vehicle/2154021
+489,2011 Chevrolet,Camaro,SS,"32,948 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$30,990 ",https://www.carvana.com/vehicle/2051030
+490,2011 Chevrolet,Camaro,SS,"38,311 miles",1,0,1,0,0,1,1,1,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$29,990 ",https://www.carvana.com/vehicle/2163598
+491,2011 Maserati,GranTurismo,base,"21,829 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,12 City,20 Hwy,1,"$52,990 ",https://www.carvana.com/vehicle/2153061
+492,2011 GMC,Sierra 2500 HD Crew Cab,SLT 6 1/2 ft,"58,495 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,"$46,990 ",https://www.carvana.com/vehicle/2166014
+493,2011 Ford,F150 SuperCrew Cab,FX2 5 1/2 ft,"65,565 miles",1,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,15 City,21 Hwy,1,"$26,990 ",https://www.carvana.com/vehicle/2121772
+494,2011 Mercedes-Benz,E-Class,E 550,"44,628 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,15 City,22 Hwy,1,"$30,990 ",https://www.carvana.com/vehicle/2172660
+495,2011 Mercedes-Benz,E-Class,E 350 4MATIC,"71,730 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,16 City,23 Hwy,1,"$25,590 ",https://www.carvana.com/vehicle/2127684
+496,2011 Mercedes-Benz,E-Class,E 550,"36,697 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,15 City,23 Hwy,1,"$25,990 ",https://www.carvana.com/vehicle/2134338
+497,2011 Mercedes-Benz,E-Class,E 350 4MATIC,"61,109 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,16 City,23 Hwy,1,"$25,990 ",https://www.carvana.com/vehicle/2169398
+498,2011 Mercedes-Benz,SL-Class,SL 550,"53,021 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,14 City,22 Hwy,1,"$39,990 ",https://www.carvana.com/vehicle/2172387
+499,2011 BMW,M3,base,"45,889 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,14 City,20 Hwy,1,"$37,990 ",https://www.carvana.com/vehicle/2162048
+500,2011 Chevrolet,Corvette,Grand Sport,"54,859 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,15 City,25 Hwy,1,"$39,990 ",https://www.carvana.com/vehicle/2162007
+501,2011 GMC,Yukon,Denali,"95,744 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,13 City,18 Hwy,1,"$28,990 ",https://www.carvana.com/vehicle/2162177
+502,2011 Mercedes-Benz,SL-Class,SL 550,"37,687 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,14 City,22 Hwy,1,"$44,990 ",https://www.carvana.com/vehicle/2171664
+503,2011 Audi,TT,TTS Quattro Premium Plus,"77,889 miles",1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,22 City,31 Hwy,1,"$25,590 ",https://www.carvana.com/vehicle/2171765
+504,2011 Jeep,Wrangler,Unlimited Sahara,"68,823 miles",1,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,15 City,19 Hwy,1,"$29,990 ",https://www.carvana.com/vehicle/2168002
+505,2011 Chevrolet,Camaro,SS,"21,156 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$29,990 ",https://www.carvana.com/vehicle/2175222
+506,2011 Lexus,IS,IS 350C,"57,364 miles",1,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,20 City,27 Hwy,1,"$28,590 ",https://www.carvana.com/vehicle/2167589
+507,2011 BMW,3 Series,335is,"49,521 miles",1,0,1,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,1,"$28,990 ",https://www.carvana.com/vehicle/2076335
+508,2011 Toyota,4Runner,Limited,"64,038 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,17 City,22 Hwy,1,"$31,990 ",https://www.carvana.com/vehicle/2174323
+509,2011 BMW,Z4,sDrive35i,"82,019 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,17 City,24 Hwy,1,"$25,990 ",https://www.carvana.com/vehicle/1922815
+510,2011 Chevrolet,Camaro,SS,"76,472 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$25,990 ",https://www.carvana.com/vehicle/2171453
+511,2011 Toyota,Tundra Double Cab,6 1/2 ft,"54,186 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,14 City,18 Hwy,1,"$29,990 ",https://www.carvana.com/vehicle/2173576
+512,2011 BMW,Z4,sDrive30i,"47,062 miles",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,18 City,28 Hwy,1,"$30,990 ",https://www.carvana.com/vehicle/2173571
+513,2011 Ram,1500 Crew Cab,SLT 5 1/2 ft,"50,945 miles",1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,14 City,20 Hwy,1,"$26,990 ",https://www.carvana.com/vehicle/2147869
+514,2011 Jaguar,XJ,XJL Supercharged,"51,680 miles",1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,15 City,21 Hwy,1,"$29,990 ",https://www.carvana.com/vehicle/2144742
+515,2011 INFINITI,G,G37x,"51,146 miles",0,1,0,0,1,1,0,1,1,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2102169
+516,2011 Honda,Accord,LX-P,"60,296 miles",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,23 City,34 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2040609
+517,2011 Mercedes-Benz,GLK-Class,GLK 350 4MATIC,"63,412 miles",0,1,0,1,1,0,1,0,1,0,1,0,0,1,0,0,16 City,21 Hwy,1,"$20,590 ",https://www.carvana.com/vehicle/2105775
+518,2011 Acura,TL,base,"70,680 miles",1,1,0,0,1,1,1,1,1,0,0,0,0,1,0,0,17 City,25 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2063473
+519,2011 Hyundai,Tucson,GLS,"73,965 miles",1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,22 City,31 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2115566
+520,2011 Toyota,Avalon,base,"20,466 miles",1,1,0,0,1,1,1,1,1,0,0,0,0,1,0,0,20 City,29 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2149123
+521,2011 Audi,A3,2.0 TDI,"69,527 miles",0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,30 City,42 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2040221
+522,2011 Lexus,ES,ES 350,"59,871 miles",1,1,0,0,1,0,1,1,1,0,0,0,0,1,0,0,19 City,27 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2151839
+523,2011 Toyota,Camry,XLE,"84,417 miles",1,1,1,0,1,0,0,1,1,0,0,0,0,1,0,0,20 City,29 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2118804
+524,2011 Toyota,Corolla,S,"87,122 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2112481
+525,2011 Toyota,Prius,Five,"78,366 miles",1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,51 City,48 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2138843
+526,2011 Dodge,Challenger,base,"50,353 miles",0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,18 City,27 Hwy,1,"$22,990 ",https://www.carvana.com/vehicle/2093977
+527,2011 Kia,Soul,!,"80,565 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,24 City,30 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2055393
+528,2011 Buick,LaCrosse,CXS,"57,372 miles",0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,17 City,27 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2133086
+529,2011 Ford,Mustang,Premium,"68,574 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,19 City,30 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2106128
+530,2011 Acura,RDX,base,"73,058 miles",1,1,0,0,1,1,1,1,0,0,0,1,0,0,0,0,17 City,22 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2102893
+531,2011 Toyota,Camry,LE,"92,114 miles",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,22 City,32 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2102663
+532,2011 Porsche,Panamera,S,"64,167 miles",1,1,0,0,1,0,1,1,1,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$36,990 ",https://www.carvana.com/vehicle/1999303
+533,2011 Jeep,Wrangler,Sport,"47,713 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,15 City,19 Hwy,1,"$25,590 ",https://www.carvana.com/vehicle/2149421
+534,2011 Toyota,Tacoma Access Cab,6 ft,"13,133 miles",1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,"$32,990 ",https://www.carvana.com/vehicle/2136920
+535,2011 Ford,Mustang,Shelby GT500,"47,343 miles",1,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,15 City,23 Hwy,1,"$44,990 ",https://www.carvana.com/vehicle/2086745
+536,2011 Mercedes-Benz,SL-Class,SL 550,"42,848 miles",1,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,14 City,22 Hwy,1,"$38,990 ",https://www.carvana.com/vehicle/1866404
+537,2011 Chevrolet,Corvette,base,"40,756 miles",1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,15 City,25 Hwy,1,"$37,990 ",https://www.carvana.com/vehicle/2125274
+538,2011 Mercedes-Benz,SL-Class,SL 550,"82,603 miles",1,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,14 City,22 Hwy,1,"$34,990 ",https://www.carvana.com/vehicle/2124763
+539,2011 Nissan,Altima,2.5 S,"76,295 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,23 City,32 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2180456
+540,2011 Honda,Accord,LX,"48,144 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,23 City,34 Hwy,1,"$17,590 ",https://www.carvana.com/vehicle/2180033
+541,2011 Mercedes-Benz,C-Class,C 300 Sport,"99,331 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,18 City,26 Hwy,1,"$15,590 ",https://www.carvana.com/vehicle/2179942
+542,2011 Toyota,Camry,LE,"53,815 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,22 City,32 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2183494
+543,2011 Honda,Accord,SE,"99,307 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,23 City,34 Hwy,1,"$15,590 ",https://www.carvana.com/vehicle/2181852
+544,2011 Honda,CR-V,EX-L,"91,060 miles",1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,0,21 City,27 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2151341
+545,2011 Lincoln,MKZ,Hybrid,"87,914 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,41 City,36 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2181052
+546,2011 Nissan,Altima,2.5 SL,"62,526 miles",1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,23 City,32 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2181129
+547,2011 BMW,3 Series,328i,"11,552 miles",1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,"$28,590 ",https://www.carvana.com/vehicle/2143711
+548,2011 Honda,CR-V,EX,"52,968 miles",1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2109248
+549,2011 Jeep,Patriot,base,"53,325 miles",1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,"$15,990 ",https://www.carvana.com/vehicle/2150226
+550,2011 BMW,5 Series,528i,"75,299 miles",1,1,1,0,1,1,1,1,1,0,0,0,0,0,0,1,22 City,32 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2156794
+551,2011 Mazda,CX-9,Grand Touring,"73,203 miles",0,1,1,0,1,0,0,0,1,0,0,0,0,1,0,0,17 City,24 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2138527
+552,2011 Lexus,HS,HS 250h,"59,502 miles",1,1,1,0,1,0,0,1,1,0,0,1,0,0,0,0,35 City,34 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2110832
+553,2011 Subaru,Forester,2.5X Premium,"84,243 miles",1,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,21 City,27 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/1728949
+554,2011 Scion,xB,base,"70,782 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,22 City,28 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2133940
+555,2011 Toyota,Camry,SE,"52,922 miles",1,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,22 City,32 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2130093
+556,2011 Mercedes-Benz,E-Class,E 350,"83,900 miles",1,1,0,1,1,1,0,0,1,0,0,0,0,1,0,0,17 City,25 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2144447
+557,2011 Ram,1500 Crew Cab,Sport 5 1/2 ft,"95,163 miles",1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,14 City,20 Hwy,1,"$24,590 ",https://www.carvana.com/vehicle/2171231
+558,2011 Nissan,Frontier Crew Cab,SL 5 ft,"84,748 miles",1,0,1,0,0,1,1,1,0,0,1,0,0,1,0,0,14 City,19 Hwy,1,"$22,590 ",https://www.carvana.com/vehicle/2102322
+559,2011 Subaru,Forester,2.5X Touring,"97,082 miles",1,1,1,0,0,0,1,1,0,0,0,1,0,0,0,0,21 City,27 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/2143640
+560,2011 Subaru,Forester,2.5X Premium,"58,734 miles",1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,0,21 City,27 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2155696
+561,2011 Acura,RDX,base,"71,980 miles",1,1,1,0,0,1,1,1,0,0,0,1,0,0,0,0,19 City,24 Hwy,1,"$18,590 ",https://www.carvana.com/vehicle/2104303
+562,2011 Acura,TL,base,"59,008 miles",0,1,1,0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,"$18,590 ",https://www.carvana.com/vehicle/2156024
+563,2011 Mercedes-Benz,C-Class,C 300 Luxury,"64,806 miles",1,0,1,0,0,1,1,0,1,0,0,0,0,1,0,0,18 City,26 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2145617
+564,2011 Toyota,Camry,SE,"63,613 miles",1,0,1,0,0,1,1,1,1,0,0,0,0,1,0,0,20 City,29 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2145129
+565,2011 Lexus,RX,RX 350,"78,198 miles",1,1,1,0,0,1,0,1,1,0,0,0,0,1,0,0,18 City,24 Hwy,1,"$21,590 ",https://www.carvana.com/vehicle/2057937
+566,2011 Jeep,Grand Cherokee,Laredo,"73,006 miles",1,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,16 City,22 Hwy,1,"$19,590 ",https://www.carvana.com/vehicle/2099451
+567,2011 Jaguar,XJ,XJL,"36,749 miles",1,1,1,0,1,1,0,1,1,0,0,0,0,0,1,0,15 City,22 Hwy,1,"$26,990 ",https://www.carvana.com/vehicle/2167205
+568,2011 Buick,LaCrosse,CXS,"60,818 miles",1,0,1,0,0,1,1,0,1,0,0,0,0,1,0,0,17 City,27 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2121751
+569,2011 BMW,3 Series,328i xDrive,"64,894 miles",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,"$16,990 ",https://www.carvana.com/vehicle/2062464
+570,2011 Lincoln,Town Car,Signature Limited,"89,577 miles",0,0,0,1,0,0,1,1,1,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2129008
+571,2011 Jeep,Wrangler,Rubicon,"76,477 miles",1,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,15 City,19 Hwy,1,"$26,990 ",https://www.carvana.com/vehicle/2115787
+572,2011 BMW,1 Series,128i,"66,933 miles",1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,18 City,27 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2042680
+573,2011 Audi,Q5,2.0T Quattro Premium,"65,229 miles",1,1,1,0,1,0,1,1,0,0,0,1,0,0,0,0,20 City,27 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2077528
+574,2011 MINI,Hardtop,Cooper,"89,458 miles",1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,28 City,36 Hwy,1,"$12,990 ",https://www.carvana.com/vehicle/1974339
+575,2011 Toyota,Corolla,S,"53,872 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/1980142
+576,2011 Toyota,RAV4,Limited,"57,244 miles",1,1,1,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,1,"$20,990 ",https://www.carvana.com/vehicle/2165352
+577,2011 INFINITI,G,G37x,"70,606 miles",1,1,1,0,0,1,1,1,0,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2101186
+578,2011 Volkswagen,Jetta,SE,"17,322 miles",1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,24 City,31 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/2127399
+579,2011 BMW,3 Series,328i,"75,418 miles",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,"$15,990 ",https://www.carvana.com/vehicle/2142012
+580,2011 Hyundai,Sonata,SE,"83,975 miles",1,0,1,0,0,1,0,1,1,0,0,1,0,0,0,0,22 City,35 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2077251
+581,2011 Lexus,RX,RX 350,"78,198 miles",1,1,1,0,0,1,0,1,1,0,0,0,0,1,0,0,18 City,24 Hwy,1,"$21,590 ",https://www.carvana.com/vehicle/2057937
+582,2011 Jeep,Grand Cherokee,Laredo,"73,006 miles",1,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,16 City,22 Hwy,1,"$19,590 ",https://www.carvana.com/vehicle/2099451
+583,2011 Jaguar,XJ,XJL,"36,749 miles",1,1,1,0,1,1,0,1,1,0,0,0,0,0,1,0,15 City,22 Hwy,1,"$26,990 ",https://www.carvana.com/vehicle/2167205
+584,2011 Buick,LaCrosse,CXS,"60,818 miles",1,0,1,0,0,1,1,0,1,0,0,0,0,1,0,0,17 City,27 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2121751
+585,2011 BMW,3 Series,328i xDrive,"64,894 miles",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,"$16,990 ",https://www.carvana.com/vehicle/2062464
+586,2011 Lincoln,Town Car,Signature Limited,"89,577 miles",0,0,0,1,0,0,1,1,1,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2129008
+587,2011 Jeep,Wrangler,Rubicon,"76,477 miles",1,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,15 City,19 Hwy,1,"$26,990 ",https://www.carvana.com/vehicle/2115787
+588,2011 BMW,1 Series,128i,"66,933 miles",1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,18 City,27 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2042680
+589,2011 Audi,Q5,2.0T Quattro Premium,"65,229 miles",1,1,1,0,1,0,1,1,0,0,0,1,0,0,0,0,20 City,27 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2077528
+590,2011 MINI,Hardtop,Cooper,"89,458 miles",1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,28 City,36 Hwy,1,"$12,990 ",https://www.carvana.com/vehicle/1974339
+591,2011 Toyota,Corolla,S,"53,872 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/1980142
+592,2011 Toyota,RAV4,Limited,"57,244 miles",1,1,1,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,1,"$20,990 ",https://www.carvana.com/vehicle/2165352
+593,2011 INFINITI,G,G37x,"70,606 miles",1,1,1,0,0,1,1,1,0,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2101186
+594,2011 Volkswagen,Jetta,SE,"17,322 miles",1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,24 City,31 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/2127399
+595,2011 BMW,3 Series,328i,"75,418 miles",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,"$15,990 ",https://www.carvana.com/vehicle/2142012
+596,2011 BMW,3 Series,328i,"75,418 miles",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,"$15,990 ",https://www.carvana.com/vehicle/2142012
+597,2011 Lexus,ES,ES 350,"73,005 miles",1,1,0,0,1,0,1,1,1,0,0,0,0,1,0,0,19 City,27 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2102940
+598,2011 Hyundai,Sonata,SE,"83,975 miles",1,0,1,0,0,1,0,1,1,0,0,1,0,0,0,0,22 City,35 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2077251
+599,2011 Volvo,C30,R-Design,"28,766 miles",0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,21 City,30 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2174263
+600,2011 Chrysler,Town & Country,Limited,"78,581 miles",1,0,1,0,1,0,1,1,0,0,0,0,0,1,0,0,17 City,25 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2095922
+601,2011 BMW,3 Series,328i xDrive,"68,754 miles",1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,"$16,990 ",https://www.carvana.com/vehicle/1989448
+602,2011 Lexus,RX,RX 350,"92,124 miles",1,1,0,0,1,1,0,1,1,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$21,590 ",https://www.carvana.com/vehicle/2119263
+603,2011 BMW,3 Series,328i,"51,096 miles",1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,1,0,0,1,"$21,990 ",https://www.carvana.com/vehicle/1961977
+604,2011 Chevrolet,Camaro,SS,"3,652 miles",1,1,0,1,0,0,1,1,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$30,590 ",https://www.carvana.com/vehicle/2075355
+605,2011 Ram,Dakota Crew Cab,Big Horn/Lone Star 5 1/4 ft,"82,300 miles",0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,"$19,990 ",https://www.carvana.com/vehicle/2112470
+606,2011 Mercedes-Benz,S-Class,S 65 AMG,"63,321 miles",0,1,1,0,1,1,0,1,1,0,0,0,0,0,0,0,12 City,19 Hwy,1,"$49,990 ",https://www.carvana.com/vehicle/2087706
+607,2011 Chevrolet,Corvette,base,"52,322 miles",1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,15 City,25 Hwy,1,"$33,990 ",https://www.carvana.com/vehicle/2068861
+608,2011 Mercedes-Benz,GL-Class,GL 550 4MATIC,"55,458 miles",1,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,12 City,17 Hwy,1,"$28,990 ",https://www.carvana.com/vehicle/2115260
+609,2011 Hyundai,Sonata,SE,"85,447 miles",1,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,22 City,35 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2119327
+610,2011 Mercedes-Benz,E-Class,E 550,"23,035 miles",1,1,0,0,1,1,1,0,1,0,0,0,0,0,1,0,15 City,22 Hwy,1,"$31,990 ",https://www.carvana.com/vehicle/2109984
+611,2011 Hyundai,Santa Fe,SE,"58,647 miles",1,0,1,0,0,1,1,1,0,0,0,0,0,1,0,0,20 City,26 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2101886
+612,2011 Buick,LaCrosse,CXL,"26,159 miles",1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,17 City,27 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2008042
+613,2011 GMC,Terrain,SLE,"78,906 miles",1,1,0,0,0,1,1,1,0,0,0,0,0,1,0,0,16 City,22 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2102173
+614,2011 Kia,Optima,LX,"93,979 miles",1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,24 City,34 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2135499
+615,2011 Lexus,RX,RX 350,"61,235 miles",1,1,1,0,1,0,0,1,1,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2040766
+616,2011 Mazda,MAZDA3,i Sport,"56,858 miles",0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,24 City,33 Hwy,1,"$13,590 ",https://www.carvana.com/vehicle/2135503
+617,2011 BMW,3 Series,328i xDrive,"68,754 miles",1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,"$16,990 ",https://www.carvana.com/vehicle/1989448
+618,2011 Lexus,RX,RX 350,"92,124 miles",1,1,0,0,1,1,0,1,1,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$21,590 ",https://www.carvana.com/vehicle/2119263
+619,2011 BMW,3 Series,328i,"51,096 miles",1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,1,0,0,1,"$21,990 ",https://www.carvana.com/vehicle/1961977
+620,2011 Chevrolet,Camaro,SS,"3,652 miles",1,1,0,1,0,0,1,1,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$30,590 ",https://www.carvana.com/vehicle/2075355
+621,2011 Ram,Dakota Crew Cab,Big Horn/Lone Star 5 1/4 ft,"82,300 miles",0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,"$19,990 ",https://www.carvana.com/vehicle/2112470
+622,2011 Mercedes-Benz,S-Class,S 65 AMG,"63,321 miles",0,1,1,0,1,1,0,1,1,0,0,0,0,0,0,0,12 City,19 Hwy,1,"$49,990 ",https://www.carvana.com/vehicle/2087706
+623,2011 Chevrolet,Corvette,base,"52,322 miles",1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,15 City,25 Hwy,1,"$33,990 ",https://www.carvana.com/vehicle/2068861
+624,2011 Mercedes-Benz,GL-Class,GL 550 4MATIC,"55,458 miles",1,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,12 City,17 Hwy,1,"$28,990 ",https://www.carvana.com/vehicle/2115260
+625,2011 Hyundai,Sonata,SE,"85,447 miles",1,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,22 City,35 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2119327
+626,2011 Mercedes-Benz,E-Class,E 550,"23,035 miles",1,1,0,0,1,1,1,0,1,0,0,0,0,0,1,0,15 City,22 Hwy,1,"$31,990 ",https://www.carvana.com/vehicle/2109984
+627,2011 Hyundai,Santa Fe,SE,"58,647 miles",1,0,1,0,0,1,1,1,0,0,0,0,0,1,0,0,20 City,26 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2101886
+628,2011 Buick,LaCrosse,CXL,"26,159 miles",1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,17 City,27 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2008042
+629,2011 GMC,Terrain,SLE,"78,906 miles",1,1,0,0,0,1,1,1,0,0,0,0,0,1,0,0,16 City,22 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2102173
+630,2011 Kia,Optima,LX,"93,979 miles",1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,24 City,34 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2135499
+631,2011 Lexus,RX,RX 350,"61,235 miles",1,1,1,0,1,0,0,1,1,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2040766
+632,2011 Honda,Accord,LX-S,"76,155 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,22 City,33 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2143044
+633,2011 Mazda,MX-5 Miata,Grand Touring,"22,220 miles",0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2149304
+634,2011 GMC,Acadia,Denali,"63,626 miles",0,1,1,0,1,1,1,1,0,0,0,0,0,1,0,0,16 City,23 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2137675
+635,2011 Chevrolet,Camaro,LT,"45,703 miles",1,0,0,1,0,1,1,1,0,0,0,0,0,1,0,0,18 City,29 Hwy,1,"$22,590 ",https://www.carvana.com/vehicle/2110829
+636,2011 Toyota,RAV4,Limited,"76,775 miles",1,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,19 City,27 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2084187
+637,2011 Chevrolet,Camaro,SS,"54,699 miles",1,0,1,0,0,1,1,1,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2004320
+638,2011 Mercedes-Benz,C-Class,C 300 4MATIC Luxury,"36,742 miles",1,1,1,0,1,1,1,0,1,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$20,590 ",https://www.carvana.com/vehicle/2124325
+639,2011 Jeep,Wrangler,Sport,"88,787 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,15 City,19 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2117096
+640,2011 INFINITI,G,G37x,"56,750 miles",1,1,1,0,1,0,1,1,0,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2164900
+641,2011 Ford,F150 SuperCrew Cab,Lariat 5 1/2 ft,"102,831 miles",0,1,1,0,1,0,0,1,1,0,0,0,0,1,0,0,15 City,21 Hwy,1,"$24,590 ",https://www.carvana.com/vehicle/1980510
+642,2011 Audi,A6,3.0T Quattro,"78,706 miles",1,0,1,0,1,0,1,1,1,0,0,0,0,1,0,0,18 City,26 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/1973346
+643,2011 Jeep,Grand Cherokee,Overland,"34,768 miles",1,1,1,0,1,0,1,1,0,0,0,0,0,0,1,0,13 City,19 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2163873
+644,2011 Mercedes-Benz,M-Class,ML 350 4MATIC,"81,927 miles",0,1,1,0,1,0,1,0,1,0,1,0,0,1,0,0,15 City,20 Hwy,1,"$17,590 ",https://www.carvana.com/vehicle/2050744
+645,2011 Toyota,Camry,LE,"72,182 miles",0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,22 City,32 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2027182
+646,2011 Lexus,LS,LS 460,"92,250 miles",1,1,0,1,1,0,1,1,1,0,0,0,0,0,1,0,16 City,23 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2122038
+647,2011 Cadillac,SRX,base,"61,749 miles",1,1,1,0,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,"$18,990 ",https://www.carvana.com/vehicle/2172831
+648,2011 Hyundai,Genesis,4.6,"89,690 miles",0,1,1,0,1,1,1,1,1,0,0,0,0,0,1,0,17 City,25 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2138760
+649,2011 Mercedes-Benz,E-Class,E 350,"52,010 miles",0,1,1,0,1,1,1,0,1,0,0,0,0,1,0,0,17 City,25 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2100974
+650,2011 Mercedes-Benz,C-Class,C 300 4MATIC Sport,"79,129 miles",1,0,0,1,0,1,1,0,1,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/2065835
+651,2011 Hyundai,Genesis,4.6,"100,262 miles",1,1,1,0,1,0,1,1,0,0,0,0,0,0,1,0,17 City,25 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/1822388
+652,2011 Mazda,MAZDA6,i Grand Touring,"65,233 miles",1,1,0,1,0,1,1,0,0,0,0,1,0,0,0,0,22 City,31 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2142059
+653,2011 Chevrolet,Camaro,SS,"54,699 miles",1,0,1,0,0,1,1,1,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2004320
+654,2011 Mercedes-Benz,C-Class,C 300 4MATIC Luxury,"36,742 miles",1,1,1,0,1,1,1,0,1,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$20,590 ",https://www.carvana.com/vehicle/2124325
+655,2011 Jeep,Wrangler,Sport,"88,787 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,15 City,19 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2117096
+656,2011 INFINITI,G,G37x,"56,750 miles",1,1,1,0,1,0,1,1,0,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2164900
+657,2011 Ford,F150 SuperCrew Cab,Lariat 5 1/2 ft,"102,831 miles",0,1,1,0,1,0,0,1,1,0,0,0,0,1,0,0,15 City,21 Hwy,1,"$24,590 ",https://www.carvana.com/vehicle/1980510
+658,2011 Audi,A6,3.0T Quattro,"78,706 miles",1,0,1,0,1,0,1,1,1,0,0,0,0,1,0,0,18 City,26 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/1973346
+659,2011 Jeep,Grand Cherokee,Overland,"34,768 miles",1,1,1,0,1,0,1,1,0,0,0,0,0,0,1,0,13 City,19 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2163873
+660,2011 Mercedes-Benz,M-Class,ML 350 4MATIC,"81,927 miles",0,1,1,0,1,0,1,0,1,0,1,0,0,1,0,0,15 City,20 Hwy,1,"$17,590 ",https://www.carvana.com/vehicle/2050744
+661,2011 Toyota,Camry,LE,"72,182 miles",0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,22 City,32 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2027182
+662,2011 Lexus,LS,LS 460,"92,250 miles",1,1,0,1,1,0,1,1,1,0,0,0,0,0,1,0,16 City,23 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2122038
+663,2011 Cadillac,SRX,base,"61,749 miles",1,1,1,0,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,"$18,990 ",https://www.carvana.com/vehicle/2172831
+664,2011 Hyundai,Genesis,4.6,"89,690 miles",0,1,1,0,1,1,1,1,1,0,0,0,0,0,1,0,17 City,25 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2138760
+665,2011 Mercedes-Benz,E-Class,E 350,"52,010 miles",0,1,1,0,1,1,1,0,1,0,0,0,0,1,0,0,17 City,25 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2100974
+666,2011 Mercedes-Benz,C-Class,C 300 4MATIC Sport,"79,129 miles",1,0,0,1,0,1,1,0,1,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/2065835
+667,2011 Hyundai,Genesis,4.6,"100,262 miles",1,1,1,0,1,0,1,1,0,0,0,0,0,0,1,0,17 City,25 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/1822388
+668,2011 Mercedes-Benz,E-Class,E 350,"52,010 miles",0,1,1,0,1,1,1,0,1,0,0,0,0,1,0,0,17 City,25 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2100974
+669,2011 Mercedes-Benz,C-Class,C 300 4MATIC Sport,"79,129 miles",1,0,0,1,0,1,1,0,1,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/2065835
+670,2011 Hyundai,Genesis,4.6,"100,262 miles",1,1,1,0,1,0,1,1,0,0,0,0,0,0,1,0,17 City,25 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/1822388
+671,2011 Mazda,MAZDA6,i Grand Touring,"65,233 miles",1,1,0,1,0,1,1,0,0,0,0,1,0,0,0,0,22 City,31 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2142059
+672,2011 Chevrolet,Camaro,LT,"98,885 miles",0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,18 City,29 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2167534
+673,2011 Chevrolet,Camaro,LT,"24,113 miles",1,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,18 City,29 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2171053
+674,2011 BMW,1 Series,135i,"65,772 miles",1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,19 City,28 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2060893
+675,2011 BMW,3 Series,328i xDrive,"79,417 miles",0,0,1,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,1,"$15,990 ",https://www.carvana.com/vehicle/2034258
+676,2011 Buick,Enclave,CXL,"57,856 miles",1,0,1,0,1,1,1,1,0,0,0,0,0,1,0,0,16 City,22 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2129249
+677,2011 Ford,Mustang,base,"84,851 miles",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,19 City,31 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2170595
+678,2011 BMW,3 Series,328i xDrive,"68,158 miles",1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,1,0,0,1,"$16,990 ",https://www.carvana.com/vehicle/2084763
+679,2011 Toyota,Camry,LE,"30,029 miles",1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,22 City,32 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/2077535
+680,2011 BMW,M3,base,"60,770 miles",1,0,1,0,1,1,1,0,0,0,0,0,0,0,1,0,14 City,20 Hwy,1,"$37,990 ",https://www.carvana.com/vehicle/1862621
+681,2011 MINI,Hardtop,Cooper,"88,211 miles",1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,29 City,37 Hwy,1,"$11,990 ",https://www.carvana.com/vehicle/1936841
+682,2011 BMW,3 Series,328i,"52,034 miles",1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,"$20,990 ",https://www.carvana.com/vehicle/2022717
+683,2011 Audi,A5,2.0T Quattro Premium,"79,372 miles",1,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,21 City,29 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/1987568
+684,2011 Dodge,Challenger,SRT8,"66,632 miles",1,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0,14 City,22 Hwy,1,"$30,990 ",https://www.carvana.com/vehicle/2072604
+685,2011 Ford,Mustang,GT Premium,"57,630 miles",1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,17 City,26 Hwy,1,"$26,590 ",https://www.carvana.com/vehicle/2161102
+686,2011 Chevrolet,Camaro,SS,"60,354 miles",1,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$25,990 ",https://www.carvana.com/vehicle/2009472
+687,2011 Jeep,Wrangler,Rubicon,"78,322 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,15 City,19 Hwy,1,"$25,990 ",https://www.carvana.com/vehicle/2077712
+688,2011 Honda,CR-V,LX,"72,815 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/1909370
+689,2011 Chevrolet,Camaro,LT,"24,113 miles",1,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,18 City,29 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2171053
+690,2011 BMW,1 Series,135i,"65,772 miles",1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,19 City,28 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2060893
+691,2011 BMW,3 Series,328i xDrive,"79,417 miles",0,0,1,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,1,"$15,990 ",https://www.carvana.com/vehicle/2034258
+692,2011 Buick,Enclave,CXL,"57,856 miles",1,0,1,0,1,1,1,1,0,0,0,0,0,1,0,0,16 City,22 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2129249
+693,2011 Ford,Mustang,base,"84,851 miles",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,19 City,31 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2170595
+694,2011 BMW,3 Series,328i xDrive,"68,158 miles",1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,1,0,0,1,"$16,990 ",https://www.carvana.com/vehicle/2084763
+695,2011 Toyota,Camry,LE,"30,029 miles",1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,22 City,32 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/2077535
+696,2011 BMW,M3,base,"60,770 miles",1,0,1,0,1,1,1,0,0,0,0,0,0,0,1,0,14 City,20 Hwy,1,"$37,990 ",https://www.carvana.com/vehicle/1862621
+697,2011 MINI,Hardtop,Cooper,"88,211 miles",1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,29 City,37 Hwy,1,"$11,990 ",https://www.carvana.com/vehicle/1936841
+698,2011 BMW,3 Series,328i,"52,034 miles",1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,"$20,990 ",https://www.carvana.com/vehicle/2022717
+699,2011 Audi,A5,2.0T Quattro Premium,"79,372 miles",1,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,21 City,29 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/1987568
+700,2011 Dodge,Challenger,SRT8,"66,632 miles",1,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0,14 City,22 Hwy,1,"$30,990 ",https://www.carvana.com/vehicle/2072604
+701,2011 Ford,Mustang,GT Premium,"57,630 miles",1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,17 City,26 Hwy,1,"$26,590 ",https://www.carvana.com/vehicle/2161102
+702,2011 Chevrolet,Camaro,SS,"60,354 miles",1,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$25,990 ",https://www.carvana.com/vehicle/2009472
+703,2011 Jeep,Wrangler,Rubicon,"78,322 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,15 City,19 Hwy,1,"$25,990 ",https://www.carvana.com/vehicle/2077712
+704,2011 Chevrolet,Camaro,SS,"60,354 miles",1,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$25,990 ",https://www.carvana.com/vehicle/2009472
+705,2011 Jeep,Wrangler,Rubicon,"78,322 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,15 City,19 Hwy,1,"$25,990 ",https://www.carvana.com/vehicle/2077712
+706,2011 Honda,CR-V,LX,"72,815 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/1909370
+707,2011 Kia,Sorento,LX,"72,060 miles",1,1,1,0,0,1,1,0,0,0,0,1,0,0,0,0,21 City,27 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2006324
+708,2011 Chevrolet,Camaro,LT,"74,602 miles",1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,18 City,29 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/1918152
+709,2011 Ford,Mustang,Premium,"74,669 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,19 City,30 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2097128
+710,2011 Ford,F150 SuperCrew Cab,XLT 5 1/2 ft,"80,724 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,14 City,19 Hwy,1,"$25,990 ",https://www.carvana.com/vehicle/2085018
+711,2011 BMW,Z4,sDrive30i,"52,374 miles",1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,18 City,28 Hwy,1,"$25,990 ",https://www.carvana.com/vehicle/1838769
+712,2011 Toyota,Corolla,LE,"53,688 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2177338
+713,2011 Mercedes-Benz,M-Class,ML 350 4MATIC,"80,690 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,15 City,20 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2177265
+714,2011 Dodge,Challenger,R/T,"68,580 miles",1,0,1,0,1,1,1,1,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2150464
+715,2011 Ford,Ranger Super Cab,XLT 6 ft,"54,790 miles",0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,15 City,20 Hwy,1,"$21,590 ",https://www.carvana.com/vehicle/2176101
+716,2011 INFINITI,G,G37,"89,000 miles",1,1,0,1,1,1,0,1,0,0,0,0,0,1,0,0,17 City,25 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/1972475
+717,2011 Chevrolet,Cruze,LT,"81,125 miles",0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,24 City,36 Hwy,1,"$12,590 ",https://www.carvana.com/vehicle/2145968
+718,2011 Kia,Sorento,LX,"96,405 miles",1,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,20 City,26 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2160770
+719,2011 Cadillac,SRX,base,"77,500 miles",0,1,1,0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,"$17,990 ",https://www.carvana.com/vehicle/2163358
+720,2011 BMW,5 Series,528i,"60,094 miles",1,0,1,0,1,0,1,1,0,0,0,0,0,0,0,1,22 City,32 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2062840
+721,2011 Chevrolet,Equinox,LT,"67,939 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,17 City,24 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2133084
+722,2011 Mercedes-Benz,CL-Class,CL 550 4MATIC,"23,448 miles",1,1,1,0,1,1,0,0,0,0,0,0,0,0,1,0,15 City,23 Hwy,1,"$39,990 ",https://www.carvana.com/vehicle/2156741
+723,2011 Porsche,Boxster,base,"75,426 miles",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20 City,29 Hwy,1,"$31,990 ",https://www.carvana.com/vehicle/2091823
+724,2011 Nissan,JUKE,S,"86,142 miles",1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,25 City,30 Hwy,1,"$14,590 ",https://www.carvana.com/vehicle/2128709
+725,2011 Ford,Mustang,Premium,"74,669 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,19 City,30 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2097128
+726,2011 Ford,F150 SuperCrew Cab,XLT 5 1/2 ft,"80,724 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,14 City,19 Hwy,1,"$25,990 ",https://www.carvana.com/vehicle/2085018
+727,2011 BMW,Z4,sDrive30i,"52,374 miles",1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,18 City,28 Hwy,1,"$25,990 ",https://www.carvana.com/vehicle/1838769
+728,2011 Toyota,Corolla,LE,"53,688 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2177338
+729,2011 Mercedes-Benz,M-Class,ML 350 4MATIC,"80,690 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,15 City,20 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2177265
+730,2011 Dodge,Challenger,R/T,"68,580 miles",1,0,1,0,1,1,1,1,0,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2150464
+731,2011 Ford,Ranger Super Cab,XLT 6 ft,"54,790 miles",0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,15 City,20 Hwy,1,"$21,590 ",https://www.carvana.com/vehicle/2176101
+732,2011 INFINITI,G,G37,"89,000 miles",1,1,0,1,1,1,0,1,0,0,0,0,0,1,0,0,17 City,25 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/1972475
+733,2011 Chevrolet,Cruze,LT,"81,125 miles",0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,24 City,36 Hwy,1,"$12,590 ",https://www.carvana.com/vehicle/2145968
+734,2011 Kia,Sorento,LX,"96,405 miles",1,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,20 City,26 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2160770
+735,2011 Cadillac,SRX,base,"77,500 miles",0,1,1,0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,"$17,990 ",https://www.carvana.com/vehicle/2163358
+736,2011 BMW,5 Series,528i,"60,094 miles",1,0,1,0,1,0,1,1,0,0,0,0,0,0,0,1,22 City,32 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2062840
+737,2011 Chevrolet,Equinox,LT,"67,939 miles",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,17 City,24 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2133084
+738,2011 Mercedes-Benz,CL-Class,CL 550 4MATIC,"23,448 miles",1,1,1,0,1,1,0,0,0,0,0,0,0,0,1,0,15 City,23 Hwy,1,"$39,990 ",https://www.carvana.com/vehicle/2156741
+739,2011 Porsche,Boxster,base,"75,426 miles",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20 City,29 Hwy,1,"$31,990 ",https://www.carvana.com/vehicle/2091823
+740,2011 Mercedes-Benz,E-Class,E 350,"75,238 miles",1,0,0,1,1,1,1,0,1,0,0,0,0,1,0,0,17 City,25 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2083376
+741,2011 MINI,Countryman,Cooper S ALL4,"92,160 miles",1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,25 City,31 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2017561
+742,2011 Mercedes-Benz,SLK-Class,SLK 300,"63,098 miles",1,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,19 City,26 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/1863420
+743,2011 Lexus,ES,ES 350,"20,506 miles",1,0,1,0,0,1,0,1,1,0,0,0,0,1,0,0,19 City,27 Hwy,1,"$22,590 ",https://www.carvana.com/vehicle/2050499
+744,2011 Ford,F150 SuperCrew Cab,XLT 5 1/2 ft,"80,629 miles",1,0,1,0,0,1,0,1,0,0,0,0,0,1,1,0,17 City,23 Hwy,1,"$22,590 ",https://www.carvana.com/vehicle/2138165
+745,2011 Mazda,MX-5 Miata,Grand Touring,"13,366 miles",1,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$22,590 ",https://www.carvana.com/vehicle/2012916
+746,2011 Honda,Accord,EX-L,"80,688 miles",1,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,19 City,29 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2090693
+747,2011 BMW,3 Series,335d,"72,851 miles",1,0,1,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,1,"$18,990 ",https://www.carvana.com/vehicle/2012278
+748,2011 Dodge,Charger,R/T,"76,834 miles",1,1,1,0,1,1,1,1,1,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2145253
+749,2011 Hyundai,Accent,GLS,"74,700 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,27 City,36 Hwy,1,"$10,990 ",https://www.carvana.com/vehicle/2158846
+750,2011 Cadillac,CTS,3.6,"63,100 miles",1,1,1,0,1,0,0,1,0,0,0,0,0,1,0,0,18 City,27 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2079394
+751,2011 Volkswagen,Tiguan,S 4Motion,"75,035 miles",1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,19 City,25 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2123030
+752,2011 BMW,3 Series,335i,"53,341 miles",1,0,1,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,1,"$23,990 ",https://www.carvana.com/vehicle/2085776
+753,2011 BMW,3 Series,328i,"65,510 miles",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,"$17,590 ",https://www.carvana.com/vehicle/2154001
+754,2011 BMW,1 Series,128i,"78,617 miles",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,18 City,28 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2014141
+755,2011 Ford,Focus,SES,"81,274 miles",0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,25 City,34 Hwy,1,"$11,990 ",https://www.carvana.com/vehicle/2091608
+756,2011 INFINITI,G,G37 Sport,"41,903 miles",1,1,1,0,1,1,1,1,0,0,0,0,0,1,0,0,19 City,27 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2023969
+757,2011 MINI,Countryman,Cooper S,"64,020 miles",1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,26 City,32 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/2162755
+758,2011 BMW,1 Series,128i,"58,793 miles",1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,18 City,27 Hwy,1,"$18,590 ",https://www.carvana.com/vehicle/2062820
+759,2011 Toyota,Prius,Two,"65,870 miles",1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,51 City,48 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2028810
+760,2011 Honda,Element,EX,"83,227 miles",0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,19 City,24 Hwy,1,"$20,590 ",https://www.carvana.com/vehicle/2061766
+761,2011 Mazda,MX-5 Miata,Grand Touring,"13,366 miles",1,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$22,590 ",https://www.carvana.com/vehicle/2012916
+762,2011 Honda,Accord,EX-L,"80,688 miles",1,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,19 City,29 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2090693
+763,2011 BMW,3 Series,335d,"72,851 miles",1,0,1,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,1,"$18,990 ",https://www.carvana.com/vehicle/2012278
+764,2011 Dodge,Charger,R/T,"76,834 miles",1,1,1,0,1,1,1,1,1,0,0,0,0,0,1,0,16 City,25 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2145253
+765,2011 Hyundai,Accent,GLS,"74,700 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,27 City,36 Hwy,1,"$10,990 ",https://www.carvana.com/vehicle/2158846
+766,2011 Cadillac,CTS,3.6,"63,100 miles",1,1,1,0,1,0,0,1,0,0,0,0,0,1,0,0,18 City,27 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2079394
+767,2011 Volkswagen,Tiguan,S 4Motion,"75,035 miles",1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,19 City,25 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2123030
+768,2011 BMW,3 Series,335i,"53,341 miles",1,0,1,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,1,"$23,990 ",https://www.carvana.com/vehicle/2085776
+769,2011 BMW,3 Series,328i,"65,510 miles",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,"$17,590 ",https://www.carvana.com/vehicle/2154001
+770,2011 BMW,1 Series,128i,"78,617 miles",1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,18 City,28 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2014141
+771,2011 Ford,Focus,SES,"81,274 miles",0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,25 City,34 Hwy,1,"$11,990 ",https://www.carvana.com/vehicle/2091608
+772,2011 INFINITI,G,G37 Sport,"41,903 miles",1,1,1,0,1,1,1,1,0,0,0,0,0,1,0,0,19 City,27 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2023969
+773,2011 MINI,Countryman,Cooper S,"64,020 miles",1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,26 City,32 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/2162755
+774,2011 BMW,1 Series,128i,"58,793 miles",1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,18 City,27 Hwy,1,"$18,590 ",https://www.carvana.com/vehicle/2062820
+775,2011 Toyota,Prius,Two,"65,870 miles",1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,51 City,48 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2028810
+776,2011 MINI,Countryman,Cooper S,"64,020 miles",1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,26 City,32 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/2162755
+777,2011 BMW,1 Series,128i,"58,793 miles",1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,18 City,27 Hwy,1,"$18,590 ",https://www.carvana.com/vehicle/2062820
+778,2011 Toyota,Prius,Two,"65,870 miles",1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,51 City,48 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2028810
+779,2011 Mercedes-Benz,C-Class,C 300 4MATIC Sport,"43,944 miles",1,0,1,0,0,1,0,1,1,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2054973
+780,2011 Hyundai,Sonata,Limited,"75,982 miles",1,1,0,1,0,1,1,1,1,0,0,1,0,0,0,0,22 City,35 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2148839
+781,2011 Honda,Element,EX,"83,227 miles",0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,19 City,24 Hwy,1,"$20,590 ",https://www.carvana.com/vehicle/2061766
+782,2011 Jeep,Wrangler,Sport,"74,196 miles",1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,15 City,19 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2076455
+783,2011 Lexus,IS,IS 350C,"88,612 miles",1,1,1,0,1,0,0,1,0,0,0,0,0,1,0,0,20 City,27 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2147742
+784,2011 Mercedes-Benz,E-Class,E 350 4MATIC,"67,285 miles",1,1,1,0,1,0,1,0,1,0,0,0,0,1,0,0,17 City,24 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2144664
+785,2011 Ford,F150 Regular Cab,XL 6 1/2 ft,"60,927 miles",0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,17 City,23 Hwy,1,"$18,590 ",https://www.carvana.com/vehicle/2102630
+786,2011 Toyota,Venza,base,"65,000 miles",1,1,1,0,1,0,1,1,1,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2083169
+787,2011 Ford,F150 SuperCrew Cab,XLT 5 1/2 ft,"45,706 miles",1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,15 City,21 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2067482
+788,2011 Maserati,GranTurismo,base,"17,720 miles",1,0,1,0,1,0,0,0,1,0,0,0,0,0,1,0,12 City,20 Hwy,1,"$47,990 ",https://www.carvana.com/vehicle/1995831
+789,2011 BMW,3 Series,328i,"80,183 miles",1,0,1,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,1,"$15,590 ",https://www.carvana.com/vehicle/2156950
+790,2011 Lexus,IS F,Sport,"64,828 miles",1,1,1,0,1,0,1,1,1,0,0,0,0,0,1,0,16 City,23 Hwy,1,"$38,590 ",https://www.carvana.com/vehicle/2081628
+791,2011 INFINITI,G,G37 Journey,"80,626 miles",1,1,1,0,1,0,1,1,1,0,0,0,0,1,0,0,19 City,27 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/1930923
+792,2011 Land Rover,Range Rover Sport,HSE,"76,956 miles",1,1,1,0,1,0,1,1,1,0,0,0,0,0,1,0,13 City,18 Hwy,1,"$22,990 ",https://www.carvana.com/vehicle/2124145
+793,2011 Toyota,Highlander,base,"99,192 miles",1,1,1,0,0,1,0,1,0,0,0,0,0,1,0,0,18 City,24 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2123677
+794,2011 Ford,Mustang,GT,"60,420 miles",1,0,0,1,1,1,0,1,0,0,0,0,0,0,1,0,18 City,25 Hwy,1,"$25,590 ",https://www.carvana.com/vehicle/2154762
+795,2011 Chevrolet,Camaro,LT,"40,832 miles",1,0,1,0,1,1,1,1,0,0,0,0,0,1,0,0,18 City,29 Hwy,1,"$23,590 ",https://www.carvana.com/vehicle/2112755
+796,2011 Ford,F150 Regular Cab,XL 8 ft,"69,583 miles",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,17 City,23 Hwy,1,"$18,590 ",https://www.carvana.com/vehicle/2126140
+797,2011 Honda,Element,EX,"83,227 miles",0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,19 City,24 Hwy,1,"$20,590 ",https://www.carvana.com/vehicle/2061766
+798,2011 Jeep,Wrangler,Sport,"74,196 miles",1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,15 City,19 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2076455
+799,2011 Lexus,IS,IS 350C,"88,612 miles",1,1,1,0,1,0,0,1,0,0,0,0,0,1,0,0,20 City,27 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2147742
+800,2011 Mercedes-Benz,E-Class,E 350 4MATIC,"67,285 miles",1,1,1,0,1,0,1,0,1,0,0,0,0,1,0,0,17 City,24 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2144664
+801,2011 Ford,F150 Regular Cab,XL 6 1/2 ft,"60,927 miles",0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,17 City,23 Hwy,1,"$18,590 ",https://www.carvana.com/vehicle/2102630
+802,2011 Toyota,Venza,base,"65,000 miles",1,1,1,0,1,0,1,1,1,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2083169
+803,2011 Ford,F150 SuperCrew Cab,XLT 5 1/2 ft,"45,706 miles",1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,15 City,21 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2067482
+804,2011 Maserati,GranTurismo,base,"17,720 miles",1,0,1,0,1,0,0,0,1,0,0,0,0,0,1,0,12 City,20 Hwy,1,"$47,990 ",https://www.carvana.com/vehicle/1995831
+805,2011 BMW,3 Series,328i,"80,183 miles",1,0,1,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,1,"$15,590 ",https://www.carvana.com/vehicle/2156950
+806,2011 Lexus,IS F,Sport,"64,828 miles",1,1,1,0,1,0,1,1,1,0,0,0,0,0,1,0,16 City,23 Hwy,1,"$38,590 ",https://www.carvana.com/vehicle/2081628
+807,2011 INFINITI,G,G37 Journey,"80,626 miles",1,1,1,0,1,0,1,1,1,0,0,0,0,1,0,0,19 City,27 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/1930923
+808,2011 Land Rover,Range Rover Sport,HSE,"76,956 miles",1,1,1,0,1,0,1,1,1,0,0,0,0,0,1,0,13 City,18 Hwy,1,"$22,990 ",https://www.carvana.com/vehicle/2124145
+809,2011 Toyota,Highlander,base,"99,192 miles",1,1,1,0,0,1,0,1,0,0,0,0,0,1,0,0,18 City,24 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2123677
+810,2011 Ford,Mustang,GT,"60,420 miles",1,0,0,1,1,1,0,1,0,0,0,0,0,0,1,0,18 City,25 Hwy,1,"$25,590 ",https://www.carvana.com/vehicle/2154762
+811,2011 Chevrolet,Camaro,LT,"40,832 miles",1,0,1,0,1,1,1,1,0,0,0,0,0,1,0,0,18 City,29 Hwy,1,"$23,590 ",https://www.carvana.com/vehicle/2112755
+812,2011 Land Rover,Range Rover Sport,HSE,"76,956 miles",1,1,1,0,1,0,1,1,1,0,0,0,0,0,1,0,13 City,18 Hwy,1,"$22,990 ",https://www.carvana.com/vehicle/2124145
+813,2011 Toyota,Highlander,base,"99,192 miles",1,1,1,0,0,1,0,1,0,0,0,0,0,1,0,0,18 City,24 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2123677
+814,2011 Ford,Mustang,GT,"60,420 miles",1,0,0,1,1,1,0,1,0,0,0,0,0,0,1,0,18 City,25 Hwy,1,"$25,590 ",https://www.carvana.com/vehicle/2154762
+815,2011 Chevrolet,Camaro,LT,"86,050 miles",0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,18 City,29 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/1959688
+816,2011 Jeep,Wrangler,Unlimited Sahara,"25,451 miles",1,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,15 City,19 Hwy,1,"$32,590 ",https://www.carvana.com/vehicle/2167241
+817,2011 Honda,CR-Z,EX,"69,975 miles",1,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,31 City,37 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2088783
+818,2011 Lexus,RX,RX 350,"86,765 miles",1,1,1,0,1,1,1,1,1,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2095200
+819,2011 Audi,S5,Quattro Premium Plus,"48,630 miles",1,1,1,0,1,1,1,1,0,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$27,990 ",https://www.carvana.com/vehicle/2020217
+820,2011 Cadillac,SRX,base,"66,252 miles",1,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,"$17,990 ",https://www.carvana.com/vehicle/2162879
+821,2011 GMC,Yukon,SLT,"28,649 miles",1,1,1,0,0,1,1,1,0,0,0,0,0,0,1,0,15 City,21 Hwy,1,"$25,990 ",https://www.carvana.com/vehicle/2088002
+822,2011 Toyota,RAV4,base,"68,196 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,22 City,28 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/1881089
+823,2011 Mercedes-Benz,E-Class,E 350,"74,985 miles",1,1,1,0,1,0,1,1,1,0,0,0,0,1,0,0,17 City,24 Hwy,1,"$19,590 ",https://www.carvana.com/vehicle/2075208
+824,2011 Mazda,MAZDA2,Sport,"55,460 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,27 City,33 Hwy,1,"$12,990 ",https://www.carvana.com/vehicle/2130902
+825,2011 Porsche,Panamera,Turbo,"71,525 miles",1,1,1,0,1,0,0,1,1,0,0,0,0,0,1,0,15 City,23 Hwy,1,"$45,990 ",https://www.carvana.com/vehicle/2073876
+826,2011 Porsche,Panamera,base,"75,024 miles",1,0,1,0,1,1,1,1,1,0,0,0,0,1,0,0,18 City,27 Hwy,1,"$29,990 ",https://www.carvana.com/vehicle/1993847
+827,2011 MINI,Countryman,Cooper,"57,077 miles",1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,25 City,30 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2028905
+828,2011 GMC,Yukon,SLE,"65,996 miles",1,1,1,0,0,1,0,1,0,0,0,0,0,0,1,0,15 City,21 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2133365
+829,2011 Chevrolet,Malibu,LTZ,"90,624 miles",1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,17 City,26 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2129605
+830,2011 Mazda,CX-9,Grand Touring,"63,524 miles",1,1,1,0,1,0,1,0,0,0,0,0,0,1,1,0,16 City,22 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/1922700
+831,2011 Toyota,4Runner,Limited,"66,074 miles",1,1,1,0,1,1,1,1,1,0,0,0,0,1,0,0,17 City,22 Hwy,1,"$30,990 ",https://www.carvana.com/vehicle/2067773
+832,2011 Chevrolet,Colorado Crew Cab,LT 5 ft,"53,285 miles",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,17 City,23 Hwy,1,"$21,590 ",https://www.carvana.com/vehicle/2159024
+833,2011 Honda,CR-Z,EX,"69,975 miles",1,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,31 City,37 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2088783
+834,2011 Lexus,RX,RX 350,"86,765 miles",1,1,1,0,1,1,1,1,1,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2095200
+835,2011 Audi,S5,Quattro Premium Plus,"48,630 miles",1,1,1,0,1,1,1,1,0,0,0,0,0,0,1,0,16 City,24 Hwy,1,"$27,990 ",https://www.carvana.com/vehicle/2020217
+836,2011 Cadillac,SRX,base,"66,252 miles",1,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,"$17,990 ",https://www.carvana.com/vehicle/2162879
+837,2011 GMC,Yukon,SLT,"28,649 miles",1,1,1,0,0,1,1,1,0,0,0,0,0,0,1,0,15 City,21 Hwy,1,"$25,990 ",https://www.carvana.com/vehicle/2088002
+838,2011 Toyota,RAV4,base,"68,196 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,22 City,28 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/1881089
+839,2011 Mercedes-Benz,E-Class,E 350,"74,985 miles",1,1,1,0,1,0,1,1,1,0,0,0,0,1,0,0,17 City,24 Hwy,1,"$19,590 ",https://www.carvana.com/vehicle/2075208
+840,2011 Mazda,MAZDA2,Sport,"55,460 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,27 City,33 Hwy,1,"$12,990 ",https://www.carvana.com/vehicle/2130902
+841,2011 Porsche,Panamera,Turbo,"71,525 miles",1,1,1,0,1,0,0,1,1,0,0,0,0,0,1,0,15 City,23 Hwy,1,"$45,990 ",https://www.carvana.com/vehicle/2073876
+842,2011 Porsche,Panamera,base,"75,024 miles",1,0,1,0,1,1,1,1,1,0,0,0,0,1,0,0,18 City,27 Hwy,1,"$29,990 ",https://www.carvana.com/vehicle/1993847
+843,2011 MINI,Countryman,Cooper,"57,077 miles",1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,25 City,30 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2028905
+844,2011 GMC,Yukon,SLE,"65,996 miles",1,1,1,0,0,1,0,1,0,0,0,0,0,0,1,0,15 City,21 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2133365
+845,2011 Chevrolet,Malibu,LTZ,"90,624 miles",1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,17 City,26 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2129605
+846,2011 Mazda,CX-9,Grand Touring,"63,524 miles",1,1,1,0,1,0,1,0,0,0,0,0,0,1,1,0,16 City,22 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/1922700
+847,2011 Toyota,4Runner,Limited,"66,074 miles",1,1,1,0,1,1,1,1,1,0,0,0,0,1,0,0,17 City,22 Hwy,1,"$30,990 ",https://www.carvana.com/vehicle/2067773
+848,2011 Porsche,Panamera,base,"75,024 miles",1,0,1,0,1,1,1,1,1,0,0,0,0,1,0,0,18 City,27 Hwy,1,"$29,990 ",https://www.carvana.com/vehicle/1993847
+849,2011 Toyota,Tacoma Double Cab,5 ft,"13,757 miles",0,1,1,0,0,0,0,0,0,1,1,0,0,1,0,0,16 City,20 Hwy,1,"$30,990 ",https://www.carvana.com/vehicle/2035186
+850,2011 Toyota,4Runner,Limited,"66,074 miles",1,1,1,0,1,1,1,1,1,0,0,0,0,1,0,0,17 City,22 Hwy,1,"$30,990 ",https://www.carvana.com/vehicle/2067773
+851,2011 Cadillac,SRX,base,"69,503 miles",0,1,1,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,"$18,590 ",https://www.carvana.com/vehicle/2063563
+852,2011 Toyota,Avalon,base,"51,623 miles",1,0,1,0,0,1,1,1,1,0,0,0,0,1,0,0,20 City,29 Hwy,1,"$20,590 ",https://www.carvana.com/vehicle/2108238
+853,2011 Chevrolet,Cruze,LS,"47,200 miles",0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,22 City,35 Hwy,1,"$13,590 ",https://www.carvana.com/vehicle/2137460
+854,2011 Chevrolet,Equinox,LTZ,"79,828 miles",1,1,1,0,1,1,1,1,0,0,0,1,0,0,0,0,20 City,29 Hwy,1,"$15,590 ",https://www.carvana.com/vehicle/2110167
+855,2011 Chevrolet,Cruze,LT,"79,312 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,24 City,36 Hwy,1,"$12,590 ",https://www.carvana.com/vehicle/2072181
+856,2011 Chevrolet,Colorado Crew Cab,LT 5 ft,"53,285 miles",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,17 City,23 Hwy,1,"$21,590 ",https://www.carvana.com/vehicle/2159024
+857,2011 Chevrolet,Camaro,LT,"84,857 miles",1,0,0,1,0,1,1,1,0,0,0,0,0,1,0,0,18 City,29 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2164621
+858,2011 Ford,Ranger Super Cab,XLT 6 ft,"68,260 miles",0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,14 City,18 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2048130
+859,2011 Lexus,RX,RX 350,"63,723 miles",1,1,1,0,1,0,0,1,1,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2048080
+860,2011 Nissan,Frontier King Cab,SV 6 ft,"51,854 miles",1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,14 City,19 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2092899
+861,2011 Volkswagen,GTI,2.0T Hatchback,"71,173 miles",1,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,21 City,31 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/1911564
+862,2011 Saab,3-Sep,Turbo4 Sport,"18,425 miles",1,0,1,0,0,1,1,1,1,0,0,1,0,0,0,0,19 City,28 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/2159471
+863,2011 Lexus,IS,IS 350,"64,344 miles",1,1,1,0,1,1,1,1,1,0,0,0,0,1,0,0,20 City,27 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2107962
+864,2011 BMW,3 Series,328i,"54,205 miles",1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,"$20,990 ",https://www.carvana.com/vehicle/2103633
+865,2011 Cadillac,DTS,base,"66,394 miles",1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,15 City,23 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2167677
+866,2011 Cadillac,CTS,base,"6,157 miles",1,1,0,0,1,1,1,1,0,0,0,0,0,1,0,0,18 City,26 Hwy,1,"$21,590 ",https://www.carvana.com/vehicle/2148421
+867,2011 BMW,3 Series,335i,"68,138 miles",1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,"$20,990 ",https://www.carvana.com/vehicle/2031947
+868,2011 INFINITI,G,G37 Journey,"17,594 miles",1,1,1,0,1,0,1,1,1,0,0,0,0,1,0,0,19 City,27 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2081807
+869,2011 Chevrolet,Cruze,LS,"47,200 miles",0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,22 City,35 Hwy,1,"$13,590 ",https://www.carvana.com/vehicle/2137460
+870,2011 Chevrolet,Equinox,LTZ,"79,828 miles",1,1,1,0,1,1,1,1,0,0,0,1,0,0,0,0,20 City,29 Hwy,1,"$15,590 ",https://www.carvana.com/vehicle/2110167
+871,2011 Chevrolet,Cruze,LT,"79,312 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,24 City,36 Hwy,1,"$12,590 ",https://www.carvana.com/vehicle/2072181
+872,2011 Chevrolet,Colorado Crew Cab,LT 5 ft,"53,285 miles",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,17 City,23 Hwy,1,"$21,590 ",https://www.carvana.com/vehicle/2159024
+873,2011 Chevrolet,Camaro,LT,"84,857 miles",1,0,0,1,0,1,1,1,0,0,0,0,0,1,0,0,18 City,29 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2164621
+874,2011 Ford,Ranger Super Cab,XLT 6 ft,"68,260 miles",0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,14 City,18 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2048130
+875,2011 Lexus,RX,RX 350,"63,723 miles",1,1,1,0,1,0,0,1,1,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2048080
+876,2011 Nissan,Frontier King Cab,SV 6 ft,"51,854 miles",1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,14 City,19 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2092899
+877,2011 Volkswagen,GTI,2.0T Hatchback,"71,173 miles",1,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,21 City,31 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/1911564
+878,2011 Saab,3-Sep,Turbo4 Sport,"18,425 miles",1,0,1,0,0,1,1,1,1,0,0,1,0,0,0,0,19 City,28 Hwy,1,"$16,590 ",https://www.carvana.com/vehicle/2159471
+879,2011 Lexus,IS,IS 350,"64,344 miles",1,1,1,0,1,1,1,1,1,0,0,0,0,1,0,0,20 City,27 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2107962
+880,2011 BMW,3 Series,328i,"54,205 miles",1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,"$20,990 ",https://www.carvana.com/vehicle/2103633
+881,2011 Cadillac,DTS,base,"66,394 miles",1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,15 City,23 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2167677
+882,2011 Cadillac,CTS,base,"6,157 miles",1,1,0,0,1,1,1,1,0,0,0,0,0,1,0,0,18 City,26 Hwy,1,"$21,590 ",https://www.carvana.com/vehicle/2148421
+883,2011 BMW,3 Series,335i,"68,138 miles",1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,"$20,990 ",https://www.carvana.com/vehicle/2031947
+884,2011 BMW,3 Series,335i,"68,138 miles",1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,"$20,990 ",https://www.carvana.com/vehicle/2031947
+885,2011 INFINITI,G,G37 Journey,"17,594 miles",1,1,1,0,1,0,1,1,1,0,0,0,0,1,0,0,19 City,27 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2081807
+886,2011 Lexus,RX,RX 350,"81,311 miles",1,1,0,0,1,1,0,1,1,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2085034
+887,2011 Chrysler,200,Limited,"77,606 miles",1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,19 City,29 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2017030
+888,2011 BMW,3 Series,328i xDrive,"26,141 miles",1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,1,"$18,990 ",https://www.carvana.com/vehicle/2042960
+889,2011 BMW,3 Series,328i xDrive,"22,826 miles",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,"$20,990 ",https://www.carvana.com/vehicle/2117727
+890,2011 Mazda,MX-5 Miata,Grand Touring,"71,093 miles",1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$18,590 ",https://www.carvana.com/vehicle/2011798
+891,2011 Mercedes-Benz,E-Class,E 350,"17,235 miles",1,1,1,0,1,0,1,0,1,0,0,0,0,1,0,0,17 City,26 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2090002
+892,2011 Volkswagen,Jetta,S,"35,503 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,24 City,34 Hwy,1,"$13,590 ",https://www.carvana.com/vehicle/2052162
+893,2011 Mercedes-Benz,E-Class,E 550,"63,603 miles",1,1,0,0,1,1,1,0,1,0,0,0,0,0,1,0,15 City,23 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2058483
+894,2011 Ford,Escape,XLT,"64,064 miles",1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,20 City,26 Hwy,1,"$13,590 ",https://www.carvana.com/vehicle/1939467
+895,2011 BMW,3 Series,335is,"80,421 miles",1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,"$21,990 ",https://www.carvana.com/vehicle/2023607
+896,2011 Volkswagen,Tiguan,SE,"68,669 miles",1,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,20 City,25 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/1948535
+897,2011 Volkswagen,Jetta,SE,"84,619 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24 City,31 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2074870
+898,2011 INFINITI,G,G37,"77,710 miles",1,1,0,0,1,1,1,1,0,0,0,0,0,1,0,0,17 City,25 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/1876240
+899,2011 BMW,3 Series,328i,"64,844 miles",1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,"$15,990 ",https://www.carvana.com/vehicle/2107523
+900,2011 Chevrolet,Volt,base,"94,659 miles",1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,"$13,990 ",https://www.carvana.com/vehicle/1810067
+901,2011 Nissan,Xterra,S,"59,544 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,15 City,20 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2109976
+902,2011 GMC,Yukon,Denali,"92,371 miles",1,1,1,0,1,0,0,1,0,0,0,0,0,0,1,0,13 City,18 Hwy,1,"$25,990 ",https://www.carvana.com/vehicle/1786340
+903,2011 Chevrolet,Corvette,Grand Sport,"11,580 miles",1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,15 City,25 Hwy,1,"$41,990 ",https://www.carvana.com/vehicle/1972219
+904,2011 Ford,Ranger Super Cab,XLT 6 ft,"31,644 miles",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,15 City,19 Hwy,1,"$25,590 ",https://www.carvana.com/vehicle/2145450
+905,2011 BMW,3 Series,328i xDrive,"22,826 miles",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,"$20,990 ",https://www.carvana.com/vehicle/2117727
+906,2011 Mazda,MX-5 Miata,Grand Touring,"71,093 miles",1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$18,590 ",https://www.carvana.com/vehicle/2011798
+907,2011 Mercedes-Benz,E-Class,E 350,"17,235 miles",1,1,1,0,1,0,1,0,1,0,0,0,0,1,0,0,17 City,26 Hwy,1,"$24,990 ",https://www.carvana.com/vehicle/2090002
+908,2011 Volkswagen,Jetta,S,"35,503 miles",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,24 City,34 Hwy,1,"$13,590 ",https://www.carvana.com/vehicle/2052162
+909,2011 Mercedes-Benz,E-Class,E 550,"63,603 miles",1,1,0,0,1,1,1,0,1,0,0,0,0,0,1,0,15 City,23 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2058483
+910,2011 Ford,Escape,XLT,"64,064 miles",1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,20 City,26 Hwy,1,"$13,590 ",https://www.carvana.com/vehicle/1939467
+911,2011 BMW,3 Series,335is,"80,421 miles",1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,"$21,990 ",https://www.carvana.com/vehicle/2023607
+912,2011 Volkswagen,Tiguan,SE,"68,669 miles",1,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,20 City,25 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/1948535
+913,2011 Volkswagen,Jetta,SE,"84,619 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24 City,31 Hwy,1,"$13,990 ",https://www.carvana.com/vehicle/2074870
+914,2011 INFINITI,G,G37,"77,710 miles",1,1,0,0,1,1,1,1,0,0,0,0,0,1,0,0,17 City,25 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/1876240
+915,2011 BMW,3 Series,328i,"64,844 miles",1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,"$15,990 ",https://www.carvana.com/vehicle/2107523
+916,2011 Chevrolet,Volt,base,"94,659 miles",1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,"$13,990 ",https://www.carvana.com/vehicle/1810067
+917,2011 Nissan,Xterra,S,"59,544 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,15 City,20 Hwy,1,"$19,990 ",https://www.carvana.com/vehicle/2109976
+918,2011 GMC,Yukon,Denali,"92,371 miles",1,1,1,0,1,0,0,1,0,0,0,0,0,0,1,0,13 City,18 Hwy,1,"$25,990 ",https://www.carvana.com/vehicle/1786340
+919,2011 Chevrolet,Corvette,Grand Sport,"11,580 miles",1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,15 City,25 Hwy,1,"$41,990 ",https://www.carvana.com/vehicle/1972219
+920,2011 GMC,Yukon,Denali,"92,371 miles",1,1,1,0,1,0,0,1,0,0,0,0,0,0,1,0,13 City,18 Hwy,1,"$25,990 ",https://www.carvana.com/vehicle/1786340
+921,2011 Chevrolet,Corvette,Grand Sport,"11,580 miles",1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,15 City,25 Hwy,1,"$41,990 ",https://www.carvana.com/vehicle/1972219
+922,2011 Ford,Ranger Super Cab,XLT 6 ft,"31,644 miles",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,15 City,19 Hwy,1,"$25,590 ",https://www.carvana.com/vehicle/2145450
+923,2011 BMW,Z4,sDrive35i,"41,444 miles",1,0,1,0,1,1,1,1,0,0,0,0,0,0,0,1,19 City,26 Hwy,1,"$31,990 ",https://www.carvana.com/vehicle/2085743
+924,2011 Toyota,Tacoma Double Cab,5 ft,"91,539 miles",1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,16 City,20 Hwy,1,"$27,990 ",https://www.carvana.com/vehicle/2132421
+925,2011 GMC,Sierra 1500 Extended Cab,SLE 6 1/2 ft,"34,596 miles",1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,15 City,21 Hwy,1,"$28,990 ",https://www.carvana.com/vehicle/2167741
+926,2011 BMW,M3,base,"60,240 miles",1,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,14 City,20 Hwy,1,"$34,590 ",https://www.carvana.com/vehicle/1895657
+927,2011 Porsche,Cayenne,base,"68,012 miles",1,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,16 City,23 Hwy,1,"$26,990 ",https://www.carvana.com/vehicle/1789709
+928,2011 Chevrolet,Corvette,Grand Sport,"60,823 miles",0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,16 City,26 Hwy,1,"$36,990 ",https://www.carvana.com/vehicle/2017308
+929,2011 Porsche,Boxster,base,"64,609 miles",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,20 City,29 Hwy,1,"$33,990 ",https://www.carvana.com/vehicle/2077716
+930,2011 Mercedes-Benz,S-Class,S 550,"39,644 miles",1,1,0,0,1,1,1,0,1,0,0,0,0,0,1,0,15 City,23 Hwy,1,"$32,990 ",https://www.carvana.com/vehicle/2128028
+931,2011 Porsche,Boxster,base,"71,982 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20 City,29 Hwy,1,"$30,590 ",https://www.carvana.com/vehicle/1896290
+932,2011 Toyota,Prius,Four,"74,609 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,51 City,48 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2147186
+933,2011 Ford,Mustang,GT Premium,"85,925 miles",1,0,1,0,1,1,0,1,0,0,0,0,0,0,1,0,17 City,26 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2108837
+934,2011 Buick,Enclave,CXL,"74,001 miles",1,1,1,0,1,0,0,1,0,0,0,0,0,1,0,0,16 City,22 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2169740
+935,2011 Hyundai,Sonata,GLS,"51,462 miles",1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,22 City,35 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2104997
+936,2011 Mercedes-Benz,C-Class,C 300 4MATIC Sport,"78,741 miles",1,0,1,0,0,1,1,1,1,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2108447
+937,2011 Buick,Lucerne,CXL,"25,985 miles",1,0,1,0,0,1,1,1,1,0,0,0,0,1,0,0,17 City,27 Hwy,1,"$18,590 ",https://www.carvana.com/vehicle/2156984
+938,2011 Honda,CR-V,EX,"73,615 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,21 City,27 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2149932
+939,2011 Acura,RDX,base,"77,873 miles",1,1,1,0,1,1,1,1,0,0,0,1,0,0,0,0,17 City,22 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2137196
+940,2011 Nissan,Sentra,SR,"78,993 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,27 City,34 Hwy,1,"$11,990 ",https://www.carvana.com/vehicle/2137395
+941,2011 GMC,Sierra 1500 Extended Cab,SLE 6 1/2 ft,"34,596 miles",1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,15 City,21 Hwy,1,"$28,990 ",https://www.carvana.com/vehicle/2167741
+942,2011 BMW,M3,base,"60,240 miles",1,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,14 City,20 Hwy,1,"$34,590 ",https://www.carvana.com/vehicle/1895657
+943,2011 Porsche,Cayenne,base,"68,012 miles",1,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,16 City,23 Hwy,1,"$26,990 ",https://www.carvana.com/vehicle/1789709
+944,2011 Chevrolet,Corvette,Grand Sport,"60,823 miles",0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,16 City,26 Hwy,1,"$36,990 ",https://www.carvana.com/vehicle/2017308
+945,2011 Porsche,Boxster,base,"64,609 miles",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,20 City,29 Hwy,1,"$33,990 ",https://www.carvana.com/vehicle/2077716
+946,2011 Mercedes-Benz,S-Class,S 550,"39,644 miles",1,1,0,0,1,1,1,0,1,0,0,0,0,0,1,0,15 City,23 Hwy,1,"$32,990 ",https://www.carvana.com/vehicle/2128028
+947,2011 Porsche,Boxster,base,"71,982 miles",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20 City,29 Hwy,1,"$30,590 ",https://www.carvana.com/vehicle/1896290
+948,2011 Toyota,Prius,Four,"74,609 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,51 City,48 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2147186
+949,2011 Ford,Mustang,GT Premium,"85,925 miles",1,0,1,0,1,1,0,1,0,0,0,0,0,0,1,0,17 City,26 Hwy,1,"$23,990 ",https://www.carvana.com/vehicle/2108837
+950,2011 Buick,Enclave,CXL,"74,001 miles",1,1,1,0,1,0,0,1,0,0,0,0,0,1,0,0,16 City,22 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2169740
+951,2011 Hyundai,Sonata,GLS,"51,462 miles",1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,22 City,35 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2104997
+952,2011 Mercedes-Benz,C-Class,C 300 4MATIC Sport,"78,741 miles",1,0,1,0,0,1,1,1,1,0,0,0,0,1,0,0,18 City,25 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2108447
+953,2011 Buick,Lucerne,CXL,"25,985 miles",1,0,1,0,0,1,1,1,1,0,0,0,0,1,0,0,17 City,27 Hwy,1,"$18,590 ",https://www.carvana.com/vehicle/2156984
+954,2011 Honda,CR-V,EX,"73,615 miles",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,21 City,27 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2149932
+955,2011 Acura,RDX,base,"77,873 miles",1,1,1,0,1,1,1,1,0,0,0,1,0,0,0,0,17 City,22 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2137196
+956,2011 Mercedes-Benz,E-Class,E 350 4MATIC,"80,672 miles",1,1,1,0,1,0,1,0,1,0,0,0,0,1,0,0,17 City,24 Hwy,1,"$18,990 ",https://www.carvana.com/vehicle/2118211
+957,2011 Chevrolet,Camaro,LT,"89,683 miles",0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,18 City,29 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2012957
+958,2011 Jeep,Grand Cherokee,Overland,"79,607 miles",0,1,1,0,1,0,1,1,1,0,0,0,0,1,0,0,16 City,22 Hwy,1,"$20,990 ",https://www.carvana.com/vehicle/2110059
+959,2011 Nissan,Xterra,PRO-4X,"66,204 miles",1,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,15 City,20 Hwy,1,"$20,590 ",https://www.carvana.com/vehicle/2049525
+960,2011 MINI,Convertible,Cooper S,"73,918 miles",1,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,27 City,35 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/1764908
+961,2011 Audi,A5,2.0T Quattro Premium,"67,036 miles",1,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,21 City,29 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2019722
+962,2011 BMW,5 Series,528i,"71,509 miles",1,1,1,0,1,0,1,1,1,0,0,0,0,0,0,1,22 City,32 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/1974361
+963,2011 Volvo,S60,T6,"76,314 miles",0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,1,18 City,26 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2116896
+964,2011 Volvo,XC60,T6,"87,472 miles",1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,17 City,22 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2158401
+965,2011 Jaguar,XF,base,"62,307 miles",1,1,0,0,1,1,1,1,1,0,0,0,0,0,1,0,16 City,23 Hwy,1,"$14,590 ",https://www.carvana.com/vehicle/1699569
+966,2011 Volkswagen,Tiguan,S 4Motion,"68,538 miles",1,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,19 City,25 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2158659
+967,2011 Toyota,RAV4,base,"69,043 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,27 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2113234
+968,2011 Hyundai,Elantra,Limited,"36,184 miles",1,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,28 City,38 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2157982
+969,2011 Hyundai,Sonata,Limited,"99,982 miles",1,1,1,0,1,1,1,1,1,0,0,1,0,0,0,0,0,0,1,"$14,590 ",https://www.carvana.com/vehicle/2119781
+970,2011 Kia,Sportage,EX,"76,390 miles",1,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2112819
+971,2011 Mazda,MX-5 Miata,Sport,"41,660 miles",1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,22 City,28 Hwy,1,"$18,590 ",https://www.carvana.com/vehicle/2085977
+972,2011 Honda,CR-Z,EX,"58,609 miles",1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,35 City,39 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2164724
+973,2011 MINI,Clubman,Cooper S,"64,375 miles",1,0,1,0,0,1,1,1,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2085527
+974,2011 Chevrolet,Cruze,LT,"57,353 miles",1,0,1,0,0,1,1,1,0,0,0,1,0,0,0,0,24 City,36 Hwy,1,"$13,590 ",https://www.carvana.com/vehicle/2153452
+975,2011 Chevrolet,Cruze,LT,"65,524 miles",1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,24 City,36 Hwy,1,"$13,590 ",https://www.carvana.com/vehicle/2121971
+976,2011 Acura,MDX,base,"75,609 miles",1,1,1,0,1,0,1,1,0,0,0,0,0,1,0,0,16 City,21 Hwy,1,"$21,990 ",https://www.carvana.com/vehicle/2131615
+977,2011 Audi,A5,2.0T Quattro Premium,"67,036 miles",1,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,21 City,29 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2019722
+978,2011 BMW,5 Series,528i,"71,509 miles",1,1,1,0,1,0,1,1,1,0,0,0,0,0,0,1,22 City,32 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/1974361
+979,2011 Volvo,S60,T6,"76,314 miles",0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,1,18 City,26 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2116896
+980,2011 Volvo,XC60,T6,"87,472 miles",1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,17 City,22 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2158401
+981,2011 Jaguar,XF,base,"62,307 miles",1,1,0,0,1,1,1,1,1,0,0,0,0,0,1,0,16 City,23 Hwy,1,"$14,590 ",https://www.carvana.com/vehicle/1699569
+982,2011 Volkswagen,Tiguan,S 4Motion,"68,538 miles",1,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,19 City,25 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2158659
+983,2011 Toyota,RAV4,base,"69,043 miles",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,21 City,27 Hwy,1,"$17,990 ",https://www.carvana.com/vehicle/2113234
+984,2011 Hyundai,Elantra,Limited,"36,184 miles",1,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,28 City,38 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2157982
+985,2011 Hyundai,Sonata,Limited,"99,982 miles",1,1,1,0,1,1,1,1,1,0,0,1,0,0,0,0,0,0,1,"$14,590 ",https://www.carvana.com/vehicle/2119781
+986,2011 Kia,Sportage,EX,"76,390 miles",1,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,21 City,28 Hwy,1,"$16,990 ",https://www.carvana.com/vehicle/2112819
+987,2011 Mazda,MX-5 Miata,Sport,"41,660 miles",1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,22 City,28 Hwy,1,"$18,590 ",https://www.carvana.com/vehicle/2085977
+988,2011 Honda,CR-Z,EX,"58,609 miles",1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,35 City,39 Hwy,1,"$14,990 ",https://www.carvana.com/vehicle/2164724
+989,2011 MINI,Clubman,Cooper S,"64,375 miles",1,0,1,0,0,1,1,1,0,0,0,1,0,0,0,0,26 City,34 Hwy,1,"$15,990 ",https://www.carvana.com/vehicle/2085527
+990,2011 Chevrolet,Cruze,LT,"57,353 miles",1,0,1,0,0,1,1,1,0,0,0,1,0,0,0,0,24 City,36 Hwy,1,"$13,590 ",https://www.carvana.com/vehicle/2153452
+991,2011 Chevrolet,Cruze,LT,"65,524 miles",1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,24 City,36 Hwy,1,"$13,590 ",https://www.carvana.com/vehicle/2121971

@@ -1,0 +1,11 @@
+learning_rate: 0.2222222222222222
+max_depth: 4
+n_estimators: 150
+Best RMSE Score: -4869.4467198619905
+----------------------------------
+
+learning_rate: 0.4444444444444444
+max_depth: 2
+n_estimators: 250
+Best RMSE Score: -4779.469742335114
+----------------------------------
