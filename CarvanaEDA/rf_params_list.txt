@@ -1,0 +1,5 @@
+--RandomForestRegressor--
+n_estimators: 161
+max_depth: 18
+Best RMSE Score: -3797.495401462342
+----------------------------------

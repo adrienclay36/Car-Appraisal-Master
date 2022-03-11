@@ -1,0 +1,6 @@
+--XGBREGRESSOR--
+learning_rate: 0.3333333333333333
+max_depth: 4
+n_estimators: 275
+Best RMSE Score: -3270.2393236700227
+----------------------------------
