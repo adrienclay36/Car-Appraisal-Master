@@ -3,7 +3,7 @@ import MobileNav from "./mobile-nav";
 import { Burger } from "@mantine/core";
 import styles from "./navbar.module.css";
 import { useMediaQuery } from "@mantine/hooks";
-import SubMenu from "./sub-menu";
+
 const Navbar = (props) => {
   const [isOpen, setIsOpen] = useState(false);
   const [isInitial, setIsInitial] = useState(true);
@@ -19,7 +19,7 @@ const Navbar = (props) => {
     <div>
       
       <nav
-        className={`container ${props.classes} flex items-center py-4 ${
+        className={`container ${styles.testBackground} ${props.classes} flex items-center py-4 ${
           props.marginTop && "sm:mt-12"
         }`}
       >
@@ -29,13 +29,13 @@ const Navbar = (props) => {
           </div>
         </Link>} */}
         <ul
-          className={`hidden sm:flex flex-1 flex-wrap lg:flex-nowrap md:flex-wrap justify-center lg:justify-end md:justify-center items-center gap-6 lg:gap-10 md:gap-6 uppercase text-sm mt-2 text-semibold overflow-hidden ${props.textColor}`}
+          className={`hidden sm:flex flex-1 flex-wrap lg:flex-nowrap md:flex-wrap justify-center lg:justify-center md:justify-center items-center gap-6 lg:gap-10 md:gap-6 uppercase text-sm mt-12 text-semibold overflow-hidden ${props.textColor}`}
         >
           {navLinks.map((link) => {
             if (!link.subNav) {
               return (
                
-                  <li className="mb-2 cursor-pointer tracking-widest hover:text-slate-200 text-center">
+                  <li className={`mb-2 cursor-pointer tracking-widest text-white font-semibold text-md lg:text-xl md:text-lg hover:text-slate-100 text-center ${styles.navHover}`}>
                     {link.text}
                   </li>
               
@@ -78,7 +78,15 @@ export default Navbar;
 
 export const navLinks = [
   {
-    text: "Blog",
+    text: "Evaluator",
+    href: "/blog",
+  },
+  {
+    text: "About",
+    href: "/blog",
+  },
+  {
+    text: "Github",
     href: "/blog",
   },
 ];

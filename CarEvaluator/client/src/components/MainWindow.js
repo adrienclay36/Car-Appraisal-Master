@@ -1,8 +1,12 @@
 import React from 'react'
-
-const MainWindow = () => {
+import styles from './MainWindow.module.css';
+import Navbar from './Navbar/navbar';
+const MainWindow = (props) => {
   return (
-    <div>MainWindow</div>
+    <div className={`${styles.heroImage} font-primaryFont`}>
+      <Navbar/>
+      {props.children}
+    </div>
   )
 }
 

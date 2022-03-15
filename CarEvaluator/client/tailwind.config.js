@@ -5,7 +5,7 @@ module.exports = {
   theme: {
 
     fontFamily: {
-      primaryFont: ['Red Hat Display, sans-serif']
+      primaryFont: ['Poppins, sans-serif']
     },
 
 
