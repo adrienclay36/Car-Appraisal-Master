@@ -12,3 +12,18 @@
 .fadeIn {
     animation: fadeIn 3s ease;
 }
+
+
+.fadeInTwo {
+    opacity: 0;
+    animation: fadeIn 3s ease;
+    animation-delay: 1s;
+    animation-fill-mode: forwards ;
+}
+
+.fadeInThree {
+    opacity: 0;
+    animation: fadeIn 2s ease;
+    animation-delay: 2s;
+    animation-fill-mode: forwards;
+}
