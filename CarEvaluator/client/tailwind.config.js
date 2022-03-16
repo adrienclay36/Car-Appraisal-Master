@@ -5,7 +5,8 @@ module.exports = {
   theme: {
 
     fontFamily: {
-      primaryFont: ['Poppins, sans-serif']
+      primaryFont: ['Poppins, sans-serif'],
+      cursiveFont: ['replaceme', 'cursive'],
     },
 
 
