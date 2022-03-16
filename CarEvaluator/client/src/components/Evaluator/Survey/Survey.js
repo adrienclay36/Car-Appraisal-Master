@@ -13,10 +13,12 @@ const Survey = () => {
       <SurveyItem
         index={surveyContext.index}
         goBack={surveyContext.prevQuestion}
-        key={surveyContext.index}
+        id={surveyContext.questions[surveyContext.index].id}
         increaseIndex={surveyContext.nextQuestion}
         question={surveyContext.questions[surveyContext.index].question}
         listData={surveyContext.questions[surveyContext.index].listData}
+        isNumerical={surveyContext.questions[surveyContext.index].numerical}
+        booleanField={surveyContext.questions[surveyContext.index].boolean}
       />
     </div>
   );
