@@ -67,8 +67,12 @@ export default Navbar;
 
 export const navLinks = [
   {
-    text: "Evaluator",
+    text: "Home",
     href: "/",
+  },
+  {
+    text: "Evaluator",
+    href: "/evaluator",
   },
   {
     text: "About",

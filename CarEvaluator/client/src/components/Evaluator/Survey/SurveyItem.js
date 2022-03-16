@@ -10,7 +10,7 @@ const SurveyItem = ({ id, question, listData, index, increaseIndex, goBack, isNu
 
   const setValueAndClear = () => {
     if (selectedValue || selectedValue === 0) {
-      increaseIndex(id, selectedValue);
+      increaseIndex(id, selectedValue, question);
       setError(false);
     } else {
       setError(true);

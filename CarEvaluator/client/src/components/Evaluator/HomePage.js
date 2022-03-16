@@ -1,10 +1,13 @@
-import React from "react";
+import React, { useContext } from "react";
 import MainWindow from "../MainWindow";
-import { Card, Text } from "@mantine/core";
+import { SurveyContext } from "../../store/SurveyStore";
+import { Link } from "react-router-dom";
 import styles from "./Evaluator.module.css";
-import { MdDirectionsCar } from "react-icons/md";
+
 import Survey from "./Survey/Survey";
-const Evaluator = () => {
+import ReviewAnswers from "./ReviewAnswers";
+const HomePage = () => {
+  const surveyContext = useContext(SurveyContext);
   return (
     <MainWindow>
       <div
@@ -28,18 +31,18 @@ const Evaluator = () => {
       <div
         className={`${styles.fadeInThree} container flex flex-1 justify-center items-center text-lg lg:text-4xl md:text-2xl text-white`}
       >
-        <a href="#questions" rel="noreferrer">
+        <Link to="/evaluator">
+
           <p className="underline cursor-pointer">
             can i ask you a few questions about your vehicle?
           </p>
-        </a>
+        </Link>
+
       </div>
 
-      <section id="questions" className="mt-60">
-        <Survey/>
-        </section>
+
     </MainWindow>
   );
 };
 
-export default Evaluator;
+export default HomePage;

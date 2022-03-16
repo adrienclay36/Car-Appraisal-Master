@@ -1,13 +1,14 @@
 import './App.css';
-import Evaluator from './components/Evaluator/Evaluator';
+import HomePage from './components/Evaluator/HomePage';
 import { Routes, Route } from 'react-router-dom';
-import MainWindow from './components/MainWindow';
+import Survey from './components/Evaluator/Survey/Survey';
 import NotFound from './components/404/NotFound';
 function App() {
   return (
     <>
       <Routes>
-        <Route path="/" element={<Evaluator />} />
+        <Route path="/" element={<HomePage />} />
+        <Route path="/evaluator" element={<Survey/>}/>
         <Route path= "*" element={<NotFound />} />
       </Routes>
     </>

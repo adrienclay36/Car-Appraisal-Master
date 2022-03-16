@@ -1,4 +1,4 @@
-[
+export const modelListData = [
     {
         "value": "0",
         "label": "1 Series"

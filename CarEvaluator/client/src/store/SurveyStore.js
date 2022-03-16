@@ -1,31 +1,19 @@
 import React, { createContext, useState, useEffect} from 'react'
-import * as makeListData from '../Make_valueLabels.json';
-import * as modelListData from '../Model_valueLabels.json';
+import { makeListData } from '../Make_valueLabels';
+import { modelListData } from '../Model_valueLabels';
+console.log(makeListData);
 const userQuestions = [
   {
     id: 'make_cat',
     question: "Who made your vehicle?",
-    listData: [
-      {
-        value: "Hyundai",
-        label: "Hyundai",
-      },
-      { value: "Toyota", label: "Toyota" },
-      { value: "Ford", label: "Ford" },
-    ],
+    listData: makeListData,
     boolean: false,
     numerical: false,
   },
   {
     id: 'model_cat',
     question: "What model is it?",
-    listData: [
-      {
-        value: "Elantra",
-        label: "Elantra",
-      },
-      { value: "Palisade", label: "Palisade" },
-    ],
+    listData: modelListData,
     boolean: false,
     numerical: false,
   },
@@ -179,6 +167,7 @@ export const SurveyContext = createContext({
     nextQuestion: (answer) => {},
     prevQuestion: () => {},
     selectedValues: {},
+    formComplete: false,
     index: 0,
 })
 
@@ -186,6 +175,8 @@ const SurveyContextProvider = (props) => {
     const [questions, setQuestions] = useState(userQuestions)
     const [selectedValues, setSelectedValues] = useState({});
     const [index, setIndex] = useState(0);
+    const [formComplete, setFormComplete] = useState(false);
+    
 
 
     useEffect(() => {
@@ -193,15 +184,20 @@ const SurveyContextProvider = (props) => {
     }, [selectedValues])
 
 
-    const nextQuestion = (identifier, value) => {
+    const nextQuestion = (identifier, value, question) => {
 
       setSelectedValues({
         ...selectedValues,
         [identifier]: value,
+        question: question,
       })
 
       if (index !== questions.length - 1) {
         setIndex(index + 1);
+      } 
+
+      if(index >= questions.length - 1) {
+        setFormComplete(true);
       }
       
     };
@@ -215,6 +211,7 @@ const SurveyContextProvider = (props) => {
         nextQuestion,
         prevQuestion,
         selectedValues,
+        formComplete,
         index,
     }
 
