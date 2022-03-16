@@ -1,5 +1,6 @@
 import React, { createContext, useState, useEffect} from 'react'
-import * as makeListData from ''
+import * as makeListData from '../Make_valueLabels.json';
+import * as modelListData from '../Model_valueLabels.json';
 const userQuestions = [
   {
     id: 'make_cat',
