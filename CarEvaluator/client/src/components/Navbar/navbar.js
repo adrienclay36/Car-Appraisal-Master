@@ -24,10 +24,10 @@ const Navbar = (props) => {
         } flex flex-col items-center py-4 ${props.marginTop && "sm:mt-12"}`}
       >
         <div className="mt-8">
-          <p className="text-white text-5xl font-extrabold">pricepoint.</p>
+          <p className="text-white text-3xl lg:text-5xl md:text-3xl font-extrabold">pricepoint.</p>
         </div>
         <ul
-          className={`hidden sm:flex flex-1 flex-wrap lg:flex-nowrap md:flex-wrap justify-center  items-center gap-6 lg:gap-10 md:gap-6 uppercase text-sm mt-8 text-semibold overflow-hidden ${props.textColor}`}
+          className={`hidden sm:flex flex-1 flex-wrap lg:flex-nowrap md:flex-wrap justify-center items-center gap-6 lg:gap-10 md:gap-6 uppercase text-sm mt-8 text-semibold overflow-hidden ${props.textColor}`}
         >
           {navLinks.map((link, index) => {
             return (
