@@ -3,9 +3,9 @@ import { makeListData } from '../../Make_valueLabels';
 import { modelListData } from '../../Model_valueLabels';
 const ReviewItem = ({ question, answer, index }) => {
     let formatAnswer;
-    if (answer === 0 && index > 1) {
+    if (answer === false) {
         formatAnswer = 'No';
-    } else if (answer === 1 && index > 1) {
+    } else if (answer === true) {
         formatAnswer = 'Yes';
     } else if (index === 0) {
         const obj = makeListData.find(item => item.value === answer);

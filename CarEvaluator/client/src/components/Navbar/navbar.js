@@ -14,7 +14,7 @@ const Navbar = (props) => {
     setIsOpen(!isOpen);
     setIsInitial(false);
 
-    props.onOpen();
+ 
   };
   return (
     <div>

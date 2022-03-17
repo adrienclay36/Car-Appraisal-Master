@@ -16,11 +16,13 @@ const ReviewAnswers = () => {
         ))}
         <div className="flex flex-1 w-full justify-between mt-8">
           <button
+            onClick={() => surveyContext.prevQuestion(true)}
             className={`text-center text-black bg-white w-11/12 lg:w-2/6 md:w-2/6 uppercase border-2 p-4 border-r-8 hover:text-slate-500 hover:bg-slate-100`}
           >
             Go Back
           </button>
           <button
+          onClick={() => surveyContext.submitForm()}
             className={`text-center text-black bg-white w-11/12 lg:w-2/6 md:w-2/6 uppercase border-2 p-4 border-r-8 hover:text-slate-500 hover:bg-slate-100`}
           >
             Submit

@@ -1,6 +1,7 @@
 from flask import Flask, request, jsonify
 app = Flask(__name__)
 from xgboost import XGBRegressor
+import sys
 
 MODEL = XGBRegressor()
 MODEL.load_model('./linear_model.json')
@@ -13,8 +14,13 @@ def load_server():
 
 @app.route("/evaluate", methods=["POST"])
 def evaluate_car():
-    input_data = request.get_json(force=True)
-
-    print(input_data)
+    
+    print("Test", file=sys.stdout)
+    input_data = request.json()
+    print(input_data, file=sys.stderr)
 
     return jsonify({ 'status': 200, 'message': 'Data Received'})
+
+
+if __name__ == '__main__':
+    app.run(debug=True)
