@@ -5,7 +5,10 @@ const MainWindow = (props) => {
   return (
     <div className={`${styles.heroImage} font-primaryFont`}>
       <Navbar/>
+      <div className="w-full">
+
       {props.children}
+      </div>
     </div>
   )
 }

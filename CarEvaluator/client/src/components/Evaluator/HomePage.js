@@ -11,10 +11,10 @@ const HomePage = () => {
   return (
     <MainWindow>
       <div
-        className={`container flex-col lg:flex-row md:flex-col justify-center lg:justify-start md:justify-center items-center mt-24 mb-12 ${styles.fadeIn}`}
+        className={`container text-center lg:text-left md:text-center flex-col lg:flex-row md:flex-col justify-center lg:justify-start md:justify-center items-center mt-24 mb-12 ${styles.fadeIn}`}
       >
         <p
-          className={`text-lg lg:text-9xl md:text-3xl font-extrabold text-white`}
+          className={`text-5xl lg:text-9xl md:text-5xl font-extrabold text-white`}
         >
           Welcome.
         </p>
@@ -23,7 +23,7 @@ const HomePage = () => {
         className={`container flex-col lg:flex-row md:flex-col justify-center lg:justify-end md:justify-center items-center mt-24 mb-16 text-left ${styles.fadeInTwo}`}
       >
         <p
-          className={`text-lg lg:text-9xl md:text-3xl font-extrabold text-white`}
+          className={`text-4xl lg:text-9xl md:text-4xl font-extrabold text-white text-center lg:text-left md:text-center`}
         >
           lets get you a price.
         </p>
@@ -33,7 +33,7 @@ const HomePage = () => {
       >
         <Link to="/evaluator">
 
-          <p className="underline cursor-pointer">
+          <p className="underline cursor-pointer text-center">
             can i ask you a few questions about your vehicle?
           </p>
         </Link>

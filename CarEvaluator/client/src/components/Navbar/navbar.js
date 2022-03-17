@@ -41,7 +41,7 @@ const Navbar = (props) => {
             );
           })}
         </ul>
-        <div className="flex sm:hidden flex-1 justify-end mr-3">
+        <div className="sm:hidden self-end mt-4">
           <Burger
             size={30}
             opened={isOpen}
