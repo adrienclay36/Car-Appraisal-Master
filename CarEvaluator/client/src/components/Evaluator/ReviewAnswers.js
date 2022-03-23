@@ -1,9 +1,15 @@
 import React, { useContext } from 'react'
 import { SurveyContext } from '../../store/SurveyStore'
 import styles from './ReviewAnswers.module.css';
+import { useNavigate } from 'react-router-dom';
 import ReviewItem from './ReviewItem';
 const ReviewAnswers = () => {
   const surveyContext = useContext(SurveyContext);
+  const navigate = useNavigate();
+  const submitFormHandler = () => {
+    surveyContext.submitForm();
+    navigate("/results")
+  }
   return (
     <div className="flex flex-1 justify-center items-center">
 
@@ -22,7 +28,7 @@ const ReviewAnswers = () => {
             Go Back
           </button>
           <button
-          onClick={() => surveyContext.submitForm()}
+          onClick={submitFormHandler}
             className={`text-center text-black bg-white w-11/12 lg:w-2/6 md:w-2/6 uppercase border-2 p-4 border-r-8 hover:text-slate-500 hover:bg-slate-100`}
           >
             Submit

@@ -173,6 +173,9 @@ export const SurveyContext = createContext({
   index: 0,
   appendBooleans: (answers) => {},
   submitForm: () => {},
+  prediction: '',
+  modelError: 0,
+  loadingPrediction: false,
 });
 
 const SurveyContextProvider = (props) => {
@@ -180,6 +183,9 @@ const SurveyContextProvider = (props) => {
   const [selectedValues, setSelectedValues] = useState({});
   const [index, setIndex] = useState(0);
   const [formComplete, setFormComplete] = useState(false);
+  const [prediction, setPrediction] = useState('');
+  const [modelError, setModelError] = useState(0);
+  const [loadingPrediction, setLoadingPrediction] = useState(false);
 
   useEffect(() => {
     console.log(selectedValues);
@@ -217,8 +223,14 @@ const SurveyContextProvider = (props) => {
   };
 
   const submitForm = async () => {
+    setLoadingPrediction(true);
     const response = await axios.post('http://localhost:5000/evaluate', selectedValues);
     console.log(response.data);
+    if(response.data?.status === 200){
+      setPrediction(response.data.prediction);
+      setModelError(response.data.error);
+    }
+    setLoadingPrediction(false);
   }
 
   const contextValue = {
@@ -230,6 +242,9 @@ const SurveyContextProvider = (props) => {
     index,
     appendBooleans,
     submitForm,
+    prediction,
+    modelError,
+    loadingPrediction,
   };
 
   return (

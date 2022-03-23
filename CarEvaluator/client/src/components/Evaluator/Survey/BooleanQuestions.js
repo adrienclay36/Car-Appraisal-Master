@@ -15,6 +15,8 @@ const BooleanQuestions = () => {
     "Rear Air Vents": false,
     "Bed Liner": false,
     "Tow Hitch": false,
+    "Heated Seats": false,
+    "Hands Free Calling": false,
   });
 
 
@@ -41,6 +43,21 @@ const BooleanQuestions = () => {
           />
           <p>Bluetooth</p>
         </div>
+
+        <div className="flex flex-1 flex-row-reverse lg:flex-row md:flex-row justify-between lg:justify-start md:justify-start items-center mb-4">
+          <Switch
+            value={checkedValues['Hands Free Calling']}
+            onChange={(e) =>
+              setCheckedValues({
+                ...checkedValues,
+                'Hands Free Calling': e.currentTarget.checked,
+              })
+            }
+            className="mr-4"
+          />
+          <p>Hands Free Calling</p>
+        </div>
+
         <div className="flex flex-1 flex-row-reverse lg:flex-row md:flex-row justify-between lg:justify-start md:justify-start items-center mb-4">
           <Switch
             value={checkedValues["Backup Camera"]}
@@ -105,6 +122,19 @@ const BooleanQuestions = () => {
             className="mr-4"
           />
           <p>Electronic Seat Controls</p>
+        </div>
+        <div className="flex flex-1 flex-row-reverse lg:flex-row md:flex-row justify-between lg:justify-start md:justify-start items-center mb-4">
+          <Switch
+            value={checkedValues["Heated Seats"]}
+            onChange={(e) =>
+              setCheckedValues({
+                ...checkedValues,
+                "Heated Seats": e.currentTarget.checked,
+              })
+            }
+            className="mr-4"
+          />
+          <p>Heated Seats</p>
         </div>
         <div className="flex flex-1 flex-row-reverse lg:flex-row md:flex-row justify-between lg:justify-start md:justify-start items-center mb-4">
           <Switch
