@@ -7,8 +7,7 @@ const ReviewAnswers = () => {
   const surveyContext = useContext(SurveyContext);
   const navigate = useNavigate();
   const submitFormHandler = () => {
-    surveyContext.submitForm();
-    navigate("/results")
+    navigate("/results");
   }
   return (
     <div className="flex flex-1 justify-center items-center">

@@ -7,11 +7,11 @@ import { BrowserRouter } from "react-router-dom";
 
 ReactDOM.render(
   <React.StrictMode>
-    <SurveyContextProvider>
-      <BrowserRouter>
+    <BrowserRouter>
+      <SurveyContextProvider>
         <App />
-      </BrowserRouter>
-    </SurveyContextProvider>
+      </SurveyContextProvider>
+    </BrowserRouter>
   </React.StrictMode>,
   document.getElementById("root")
 );

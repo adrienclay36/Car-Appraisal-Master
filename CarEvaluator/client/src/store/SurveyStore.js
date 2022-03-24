@@ -1,6 +1,7 @@
 import React, { createContext, useState, useEffect } from "react";
 import { makeListData } from "../Make_valueLabels";
 import { modelListData } from "../Model_valueLabels";
+import { useNavigate } from "react-router-dom";
 import axios from 'axios';
 const userQuestions = [
   {
@@ -186,6 +187,7 @@ const SurveyContextProvider = (props) => {
   const [prediction, setPrediction] = useState('');
   const [modelError, setModelError] = useState(0);
   const [loadingPrediction, setLoadingPrediction] = useState(false);
+  const navigate = useNavigate();
 
   useEffect(() => {
     console.log(selectedValues);
@@ -229,6 +231,7 @@ const SurveyContextProvider = (props) => {
     if(response.data?.status === 200){
       setPrediction(response.data.prediction);
       setModelError(response.data.error);
+
     }
     setLoadingPrediction(false);
   }
