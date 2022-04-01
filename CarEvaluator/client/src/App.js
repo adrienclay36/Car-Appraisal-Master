@@ -7,8 +7,7 @@ import NotFound from "./components/404/NotFound";
 import Results from "./components/Results/Results";
 import About from "./components/About/About";
 import axios from "axios";
-import MainWindow from "./components/MainWindow";
-import { Loader } from "@mantine/core";
+import logo from "./icon.png";
 function App() {
   const [loadingServer, setLoadingServer] = useState(false);
   const [serverError, setServerError] = useState(false);
@@ -33,7 +32,13 @@ function App() {
         className={`bg-gradient-to-b from-slate-300 to-slate-500 w-screen h-screen overflow-scroll scrollHide flex-1 justify-center items-center`}
       >
         <div className="mt-60 flex flex-1 flex-col justify-center items-center">
-          <Loader color="blue" size="xl" />
+          <img
+            src={logo}
+            alt="PricePoint Logo"
+            width={300}
+            height={300}
+            className="logoAnimation"
+          />
           <p className="text-center text-white mt-4">
             Spinning Up The Server..
           </p>

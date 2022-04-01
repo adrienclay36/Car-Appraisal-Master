@@ -1,7 +1,30 @@
 html {
-    scroll-behavior: smooth;
+  scroll-behavior: smooth;
 }
 
 .scrollHide::-webkit-scrollbar {
-    display: none;
+  display: none;
+}
+
+@keyframes bounce {
+  0% {
+    transform: scale(1);
+  }
+  25% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1);
+  }
+  75% {
+    transform: scale(0.9);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.logoAnimation {
+  animation: bounce 1s ease;
+  animation-iteration-count: infinite;
 }
