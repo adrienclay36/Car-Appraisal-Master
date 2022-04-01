@@ -8,13 +8,17 @@ import About from './components/About/About';
 function App() {
   return (
     <>
-      <Routes>
-        <Route path="/" element={<HomePage />} />
-        <Route path="/evaluator" element={<Survey/>}/>
-        <Route path="/results" element={<Results/>}/>
-        <Route path="/about" element={<About/>}/>
-        <Route path= "*" element={<NotFound />} />
-      </Routes>
+      <div
+        className={`bg-gradient-to-b from-slate-300 to-slate-500 w-screen h-screen overflow-scroll scrollHide`}
+      >
+        <Routes>
+          <Route path="/" element={<HomePage />} />
+          <Route path="/evaluator" element={<Survey />} />
+          <Route path="/results" element={<Results />} />
+          <Route path="/about" element={<About />} />
+          <Route path="*" element={<NotFound />} />
+        </Routes>
+      </div>
     </>
   );
 }

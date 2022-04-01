@@ -2,6 +2,7 @@ import React, { useContext, useEffect, useState } from 'react'
 import styles from './Results.module.css';
 import MainWindow from '../MainWindow';
 import { SurveyContext } from '../../store/SurveyStore';
+import { Loader } from '@mantine/core';
 import axios from 'axios';
 const Results = () => {
     const surveyContext = useContext(SurveyContext);
@@ -36,7 +37,12 @@ const Results = () => {
 
 
    if(loading){
-       return <MainWindow></MainWindow>
+       return <MainWindow>
+           <div className="flex flex-1 justify-center items-center">
+
+           <Loader color="blue" size="xl"/>
+           </div>
+       </MainWindow>
    }
    
    console.log(prediction);

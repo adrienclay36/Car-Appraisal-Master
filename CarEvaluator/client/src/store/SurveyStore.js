@@ -1,7 +1,6 @@
 import React, { createContext, useState, useEffect } from "react";
 import { makeListData } from "../Make_valueLabels";
 import { modelListData } from "../Model_valueLabels";
-import { useNavigate } from "react-router-dom";
 import axios from 'axios';
 const userQuestions = [
   {
@@ -20,7 +19,7 @@ const userQuestions = [
   },
   {
     id: "mileage",
-    question: "How many miles on that bad boy?",
+    question: "What's the mileage look like right now?",
     listData: [],
     boolean: false,
     numerical: true,
@@ -187,7 +186,7 @@ const SurveyContextProvider = (props) => {
   const [prediction, setPrediction] = useState('');
   const [modelError, setModelError] = useState(0);
   const [loadingPrediction, setLoadingPrediction] = useState(false);
-  const navigate = useNavigate();
+
 
   useEffect(() => {
     console.log(selectedValues);
@@ -227,12 +226,13 @@ const SurveyContextProvider = (props) => {
   const submitForm = async () => {
     setLoadingPrediction(true);
     const response = await axios.post('http://localhost:5000/evaluate', selectedValues);
-    console.log(response.data);
     if(response.data?.status === 200){
       setPrediction(response.data.prediction);
       setModelError(response.data.error);
-
+      
     }
+    setIndex(0);
+    setSelectedValues({});
     setLoadingPrediction(false);
   }
 

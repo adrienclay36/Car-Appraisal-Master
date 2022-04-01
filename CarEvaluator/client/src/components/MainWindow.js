@@ -3,7 +3,7 @@ import styles from './MainWindow.module.css';
 import Navbar from './Navbar/navbar';
 const MainWindow = (props) => {
   return (
-    <div className={`${styles.heroImage} font-primaryFont`}>
+    <div className={`font-primaryFont`}>
       <Navbar/>
       <div className="w-full">
 
