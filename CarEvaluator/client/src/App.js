@@ -15,23 +15,31 @@ function App() {
 
   const startServer = async () => {
     setLoadingServer(true);
-    const response = await axios.get("https://pricepoint-server.herokuapp.com/");
+    const response = await axios.get(
+      "https://pricepoint-server.herokuapp.com/"
+    );
     if (response.data.status === 200) {
       setLoadingServer(false);
     }
   };
-  
+
   useEffect(() => {
     startServer();
-  } ,[])
-  
+  }, []);
+
   if (loadingServer) {
     return (
       <div
         className={`bg-gradient-to-b from-slate-300 to-slate-500 w-screen h-screen overflow-scroll scrollHide flex-1 justify-center items-center`}
       >
         <div className="mt-60 flex flex-1 flex-col justify-center items-center">
-        <Loader color="blue" size="xl"/>
+          <Loader color="blue" size="xl" />
+          <p className="text-center text-white mt-4">
+            Spinning Up The Server..
+          </p>
+          <p className="text-center text-white">
+            (It's a free-tier heroku deployment so cut me a little slack)
+          </p>
         </div>
       </div>
     );
