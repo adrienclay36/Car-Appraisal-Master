@@ -13,8 +13,6 @@ const Navbar = (props) => {
   const toggleMenu = () => {
     setIsOpen(!isOpen);
     setIsInitial(false);
-
- 
   };
   return (
     <div>
@@ -24,20 +22,34 @@ const Navbar = (props) => {
         } flex flex-col items-center py-4 ${props.marginTop && "sm:mt-12"}`}
       >
         <div className="mt-8">
-          <p className="text-white text-3xl lg:text-5xl md:text-3xl font-extrabold">pricepoint.</p>
+          <p className="text-white text-3xl lg:text-5xl md:text-3xl font-extrabold">
+            pricepoint.
+          </p>
         </div>
         <ul
           className={`hidden sm:flex flex-1 flex-wrap lg:flex-nowrap md:flex-wrap justify-center items-center gap-6 lg:gap-10 md:gap-6 uppercase text-sm mt-8 text-semibold overflow-hidden ${props.textColor}`}
         >
           {navLinks.map((link, index) => {
+
+            if(link.external){
+              return (
+                <a href={link.href} rel="noreferrer" target="_blank">
+                  <li
+                    className={`mb-2 cursor-pointer tracking-widest text-white font-semibold text-md lg:text-xl md:text-lg hover:text-slate-100 text-center ${styles.navHover}`}
+                  >
+                    {link.text}
+                  </li>
+                </a>
+              );
+            }
             return (
               <Link key={index} to={link.href}>
-              <li
-                className={`mb-2 cursor-pointer tracking-widest text-white font-semibold text-md lg:text-xl md:text-lg hover:text-slate-100 text-center ${styles.navHover}`}
+                <li
+                  className={`mb-2 cursor-pointer tracking-widest text-white font-semibold text-md lg:text-xl md:text-lg hover:text-slate-100 text-center ${styles.navHover}`}
                 >
-                {link.text}
-              </li>
-                </Link>
+                  {link.text}
+                </li>
+              </Link>
             );
           })}
         </ul>
@@ -69,17 +81,21 @@ export const navLinks = [
   {
     text: "Home",
     href: "/",
+    external: false,
   },
   {
     text: "Evaluator",
     href: "/evaluator",
+    external: false,
   },
   {
     text: "About",
-    href: "/blog",
+    href: "/about",
+    external: false,
   },
   {
     text: "Github",
-    href: "/blog",
+    href: "https://github.com/adrienclay36?tab=repositories",
+    external: true,
   },
 ];

@@ -14,7 +14,10 @@ const Results = () => {
 
     const getPredictions = async () => {
         setLoading(true);
-        const response = await axios.post('http://localhost:5000/evaluate', surveyContext.selectedValues);
+        const response = await axios.post(
+          "https://pricepoint-server.herokuapp.com/evaluate",
+          surveyContext.selectedValues
+        );
         console.log(response.data)
         console.log(response.data.prediction);
         if(response.data?.status === "200"){
