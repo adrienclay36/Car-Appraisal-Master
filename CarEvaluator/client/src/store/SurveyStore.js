@@ -232,6 +232,7 @@ const SurveyContextProvider = (props) => {
       
     }
     setIndex(0);
+    setFormComplete(false);
     setSelectedValues({});
     setLoadingPrediction(false);
   }
