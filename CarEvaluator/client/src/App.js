@@ -26,29 +26,29 @@ function App() {
     startServer();
   }, []);
 
-  // if (loadingServer) {
-  //   return (
-  //     <div
-  //       className={`bg-gradient-to-b from-slate-300 to-slate-500 w-screen h-screen overflow-scroll scrollHide flex-1 justify-center items-center`}
-  //     >
-  //       <div className="mt-60 flex flex-1 flex-col justify-center items-center">
-  //         <img
-  //           src={logo}
-  //           alt="PricePoint Logo"
-  //           width={300}
-  //           height={300}
-  //           className="logoAnimation"
-  //         />
-  //         <p className="text-center text-white mt-4">
-  //           Spinning Up The Server..
-  //         </p>
-  //         <p className="text-center text-white">
-  //           (It's a free-tier heroku deployment so cut me a little slack)
-  //         </p>
-  //       </div>
-  //     </div>
-  //   );
-  // }
+  if (loadingServer) {
+    return (
+      <div
+        className={`bg-gradient-to-b from-slate-300 to-slate-500 w-screen h-screen overflow-scroll scrollHide flex-1 justify-center items-center`}
+      >
+        <div className="mt-60 flex flex-1 flex-col justify-center items-center">
+          <img
+            src={logo}
+            alt="PricePoint Logo"
+            width={300}
+            height={300}
+            className="logoAnimation"
+          />
+          <p className="text-center text-white mt-4">
+            Spinning Up The Server..
+          </p>
+          <p className="text-center text-white">
+            (It's a free-tier heroku deployment so cut me a little slack)
+          </p>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <>
